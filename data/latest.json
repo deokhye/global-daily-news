@@ -1,0 +1,77 @@
+{
+  "generated_at": "2026-09-04T16:09:37.708868+09:00",
+  "generated_at_display": "2026-09-04 16:09 KST",
+  "exchange_rate": {
+    "current_rate": 1350.9300537109375,
+    "source": "Yahoo Finance",
+    "change_pct": -0.55,
+    "history_labels": [
+      "10월",
+      "11월",
+      "12월",
+      "1월",
+      "2월",
+      "3월",
+      "4월",
+      "5월",
+      "6월",
+      "7월",
+      "8월",
+      "9월"
+    ],
+    "history_values": [
+      1424.02,
+      1466.13,
+      1437.91,
+      1449.7,
+      1432.32,
+      1516.13,
+      1487.38,
+      1505.96,
+      1541.73,
+      1420.6,
+      1377.11,
+      1350.93
+    ]
+  },
+  "headlines": [
+    {
+      "category": "POLITICS",
+      "color": "blue",
+      "source": "The New York Times",
+      "title": "Whistle-Blower Says Trump Officials Are Defying Court Orders on Voting by Mail - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQS3FmOWxOTDFkbS1Wa0NNUXFsc0VLd050blQtdEk4UUNBUkZOOEQ3VDB1dXF0T08yODdtUnhvRldWWXdvYWJ6MmVEUFZTaHdndlhWNjM0RUFObk9jczVybTJBbm5iZnhCTXV5MWtaMVltOUJVbDk5dU5rZGFEX0Z5OE8tSU0wTTRj?oc=5"
+    },
+    {
+      "category": "ECONOMY",
+      "color": "green",
+      "source": "CNBC",
+      "title": "Trump says U.S. growth could hit 20%. It’s happened only once since WWII - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYXh4bks3VlM2dUtucmhpMHpUcWJYdmdJNENVUzNiaXg3UEZNZG50YU9qWmpxRl8wdHBhenA1VHl3QjNFU0R2c2JyZHhUOVBRSmFNM3c0a3JkV0NhNXFRa2lTeVBEbGpSUFQ4aEJJYnc0VG1hMlVwcE5sWm9oM1F0RNIBhgFBVV95cUxPSkRPZjZrS2Z3c01FRlhvQXdXQ01KcXBxaFBMaC1lSjI4Nk80ZU1mNmZ5VTJKSWZQdlRSUmRXMGY5UnhpUEFXa2Y4d3hrTkVCdWpmVENkelFNOGk3NVhiWldDWGVnb3ZIUGtuYy01RUdmMUU3UEc4QkxMR25hbERtQW9YdlZzQQ?oc=5"
+    },
+    {
+      "category": "ENVIRON",
+      "color": "orange",
+      "source": "NRDC",
+      "title": "White House Watch: Tracking Attacks on Our Environment & Health - NRDC",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeXRXT1ZGdUF0S2NRNkhWR0cyRjBreExxaWtDMDdvUEZ6RTdSUTBwaTRyQWxaTVVMTTlUaS1nREJvMlVGM2RsX1d3U19nT3h0MG8xeDZlVUR5ZWZPYlVGeWpQRjZKVU54Sm96MjZ3MGFXYk00ZC1vZUk3WmVSS3FkTVpkM2RJRE0zQ1BaYVNiVDZUUQ?oc=5"
+    }
+  ],
+  "hr_trends": [
+    {
+      "tag": "지역 노동시장",
+      "color": "teal",
+      "title": "Tennessee unemployment r…",
+      "desc": "Tennessee unemployment rate drops to 3.4%, a 2-year low",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQ04tQ045WURJNER3Y2wwNWZTZXU1ekNRbjJmbVAzRUxDcUtnUGhQeGJKdHBjb2xLUUJybmhON2s1MDM5Y2l4NHN1MUxIX3RnNk40ajNUVlpEcmdmcXZaWERkRlpTNEJGVmZUYXVLQmxoT01vd0RJZWZaUmJfLWxUdUlvc3EwUVJBMWcwVXo0TjY?oc=5"
+    }
+  ],
+  "country_profile": {
+    "capital": "Washington, D.C.",
+    "min_wage": "$7.25/h",
+    "population": "약 3.42억 명",
+    "gdp": "약 30.8조 USD",
+    "inflation": "2.9%",
+    "unemployment": "4.2%"
+  }
+}
