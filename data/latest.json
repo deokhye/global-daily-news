@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-05T07:47:12.056815+09:00",
-  "generated_at_display": "2026-09-05 07:47 KST",
+  "generated_at": "2026-09-06T07:38:48.654331+09:00",
+  "generated_at_display": "2026-09-06 07:38 KST",
   "exchange_rate": {
-    "current_rate": 1345.989990234375,
+    "current_rate": 1351.0999755859375,
     "source": "Yahoo Finance",
-    "change_pct": -0.91,
+    "change_pct": -0.32,
     "history_labels": [
       "10월",
       "11월",
@@ -31,39 +31,39 @@
       1541.73,
       1420.6,
       1377.11,
-      1345.99
+      1351.1
     ]
   },
   "headlines": [
     {
       "category": "POLITICS",
       "color": "blue",
-      "source": "The Guardian",
-      "title": "Trump downplays war with Iran, in which 18 US service members have been killed so far, as ‘small potatoes’ – live - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOUlJfNWpTQVVXTTNVazVRcXF4SkRxWmFQRUV5amF4Z2Z3QkdoZmhUMnczc2hUNUI0TkVVMXJYRHNCeURKbXVQTEhhZDhfWDgxXy1GMjRSR3pwUnZZRThXWjdNaGRkM3BuaU0tZURoWjJpMnprRk9najlDSWU4aVlFd3p6S1NESVp3d3dYMHJXZjVzU3BySXdkSWMyeGZ5UkVRYXN5Z1lxOXNEeXo3azVvXzNjTm1zNWdIV1EtQmdwOGVBVldjZkhvbEFkRGdpM25JRlA5T3J6bVo4MzE3cmZ6UEJwUHRwOGM0c2JyQUxJZ0doWUswNklNRmhvMEZsZlJGblE2VA?oc=5"
+      "source": "The London School of Economics and Political Science",
+      "title": "Thirty years after welfare reform, the Trump administration is starving the poor into work - The London School of Economics and Political Science",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVkxlQ1NpVmVWNG5kb3NyV0xja2RuTVhvUnNZUFRnNjBXUTR2VGZmV19yOGdTVDUyLVZsTzBDYTRUT3l2dkxaUE1CcXFmbUpvVmVUQ0JfTVpzZWJobnRpTkUtOUFxQWdQMEtreHhneGNUanFPQk5UaDljWHBFSWhCQXpxeU04RGp2WndqNg?oc=5"
     },
     {
       "category": "ECONOMY",
       "color": "green",
-      "source": "The Washington Post",
-      "title": "Here’s why wages are falling behind inflation, an economic warning sign - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYXMyTVFzaXpSUEZfd2JiMUxIa1FaTWFyalE1WUJtejVvX0RzNURQcGhxNllPQTdKR096dzJ4c3gxdE9SMVB3SUlUbXJ5STV4amtmdUF2OWl1b29rUkNnSzQtSzB1TDM1ZUdqTG1jWmRIV2FGbmM4dUdJUUhDVFlHU2g0azBoMEpHMTZYR3E2V1ZmUExEYlZOTkgyWGVZNXJfQWJ6NV9yNkFuVmp2Ym9CZ0pka1c5OHp0QzhXQ1RodWVMUQ?oc=5"
+      "source": "The New York Times",
+      "title": "U.S. Hiring Jumps, an Encouraging Sign for the Economy - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1uWnNDV3Q2ZXZINW9nT3FBQ1ktcUxBQ2ZIazNtN3JIYU4yaWJHWnJWQm83UlpyR3N1N0JkWk56b0JEWTFub1YwdmNDeUpLTlh4dVQtLUduY19QZDB6T1M1RFB1dXcyNlJJaktzVE5MdXMwVWFzN1lZ?oc=5"
     },
     {
       "category": "ENVIRON",
       "color": "orange",
-      "source": "Nature",
-      "title": "Carbon emissions exacerbating the Western US water crisis | Communications Earth & Environment - Nature",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE53X0MyZGhod2VEVVZpYXB0NjdDaWdGemF6Tk84SWxRQ1dHdzJBQkZyU0Q0YUhhN2dRVzJ3NFlwcDNxT185ZDlyZzZkY1poVXJleUc3b1p3eEd1Ukt0dGpV?oc=5"
+      "source": "Source ONE News",
+      "title": "Solar Megaproject Planned Above Electric City Draws Environmental Concerns - Source ONE News",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQRFJ4TjlqMEtJZlBkcDhKbWNuN01nMjVYc0w2VVdJZlFaZVZDaF9SWXAtQXQzOFI1SlhYMVYzRURmbU9CTmZaeWR5alFjS2dXY19aaFFMMm1pNnZqdjlVdjB5dGhEa1lSRmVtUXFTdERtbDZzemNMaVBidmhETUwxMEx2NVNmbXNpOVZZTE9uc0VwV2d3MVQ2NU50VG9lVW0zRXJ4OC14REM0dVhDNmQwX3VhNWhHeUVXcjVIeXNjbDNUeEloQUJLby1QTFpIZTdOZ1RWaUNHMlZTRlVtZ2t0ZkhQaVZ5RGVSZTlvZnc4MzRzU0ZWMHVUTmVCOUhhZw?oc=5"
     }
   ],
   "hr_trends": [
     {
       "tag": "지역 노동시장",
       "color": "teal",
-      "title": "Tennessee unemployment r…",
-      "desc": "Tennessee unemployment rate drops to 3.4%, a 2-year low",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQ04tQ045WURJNER3Y2wwNWZTZXU1ekNRbjJmbVAzRUxDcUtnUGhQeGJKdHBjb2xLUUJybmhON2s1MDM5Y2l4NHN1MUxIX3RnNk40ajNUVlpEcmdmcXZaWERkRlpTNEJGVmZUYXVLQmxoT01vd0RJZWZaUmJfLWxUdUlvc3EwUVJBMWcwVXo0TjY?oc=5"
+      "title": "Statewide Unemployment H…",
+      "desc": "Statewide Unemployment Holds Firm for Fourth Straight Month",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRVhSTWxkbnllOGVudGVqdlFhckJyOWVnSF83WHNkZzlsMlVZZmxGeUFKanJ2dktyTkxoMTk5X2czdHFuNWMwcnVLUnRBLVZxbl9odENqVUMyeFBCQmJONHlIc0V0WEQyMWpNYm9mOFRoSDBQbTYwNFVQRDZNd19BZFB1YWN0T2tnNzlleUFHcUk2R1Ntb1NNS1JRSFBQYzM3V1RuVjRDUlBzeEpPVy05Z1JPbkdVN1hhZkN5eG9GM0VYcmhN?oc=5"
     }
   ],
   "country_profile": {
