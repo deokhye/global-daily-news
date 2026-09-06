@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-06T07:38:48.654331+09:00",
-  "generated_at_display": "2026-09-06 07:38 KST",
+  "generated_at": "2026-09-07T07:42:08.872163+09:00",
+  "generated_at_display": "2026-09-07 07:42 KST",
   "exchange_rate": {
-    "current_rate": 1351.0999755859375,
+    "current_rate": 1345.510009765625,
     "source": "Yahoo Finance",
-    "change_pct": -0.32,
+    "change_pct": -0.73,
     "history_labels": [
       "10월",
       "11월",
@@ -31,39 +31,39 @@
       1541.73,
       1420.6,
       1377.11,
-      1351.1
+      1345.51
     ]
   },
   "headlines": [
     {
       "category": "POLITICS",
       "color": "blue",
-      "source": "The London School of Economics and Political Science",
-      "title": "Thirty years after welfare reform, the Trump administration is starving the poor into work - The London School of Economics and Political Science",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVkxlQ1NpVmVWNG5kb3NyV0xja2RuTVhvUnNZUFRnNjBXUTR2VGZmV19yOGdTVDUyLVZsTzBDYTRUT3l2dkxaUE1CcXFmbUpvVmVUQ0JfTVpzZWJobnRpTkUtOUFxQWdQMEtreHhneGNUanFPQk5UaDljWHBFSWhCQXpxeU04RGp2WndqNg?oc=5"
+      "source": "WTOP News",
+      "title": "A whiplash election year enters its final stretch as Trump holds wild cards - WTOP News",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdXE3eWNVNmlOQzhaTnRPajZhXzZQdzNGdTd4UEF6RjF4OHNwZmstaUZHWHhjSExROExUYWxMT001VFJkdG52OG5ydXZKZGJDTWdWNHdKNWRzZ3VvS3p0VHpaY3BJZkNETG1SRDRJQnBMY2hDa01TT2E2a3Z5eVdlOWcza1RtaVk3RFM4M3lzb3FHczdBWmNzZkdRR1pxWVBvalltYllxUUJ5dUtLZHpkX1luSQ?oc=5"
     },
     {
       "category": "ECONOMY",
       "color": "green",
-      "source": "The New York Times",
-      "title": "U.S. Hiring Jumps, an Encouraging Sign for the Economy - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1uWnNDV3Q2ZXZINW9nT3FBQ1ktcUxBQ2ZIazNtN3JIYU4yaWJHWnJWQm83UlpyR3N1N0JkWk56b0JEWTFub1YwdmNDeUpLTlh4dVQtLUduY19QZDB6T1M1RFB1dXcyNlJJaktzVE5MdXMwVWFzN1lZ?oc=5"
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "title": "What could the US-Iran ceasefire mean for inflation, jobs? - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTG9mUzk2Yk5FS1FlNU93NnNJRWo3dnZicGdjbU5IQ0ZhN21jSnRUWm8tVWJDV1JSaW9FZzd5eHFKQ2tlRHZ1X1h3WnY0bWdKVEh4ZS1jZFZSc1B6S0V0ZERjNnFqMHZHOUNPaWljWkR2Z0xuVHhpb1FxMGhHZ3Z5eEV2VGNwR2_SAYwBQVVfeXFMTUJiQ2MzNG9xendob0NOVTdmeEhrcnFCNVFodWpfc04zQ0VkS1h4aXZ4Z1VmV0c2MjFpN3hZdUtVbVFQN3NtWEU4T1VlemZHODlpYW5qeTlLMElpTUJUZG9ZU1BCT3l6VnliNG1ETE5PMWhsLWE5ME15ZWpncmpLcEV2MjduTEhjRGJhT1M?oc=5"
     },
     {
       "category": "ENVIRON",
       "color": "orange",
-      "source": "Source ONE News",
-      "title": "Solar Megaproject Planned Above Electric City Draws Environmental Concerns - Source ONE News",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQRFJ4TjlqMEtJZlBkcDhKbWNuN01nMjVYc0w2VVdJZlFaZVZDaF9SWXAtQXQzOFI1SlhYMVYzRURmbU9CTmZaeWR5alFjS2dXY19aaFFMMm1pNnZqdjlVdjB5dGhEa1lSRmVtUXFTdERtbDZzemNMaVBidmhETUwxMEx2NVNmbXNpOVZZTE9uc0VwV2d3MVQ2NU50VG9lVW0zRXJ4OC14REM0dVhDNmQwX3VhNWhHeUVXcjVIeXNjbDNUeEloQUJLby1QTFpIZTdOZ1RWaUNHMlZTRlVtZ2t0ZkhQaVZ5RGVSZTlvZnc4MzRzU0ZWMHVUTmVCOUhhZw?oc=5"
+      "source": "Nature",
+      "title": "Carbon emissions exacerbating the Western US water crisis | Communications Earth & Environment - Nature",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE53X0MyZGhod2VEVVZpYXB0NjdDaWdGemF6Tk84SWxRQ1dHdzJBQkZyU0Q0YUhhN2dRVzJ3NFlwcDNxT185ZDlyZzZkY1poVXJleUc3b1p3eEd1Ukt0dGpV?oc=5"
     }
   ],
   "hr_trends": [
     {
       "tag": "지역 노동시장",
       "color": "teal",
-      "title": "Statewide Unemployment H…",
-      "desc": "Statewide Unemployment Holds Firm for Fourth Straight Month",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRVhSTWxkbnllOGVudGVqdlFhckJyOWVnSF83WHNkZzlsMlVZZmxGeUFKanJ2dktyTkxoMTk5X2czdHFuNWMwcnVLUnRBLVZxbl9odENqVUMyeFBCQmJONHlIc0V0WEQyMWpNYm9mOFRoSDBQbTYwNFVQRDZNd19BZFB1YWN0T2tnNzlleUFHcUk2R1Ntb1NNS1JRSFBQYzM3V1RuVjRDUlBzeEpPVy05Z1JPbkdVN1hhZkN5eG9GM0VYcmhN?oc=5"
+      "title": "Tennessee Unemployment R…",
+      "desc": "Tennessee Unemployment Rate Falls to Two-Year Low of 3.4%",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOTJvaDcxRW5aaGVwOWR5WEh6WVlWWFRKbUdwV2Z4MERMWkx4cEMwTC1pb1FmY1ktT2tOSFFTaUxYYjJmY2xWYzgyY0hINFRyQWxqYURsT1Q1VHpPTGVBNHc4bm9xYWVMYkkzOXlEQzVwb09Ib0s4dWpMZHp2eDJiN055UXZzUi1PMjM5bURMTEdnSTZHZlUyR09WTW9rTDJzLVFWZFByeDREdGpQRFpNM2kxcmx2ZFRqWGNKZHNnQy0?oc=5"
     }
   ],
   "country_profile": {
