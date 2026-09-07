@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-07T07:42:08.872163+09:00",
-  "generated_at_display": "2026-09-07 07:42 KST",
+  "generated_at": "2026-09-08T08:17:25.985037+09:00",
+  "generated_at_display": "2026-09-08 08:17 KST",
   "exchange_rate": {
-    "current_rate": 1345.510009765625,
+    "current_rate": 1344.780029296875,
     "source": "Yahoo Finance",
-    "change_pct": -0.73,
+    "change_pct": -0.02,
     "history_labels": [
       "10월",
       "11월",
@@ -31,16 +31,16 @@
       1541.73,
       1420.6,
       1377.11,
-      1345.51
+      1344.78
     ]
   },
   "headlines": [
     {
       "category": "POLITICS",
       "color": "blue",
-      "source": "WTOP News",
-      "title": "A whiplash election year enters its final stretch as Trump holds wild cards - WTOP News",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdXE3eWNVNmlOQzhaTnRPajZhXzZQdzNGdTd4UEF6RjF4OHNwZmstaUZHWHhjSExROExUYWxMT001VFJkdG52OG5ydXZKZGJDTWdWNHdKNWRzZ3VvS3p0VHpaY3BJZkNETG1SRDRJQnBMY2hDa01TT2E2a3Z5eVdlOWcza1RtaVk3RFM4M3lzb3FHczdBWmNzZkdRR1pxWVBvalltYllxUUJ5dUtLZHpkX1luSQ?oc=5"
+      "source": "The New York Times",
+      "title": "Trump Floats Renaming New Mexico as ‘New America,’ Prompting Pushback - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSmdaR2hQQXBZQ2xLbWw4d1hLaW1ucTdTT1owQlhIYnkwRnc5eTFHR3J6QkdOTkYwX1R1bE1vUmY2RHh0b3Ffbk9vR3E0R280MnphMG5EQ3VyTHlaSjl6c05HbXlWRURaa2JSR2ZRZUhGR3NQNUtmdE1QVDJiVHl0Sw?oc=5"
     },
     {
       "category": "ECONOMY",
