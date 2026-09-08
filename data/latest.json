@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-08T08:17:25.985037+09:00",
-  "generated_at_display": "2026-09-08 08:17 KST",
+  "generated_at": "2026-09-09T08:12:19.746876+09:00",
+  "generated_at_display": "2026-09-09 08:12 KST",
   "exchange_rate": {
-    "current_rate": 1344.780029296875,
+    "current_rate": 1340.5699462890625,
     "source": "Yahoo Finance",
-    "change_pct": -0.02,
+    "change_pct": -0.22,
     "history_labels": [
       "10월",
       "11월",
@@ -31,7 +31,7 @@
       1541.73,
       1420.6,
       1377.11,
-      1344.78
+      1340.57
     ]
   },
   "headlines": [
@@ -39,7 +39,7 @@
       "category": "POLITICS",
       "color": "blue",
       "source": "The New York Times",
-      "title": "Trump Floats Renaming New Mexico as ‘New America,’ Prompting Pushback - The New York Times",
+      "title": "Trump Posts Map Suggesting New Mexico Be Renamed as ‘New America’ - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSmdaR2hQQXBZQ2xLbWw4d1hLaW1ucTdTT1owQlhIYnkwRnc5eTFHR3J6QkdOTkYwX1R1bE1vUmY2RHh0b3Ffbk9vR3E0R280MnphMG5EQ3VyTHlaSjl6c05HbXlWRURaa2JSR2ZRZUhGR3NQNUtmdE1QVDJiVHl0Sw?oc=5"
     },
     {
