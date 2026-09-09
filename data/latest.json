@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-09T08:12:19.746876+09:00",
-  "generated_at_display": "2026-09-09 08:12 KST",
+  "generated_at": "2026-09-10T07:56:30.909162+09:00",
+  "generated_at_display": "2026-09-10 07:56 KST",
   "exchange_rate": {
-    "current_rate": 1340.5699462890625,
+    "current_rate": 1339.3900146484375,
     "source": "Yahoo Finance",
-    "change_pct": -0.22,
+    "change_pct": -0.31,
     "history_labels": [
       "10월",
       "11월",
@@ -31,23 +31,23 @@
       1541.73,
       1420.6,
       1377.11,
-      1340.57
+      1339.39
     ]
   },
   "headlines": [
     {
       "category": "POLITICS",
       "color": "blue",
-      "source": "The New York Times",
-      "title": "Trump Posts Map Suggesting New Mexico Be Renamed as ‘New America’ - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSmdaR2hQQXBZQ2xLbWw4d1hLaW1ucTdTT1owQlhIYnkwRnc5eTFHR3J6QkdOTkYwX1R1bE1vUmY2RHh0b3Ffbk9vR3E0R280MnphMG5EQ3VyTHlaSjl6c05HbXlWRURaa2JSR2ZRZUhGR3NQNUtmdE1QVDJiVHl0Sw?oc=5"
+      "source": "The Guardian",
+      "title": "US supreme court rejects Missouri Republicans’ appeal to use Trump-backed congressional map in midterms – as it happened - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQ3Jod09LY3lqVlpJWE5BQ0RMRzNIWC1yRW12U3RJbUlsaTVjNEo2Rjl3M2NaZ0VDQnRWS3o2UVJ6R3pIdEdLdGZZeTY2QTFualg2S0E0TWZ6QnQzamVZZ0tmcGt4RTMzMS1FaUlHYVlzamkzWXF6ODdMWUx4Umt5X2U1X3RmSTZ3aXRKRmgyc0Z2QWJUQXlKOW5qeFZvbV9QMTU4aU5kaldsRnJwTHlaZFNyVUY2SzktSEwzampFSGZxS2VjWkFMU1hvRHA0aHBYQWJ3WTlWU0EyZ2Nyc0E?oc=5"
     },
     {
       "category": "ECONOMY",
       "color": "green",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "title": "What could the US-Iran ceasefire mean for inflation, jobs? - ABC News - Breaking News, Latest News and Videos",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTG9mUzk2Yk5FS1FlNU93NnNJRWo3dnZicGdjbU5IQ0ZhN21jSnRUWm8tVWJDV1JSaW9FZzd5eHFKQ2tlRHZ1X1h3WnY0bWdKVEh4ZS1jZFZSc1B6S0V0ZERjNnFqMHZHOUNPaWljWkR2Z0xuVHhpb1FxMGhHZ3Z5eEV2VGNwR2_SAYwBQVVfeXFMTUJiQ2MzNG9xendob0NOVTdmeEhrcnFCNVFodWpfc04zQ0VkS1h4aXZ4Z1VmV0c2MjFpN3hZdUtVbVFQN3NtWEU4T1VlemZHODlpYW5qeTlLMElpTUJUZG9ZU1BCT3l6VnliNG1ETE5PMWhsLWE5ME15ZWpncmpLcEV2MjduTEhjRGJhT1M?oc=5"
+      "source": "Haver Analytics",
+      "title": "The End of Painless Disinflation - Haver Analytics",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4xb09nNFlWWFZBNnpYOUdoTHlHdjE1Z1l4a3ljaElHT0V4V0JFdnJpeFdlNWhMVWpxT01QUnVCNXg1ckI3NXduUlZrMWdkUlVrVlJYeFNHMWt5czJ5Rlp6aTNTTFNLT0lzWllHUURlODU?oc=5"
     },
     {
       "category": "ENVIRON",
