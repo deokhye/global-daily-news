@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-11T07:56:29.386551+09:00",
-  "generated_at_display": "2026-09-11 07:56 KST",
+  "generated_at": "2026-09-12T07:58:57.350348+09:00",
+  "generated_at_display": "2026-09-12 07:58 KST",
   "exchange_rate": {
-    "current_rate": 1349.1800537109375,
+    "current_rate": 1341.050048828125,
     "source": "Yahoo Finance",
-    "change_pct": 0.74,
+    "change_pct": 0.14,
     "history_labels": [
       "10월",
       "11월",
@@ -31,7 +31,7 @@
       1541.73,
       1420.6,
       1377.11,
-      1349.18
+      1341.05
     ]
   },
   "headlines": [
@@ -39,22 +39,22 @@
       "category": "POLITICS",
       "color": "blue",
       "source": "The New York Times",
-      "title": "Trump Floats $5,000 ‘Trump Dividend’ Checks if Republicans Win the Midterms - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWjc4bFh6OVRqT3VWTzlwUlBwMWlXc3BVbHFLTUFZdWpJSy15ZHluaTRqaDQ1eGNoUDRXU05IUFZMRmtrV0wtZUZwNHo0aG0wZ2tmQlhRd25pSTRkM1pQZW1JR3Y2cThMcFhCTy1QQzgtX2RWNjhRMnNCZlJHM3IyOE9pTlFVMXlNSTQxdk5n?oc=5"
+      "title": "Trump’s Grand Midterm Convention Finale: ‘I’m a Little Bit Tired of Politics’ - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNkJfV1lEdVptZTBaTUczNmlnNS14Zm9iMGlJTUFldnpxOXpmMjRZRHlIY191NHIzc29oQThBdHlrRk5YQ1d4OU52eXJPbFJQbU1USDk3UW4yY29ibndMQ1FTMlM1bV82RVFDRHQ0UFFseVl1UDJCYUVUVzlfMm5CWVNNTElnT2o2U29CVXBjR3RUVEZHYl9TbA?oc=5"
     },
     {
       "category": "ECONOMY",
       "color": "green",
-      "source": "CNN",
-      "title": "Wholesale inflation picked up in August, as energy costs kept rising - CNN",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBwRzBoMm96TDB5Y0tSQUZaaG1iZktfNjJXNkg3cVlQS0c4djlxUEk0eUtBTE1rOXNhZUlUTGljNVZoM1l5Xy1Ud3h5dmpDdVZxbkVKWFJKb1pxTE04aHlZOGk1eTYxLWZRdVVWZVVxT0tkT3hPaG9zMHJSR20?oc=5"
+      "source": "NBC News",
+      "title": "Inflation ticked up in August, setting the stage for the Fed to hike interest rates - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWm44cERNRk96Tm5Mc3JwMzZKLUJFYzctbDFTLUZqRFJRbTM2N1hjOXIzZzlFWnJtSlFRcDRZZzhjQWQyM1lyR0ZHSUhJLTJ2Z3JiVG84d0E3d25IYndacXR4MHllaGtCTUhYNUhZT0xiTjdJZ0NNa2gtZGZ0d3ZTUmowQ0R1RGxnRUVGMzZodlo1X2txUk5PeUZjSjBOUQ?oc=5"
     },
     {
       "category": "ENVIRON",
       "color": "orange",
-      "source": "The Washington Post",
-      "title": "The U.S. just saw its warmest summer on record. See where extreme heat dominated. - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWXFZRVF4dXltV3NIcEJERWVZZTBGWnVKQ0JVaVQ1UzM4eThJQVRnY0FNRGNSdExXX3ZsSFd1VHh0Y1d5NHphb1NFQ3dnTzBtLUNJVGFrSHdwakx6WHFPcmJORDFWQXZaUkRJRjJUVHJ4SDV6bTBKUWNYTXkzeFFrQU1jYk4zUGc5ZjJSVHpzQ25BRENlS1hEVEFaaUVyQk5pTXBhcWQxQ1d5TjJpS19UeFFyODNNYmJYZkNYb25vTjdRbTR2YV9FOE9WdDg2UQ?oc=5"
+      "source": "Nature",
+      "title": "Carbon emissions exacerbating the Western US water crisis | Communications Earth & Environment - Nature",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE53X0MyZGhod2VEVVZpYXB0NjdDaWdGemF6Tk84SWxRQ1dHdzJBQkZyU0Q0YUhhN2dRVzJ3NFlwcDNxT185ZDlyZzZkY1poVXJleUc3b1p3eEd1Ukt0dGpV?oc=5"
     }
   ],
   "hr_trends": [
