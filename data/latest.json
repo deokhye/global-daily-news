@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-12T07:58:57.350348+09:00",
-  "generated_at_display": "2026-09-12 07:58 KST",
+  "generated_at": "2026-09-13T07:51:00.760808+09:00",
+  "generated_at_display": "2026-09-13 07:51 KST",
   "exchange_rate": {
     "current_rate": 1341.050048828125,
     "source": "Yahoo Finance",
-    "change_pct": 0.14,
+    "change_pct": -0.53,
     "history_labels": [
       "10월",
       "11월",
@@ -52,18 +52,18 @@
     {
       "category": "ENVIRON",
       "color": "orange",
-      "source": "Nature",
-      "title": "Carbon emissions exacerbating the Western US water crisis | Communications Earth & Environment - Nature",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE53X0MyZGhod2VEVVZpYXB0NjdDaWdGemF6Tk84SWxRQ1dHdzJBQkZyU0Q0YUhhN2dRVzJ3NFlwcDNxT185ZDlyZzZkY1poVXJleUc3b1p3eEd1Ukt0dGpV?oc=5"
+      "source": "Department of Energy (.gov)",
+      "title": "OCED's Guide to NEPA - Department of Energy (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1IY0ZtbEZZMkx1ZGpicjhGREZCcVFOSEsyZmxjWUpuQ2dmQUF4LTVReDdvc0o0S1JFeUtuVkFVelA4TGxsaVE1R1VKUmo0MEt5NXdIV1lmcW92WlRqa2c?oc=5"
     }
   ],
   "hr_trends": [
     {
       "tag": "지역 노동시장",
       "color": "teal",
-      "title": "Tennessee Unemployment R…",
-      "desc": "Tennessee Unemployment Rate Falls to Two-Year Low of 3.4%",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOTJvaDcxRW5aaGVwOWR5WEh6WVlWWFRKbUdwV2Z4MERMWkx4cEMwTC1pb1FmY1ktT2tOSFFTaUxYYjJmY2xWYzgyY0hINFRyQWxqYURsT1Q1VHpPTGVBNHc4bm9xYWVMYkkzOXlEQzVwb09Ib0s4dWpMZHp2eDJiN055UXZzUi1PMjM5bURMTEdnSTZHZlUyR09WTW9rTDJzLVFWZFByeDREdGpQRFpNM2kxcmx2ZFRqWGNKZHNnQy0?oc=5"
+      "title": "Tennessee unemployment r…",
+      "desc": "Tennessee unemployment rate drops to 3.4%, a 2-year low",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPeVl1SUt0WHl1ZjZNRWM3d0ltblU4b2thakl0cGhfRFhIaFpBRjc3c3FyTlVldDZDYktYSUFITElNYnY3UjFBNzZIZ196Z2xSeFhXNjhRaENVaWZQbzFYYjF3aG81RngtZ3FkQW4zOUxTZ2FfZlVKNERWRXBDVDVORWlCaFBNSGphLW11NTU2MTg?oc=5"
     }
   ],
   "country_profile": {
