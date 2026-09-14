@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-14T07:53:36.399284+09:00",
-  "generated_at_display": "2026-09-14 07:53 KST",
+  "generated_at": "2026-09-15T08:41:50.661007+09:00",
+  "generated_at_display": "2026-09-15 08:41 KST",
   "exchange_rate": {
-    "current_rate": 1342.969970703125,
+    "current_rate": 1347.199951171875,
     "source": "Yahoo Finance",
-    "change_pct": -0.39,
+    "change_pct": 0.19,
     "history_labels": [
       "10월",
       "11월",
@@ -31,39 +31,39 @@
       1541.73,
       1420.6,
       1377.11,
-      1342.97
+      1347.2
     ]
   },
   "headlines": [
     {
       "category": "POLITICS",
       "color": "blue",
-      "source": "The New York Times",
-      "title": "Trump’s Grand Midterm Convention Finale: ‘I’m a Little Bit Tired of Politics’ - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNkJfV1lEdVptZTBaTUczNmlnNS14Zm9iMGlJTUFldnpxOXpmMjRZRHlIY191NHIzc29oQThBdHlrRk5YQ1d4OU52eXJPbFJQbU1USDk3UW4yY29ibndMQ1FTMlM1bV82RVFDRHQ0UFFseVl1UDJCYUVUVzlfMm5CWVNNTElnT2o2U29CVXBjR3RUVEZHYl9TbA?oc=5"
+      "source": "The Guardian",
+      "title": "Trump says he would ‘love’ to see unified Ireland and ‘it may as well happen now’ as he visits Dublin – as it happened - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQV19PMnhKcjZnWmFrYnFIMGhKcXhJZzhXYUtmbk5tWWNHNlgtT3N1elJaRERZYkNOQzZqejdwZlhuMXQ0eTVSVVdNeDBYSVBfMHQtd0tYeTJDYjhfVzJRYkNGeGtVS1lDV2tYbFNaSE5fN25uQkJRQWxVNXlnVlh5WE1uekIzSXNYOE5ZRks0RGRaSFF6dlhvaVFOVXc0SlZsbUhVNEZYbnlPYTFUOHYzbWl6QWcwQkt2R1RPeUtPc0RJQTJjcnpRTg?oc=5"
     },
     {
       "category": "ECONOMY",
       "color": "green",
-      "source": "Jacobin",
-      "title": "Economics Needs a New Approach to Inflation - Jacobin",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1BS0JtRWFWWFQ2UjRQTjd0aVQtaFYzZDUyRGhTc3AxQklEZ1pHYkp0N00wckw1OVA3ZjN6NWdzSmtraDYwWW1WeUVsclhMVTNWN3RraDI3NEZ0Ukw3endUZm5RclI4aWRRWlR6SlpwU0pBZG81NG45ZnlVWDJSNVk?oc=5"
+      "source": "NerdWallet",
+      "title": "Current U.S. Inflation Rate Is 3.4%: Chart and Why It Matters - NerdWallet",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Za3phOE0tNW9aSnJBY1BuMVVxTW43ZzhnUWVqUlE0cWxLNnktQjRiZC1nR0VwVnVHaDdxRUIwRGNjMDZuVW5CVFZPV1BtUjJhSlZYV3FnTUU0V2doMzRB?oc=5"
     },
     {
       "category": "ENVIRON",
       "color": "orange",
-      "source": "energy.gov",
-      "title": "OCED's Guide to NEPA - energy.gov",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1IY0ZtbEZZMkx1ZGpicjhGREZCcVFOSEsyZmxjWUpuQ2dmQUF4LTVReDdvc0o0S1JFeUtuVkFVelA4TGxsaVE1R1VKUmo0MEt5NXdIV1lmcW92WlRqa2c?oc=5"
+      "source": "The Washington Post",
+      "title": "Trump’s EPA is ending one of the nation’s biggest climate protections - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMktacUtoZ0RSWV8zZXpBdy1VbVJKUUU2Q0k5cjdYU3ctUDhtallpR0VFR3ltZnFMQjRLTjJobEozNXdWQy1CekhDY2I5bkJfNnY1VGt2RUl5bG9SaUt5VmQ2bE1UN2VFYXZTc2VzNm9BRC1qZ0tueFloOV9rMDhIQVMySUFWOVJiVGpWS3hsdk5GZWs1LXhfQ3RZNGIzci1RS0JVS2NoY2tRVWVBZlBGZ0tmVEpKTVVBaGZYMEZLbU9pLUFZaVZzQVhGd2JjZ01h?oc=5"
     }
   ],
   "hr_trends": [
     {
       "tag": "지역 노동시장",
       "color": "teal",
-      "title": "TN unemployment low, but…",
-      "desc": "TN unemployment low, but sheds jobs for the 5th month in a r…",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaWc4ZmkyNW0xUVBvSURBWGNhSzNXYUs5RFdBQmlfZWVhNGhGQXdWVG5fQkluamxBSDRfWnpmWlJlT3dNS1FZYUNaUktZLVgtOGRkLTZxNW12RWh2M0ZDRkpXRGRaT1RJbGZ3N0F1WlNaY0dydmRLcmd0TnBrMEdNenhrRTV1eVlUdjZEdG1udk1IQVc3cEZ6WnZod1NTWVpYV2lSSQ?oc=5"
+      "title": "Tennessee unemployment r…",
+      "desc": "Tennessee unemployment rate drops to 3.4%, a 2-year low",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPeVl1SUt0WHl1ZjZNRWM3d0ltblU4b2thakl0cGhfRFhIaFpBRjc3c3FyTlVldDZDYktYSUFITElNYnY3UjFBNzZIZ196Z2xSeFhXNjhRaENVaWZQbzFYYjF3aG81RngtZ3FkQW4zOUxTZ2FfZlVKNERWRXBDVDVORWlCaFBNSGphLW11NTU2MTg?oc=5"
     }
   ],
   "country_profile": {
