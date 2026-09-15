@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-15T08:41:50.661007+09:00",
-  "generated_at_display": "2026-09-15 08:41 KST",
+  "generated_at": "2026-09-16T08:24:34.802543+09:00",
+  "generated_at_display": "2026-09-16 08:24 KST",
   "exchange_rate": {
-    "current_rate": 1347.199951171875,
+    "current_rate": 1363.52001953125,
     "source": "Yahoo Finance",
-    "change_pct": 0.19,
+    "change_pct": 1.33,
     "history_labels": [
       "10월",
       "11월",
@@ -31,7 +31,7 @@
       1541.73,
       1420.6,
       1377.11,
-      1347.2
+      1363.52
     ]
   },
   "headlines": [
@@ -39,8 +39,8 @@
       "category": "POLITICS",
       "color": "blue",
       "source": "The Guardian",
-      "title": "Trump says he would ‘love’ to see unified Ireland and ‘it may as well happen now’ as he visits Dublin – as it happened - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQV19PMnhKcjZnWmFrYnFIMGhKcXhJZzhXYUtmbk5tWWNHNlgtT3N1elJaRERZYkNOQzZqejdwZlhuMXQ0eTVSVVdNeDBYSVBfMHQtd0tYeTJDYjhfVzJRYkNGeGtVS1lDV2tYbFNaSE5fN25uQkJRQWxVNXlnVlh5WE1uekIzSXNYOE5ZRks0RGRaSFF6dlhvaVFOVXc0SlZsbUhVNEZYbnlPYTFUOHYzbWl6QWcwQkt2R1RPeUtPc0RJQTJjcnpRTg?oc=5"
+      "title": "Blanche defends Trump’s tirade against supreme court after it blocked mail-in voting executive order – US politics live - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPRGItck5EbENkTXhrR0g5T0lWb01hb2pxQ2E2czZPSnF5TFExcFBkcloySDM1VjNnOGt3M215TUZrYkVJbW5LLUc1b2FTRVF2OC0xYmVDZ3NHYlNQcWhkU1lHWU0yczZ1Ykl1a0UzQW5fV0JZcjhHNno4dHU2Z0dycGxTNzlEN1VYU1hnbkdDWUFDOGIzbzgtWFlUUUdJVmFkekZsWDJ5Y0FwYUtOS2pEUFlxV2pnWmhKcnk5dktNdXNsaHJiQmdmYzF4Zk9YanlGUW9SbUlxLWhnSWtCY0VONg?oc=5"
     },
     {
       "category": "ECONOMY",
@@ -61,9 +61,9 @@
     {
       "tag": "지역 노동시장",
       "color": "teal",
-      "title": "Tennessee unemployment r…",
-      "desc": "Tennessee unemployment rate drops to 3.4%, a 2-year low",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPeVl1SUt0WHl1ZjZNRWM3d0ltblU4b2thakl0cGhfRFhIaFpBRjc3c3FyTlVldDZDYktYSUFITElNYnY3UjFBNzZIZ196Z2xSeFhXNjhRaENVaWZQbzFYYjF3aG81RngtZ3FkQW4zOUxTZ2FfZlVKNERWRXBDVDVORWlCaFBNSGphLW11NTU2MTg?oc=5"
+      "title": "Statewide Unemployment H…",
+      "desc": "Statewide Unemployment Holds Firm for Fourth Straight Month",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRVhSTWxkbnllOGVudGVqdlFhckJyOWVnSF83WHNkZzlsMlVZZmxGeUFKanJ2dktyTkxoMTk5X2czdHFuNWMwcnVLUnRBLVZxbl9odENqVUMyeFBCQmJONHlIc0V0WEQyMWpNYm9mOFRoSDBQbTYwNFVQRDZNd19BZFB1YWN0T2tnNzlleUFHcUk2R1Ntb1NNS1JRSFBQYzM3V1RuVjRDUlBzeEpPVy05Z1JPbkdVN1hhZkN5eG9GM0VYcmhN?oc=5"
     }
   ],
   "country_profile": {
