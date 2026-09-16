@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-16T08:24:34.802543+09:00",
-  "generated_at_display": "2026-09-16 08:24 KST",
+  "generated_at": "2026-09-17T08:32:54.244632+09:00",
+  "generated_at_display": "2026-09-17 08:32 KST",
   "exchange_rate": {
-    "current_rate": 1363.52001953125,
+    "current_rate": 1377.3199462890625,
     "source": "Yahoo Finance",
-    "change_pct": 1.33,
+    "change_pct": 1.01,
     "history_labels": [
       "10월",
       "11월",
@@ -31,30 +31,30 @@
       1541.73,
       1420.6,
       1377.11,
-      1363.52
+      1377.33
     ]
   },
   "headlines": [
     {
       "category": "POLITICS",
       "color": "blue",
-      "source": "The Guardian",
-      "title": "Blanche defends Trump’s tirade against supreme court after it blocked mail-in voting executive order – US politics live - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPRGItck5EbENkTXhrR0g5T0lWb01hb2pxQ2E2czZPSnF5TFExcFBkcloySDM1VjNnOGt3M215TUZrYkVJbW5LLUc1b2FTRVF2OC0xYmVDZ3NHYlNQcWhkU1lHWU0yczZ1Ykl1a0UzQW5fV0JZcjhHNno4dHU2Z0dycGxTNzlEN1VYU1hnbkdDWUFDOGIzbzgtWFlUUUdJVmFkekZsWDJ5Y0FwYUtOS2pEUFlxV2pnWmhKcnk5dktNdXNsaHJiQmdmYzF4Zk9YanlGUW9SbUlxLWhnSWtCY0VONg?oc=5"
+      "source": "The New York Times",
+      "title": "Trump Wanted Canada as the 51st State. He Ended Up Pushing It Toward the European Union. - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObk1yeVM4TFItdHlxdHNPeTRGSHRSdlVmN0tabzhnS1FPdWJmbXNETlkyd1RyQ2k3ZEpZN1h0RjVjUy1fVmFfSGxlODhTejRjUXZYNXFGdEhYRnFDZE9lZWlia2N0QjNkZVloN0t5VEJjaG84aElmQ3RPS0VqelUyRm9pN0M?oc=5"
     },
     {
       "category": "ECONOMY",
       "color": "green",
-      "source": "NerdWallet",
-      "title": "Current U.S. Inflation Rate Is 3.4%: Chart and Why It Matters - NerdWallet",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Za3phOE0tNW9aSnJBY1BuMVVxTW43ZzhnUWVqUlE0cWxLNnktQjRiZC1nR0VwVnVHaDdxRUIwRGNjMDZuVW5CVFZPV1BtUjJhSlZYV3FnTUU0V2doMzRB?oc=5"
+      "source": "Al Jazeera",
+      "title": "US Fed raises interest rates for first time in three years - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMkVyU1l1M3VEcEg2TUZuemNacHp6X2hGbjdwYXlGV1FZdzhEbGtjdzlkd3BUS1RzUkVjNkZ1d3lMRl9TTUlMdFhuQlg5cnZKT1FCT2FyMXNzSzRsRzFtMVZIU1o1YURKTzRKUHdlOUxJdWdrRDYwS0JFTFd4WEhMRlpWRl9oWXRKUEJCVVdJM2xJemZCbEJ3eEw0WWExelctR2NLTXJR0gGrAUFVX3lxTE9pUXRTYm84MEp3U2xNby01Zm54cTNhSVNoaDRCRUdPNlNuN1B4NDFDV3FGcDU4M185c01LdnczeG43UFFHRUdSNndFS0k1NHlISW84MUJmSUV3R05mWnJDWC1iV2piUjB1dFZnNURjMi1nNUtLU1p1VjNsWkVFNHZsaktNd3pZMUdhWERQRlVmQjBHUVFDREluUkdPM2ZuTmlzWlh4M3NoTG51Yw?oc=5"
     },
     {
       "category": "ENVIRON",
       "color": "orange",
-      "source": "The Washington Post",
-      "title": "Trump’s EPA is ending one of the nation’s biggest climate protections - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMktacUtoZ0RSWV8zZXpBdy1VbVJKUUU2Q0k5cjdYU3ctUDhtallpR0VFR3ltZnFMQjRLTjJobEozNXdWQy1CekhDY2I5bkJfNnY1VGt2RUl5bG9SaUt5VmQ2bE1UN2VFYXZTc2VzNm9BRC1qZ0tueFloOV9rMDhIQVMySUFWOVJiVGpWS3hsdk5GZWs1LXhfQ3RZNGIzci1RS0JVS2NoY2tRVWVBZlBGZ0tmVEpKTVVBaGZYMEZLbU9pLUFZaVZzQVhGd2JjZ01h?oc=5"
+      "source": "Center for Progressive Reform",
+      "title": "Teaching Environmental Law in Context: The Role of State Climate Policy in the Context of Federal Retrenchment - Center for Progressive Reform",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObk9PN1YzRjZmUEs4QVJnYmhqMXB2TnVxak5kSlBTMnhoX0NXMHh1SjVUOEV5OTJCVXhGUkxOV1hnTnczX21PLWhJVzJZS0E0Tm1oVFdqN2xtOHpRa3pVNGlHem1kWFNMMWM0VU0xUEotSHUzQlZmMEZ3NGVfSXd5czNlOVQ2ZV9TQ1BwQzQtRHRUWG5ydlotWmtrNC03Sk9MN2gzLWRNNkFDdw?oc=5"
     }
   ],
   "hr_trends": [
