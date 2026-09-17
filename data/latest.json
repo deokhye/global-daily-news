@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-17T08:32:54.244632+09:00",
-  "generated_at_display": "2026-09-17 08:32 KST",
+  "generated_at": "2026-09-18T08:22:23.388360+09:00",
+  "generated_at_display": "2026-09-18 08:22 KST",
   "exchange_rate": {
-    "current_rate": 1377.3199462890625,
+    "current_rate": 1380.3499755859375,
     "source": "Yahoo Finance",
-    "change_pct": 1.01,
+    "change_pct": 0.27,
     "history_labels": [
       "10월",
       "11월",
@@ -31,30 +31,30 @@
       1541.73,
       1420.6,
       1377.11,
-      1377.33
+      1380.35
     ]
   },
   "headlines": [
     {
       "category": "POLITICS",
       "color": "blue",
-      "source": "The New York Times",
-      "title": "Trump Wanted Canada as the 51st State. He Ended Up Pushing It Toward the European Union. - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObk1yeVM4TFItdHlxdHNPeTRGSHRSdlVmN0tabzhnS1FPdWJmbXNETlkyd1RyQ2k3ZEpZN1h0RjVjUy1fVmFfSGxlODhTejRjUXZYNXFGdEhYRnFDZE9lZWlia2N0QjNkZVloN0t5VEJjaG84aElmQ3RPS0VqelUyRm9pN0M?oc=5"
+      "source": "The Guardian",
+      "title": "Trump blasts interest rate uptick and claims ‘hostile’ Federal Reserve board made decision ‘only for political reasons’ – as it happened - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeFRtVmh4UFBCZHhEU2dGOFpMeGZ1UTlZcmJla1pBSkJQcUZWWXhlR3FmVld2MTJ1eHNyQkl0NWI4WnprbWdUUWdSMFBsT2JOTUYyeEt2b09hN19VVzZ1NHpleGRiZ0RaNWYxYWtGR1QxZFI4Zjhuclh0OWRzc0d5THN5Z3NSMDdaajVydGRCbkFJRGFOLXJfenRZVXJSM3hjY3V0c2FFc3d3NjdpeXBXTlJoY3hlZkNjQWNyeXVR?oc=5"
     },
     {
       "category": "ECONOMY",
       "color": "green",
-      "source": "Al Jazeera",
-      "title": "US Fed raises interest rates for first time in three years - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMkVyU1l1M3VEcEg2TUZuemNacHp6X2hGbjdwYXlGV1FZdzhEbGtjdzlkd3BUS1RzUkVjNkZ1d3lMRl9TTUlMdFhuQlg5cnZKT1FCT2FyMXNzSzRsRzFtMVZIU1o1YURKTzRKUHdlOUxJdWdrRDYwS0JFTFd4WEhMRlpWRl9oWXRKUEJCVVdJM2xJemZCbEJ3eEw0WWExelctR2NLTXJR0gGrAUFVX3lxTE9pUXRTYm84MEp3U2xNby01Zm54cTNhSVNoaDRCRUdPNlNuN1B4NDFDV3FGcDU4M185c01LdnczeG43UFFHRUdSNndFS0k1NHlISW84MUJmSUV3R05mWnJDWC1iV2piUjB1dFZnNURjMi1nNUtLU1p1VjNsWkVFNHZsaktNd3pZMUdhWERQRlVmQjBHUVFDREluUkdPM2ZuTmlzWlh4M3NoTG51Yw?oc=5"
+      "source": "Morningstar",
+      "title": "What’s Ahead in 2027 and Beyond for Inflation, Fed Rate Cuts, and More - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOUd2VE9hNG5jbU1hTGcwVEJQR1pJdXJualh2SERqZ2hKTGhmRHF6TVBuUW9fMmxWRTJzZ3dwdDg2R3hvUHNuek5QMjFyN2hLM05xR1lfbkpzV2lNQXF2YXhiLWlOQjRHY1FxZld6aW9aTXdkLTQwaGZVdUtxMTRXQjFRM1QxQ2tUTEd6RzFjYkZJUQ?oc=5"
     },
     {
       "category": "ENVIRON",
       "color": "orange",
-      "source": "Center for Progressive Reform",
-      "title": "Teaching Environmental Law in Context: The Role of State Climate Policy in the Context of Federal Retrenchment - Center for Progressive Reform",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObk9PN1YzRjZmUEs4QVJnYmhqMXB2TnVxak5kSlBTMnhoX0NXMHh1SjVUOEV5OTJCVXhGUkxOV1hnTnczX21PLWhJVzJZS0E0Tm1oVFdqN2xtOHpRa3pVNGlHem1kWFNMMWM0VU0xUEotSHUzQlZmMEZ3NGVfSXd5czNlOVQ2ZV9TQ1BwQzQtRHRUWG5ydlotWmtrNC03Sk9MN2gzLWRNNkFDdw?oc=5"
+      "source": "National Security Archive",
+      "title": "“All Roads Lead Through China”: The Clinton Administration, Climate Diplomacy, and China’s Environmental Awakening - National Security Archive",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZTZyaHNIX0pacWw3elNpSi05V3VvLUZMVTlpbmt0SW5MUVRYVDF2S2tFSWhyazNTZjAxLW9HUy1fV25YRllkcERJTmFzT2dkemw5VHlndXNxblVSOVM3WENmWl9USDZCWk41Z1RfaFNXbjZGbktMNkgxeDhMaFdvQ1RaQXhVa3RpTFNfVEpWTEFDa2dQRTVWa05GbUlydF9HaFBIWDVvdGdWakNiOXNpWGhKRGxiRXVKdjNRN09n?oc=5"
     }
   ],
   "hr_trends": [
