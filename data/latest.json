@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-18T08:22:23.388360+09:00",
-  "generated_at_display": "2026-09-18 08:22 KST",
+  "generated_at": "2026-09-19T08:01:26.365091+09:00",
+  "generated_at_display": "2026-09-19 08:01 KST",
   "exchange_rate": {
-    "current_rate": 1380.3499755859375,
+    "current_rate": 1385.949951171875,
     "source": "Yahoo Finance",
-    "change_pct": 0.27,
+    "change_pct": 0.68,
     "history_labels": [
       "10월",
       "11월",
@@ -31,7 +31,7 @@
       1541.73,
       1420.6,
       1377.11,
-      1380.35
+      1385.95
     ]
   },
   "headlines": [
@@ -39,8 +39,8 @@
       "category": "POLITICS",
       "color": "blue",
       "source": "The Guardian",
-      "title": "Trump blasts interest rate uptick and claims ‘hostile’ Federal Reserve board made decision ‘only for political reasons’ – as it happened - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeFRtVmh4UFBCZHhEU2dGOFpMeGZ1UTlZcmJla1pBSkJQcUZWWXhlR3FmVld2MTJ1eHNyQkl0NWI4WnprbWdUUWdSMFBsT2JOTUYyeEt2b09hN19VVzZ1NHpleGRiZ0RaNWYxYWtGR1QxZFI4Zjhuclh0OWRzc0d5THN5Z3NSMDdaajVydGRCbkFJRGFOLXJfenRZVXJSM3hjY3V0c2FFc3d3NjdpeXBXTlJoY3hlZkNjQWNyeXVR?oc=5"
+      "title": "Paid influencers are everywhere in US politics. We need transparency | Martin J Riedl and Samuel Woolley - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOY28yYmNSSTJGWTd5SGRZTnNtMENSWGt4bEJYbXBDUlZ6OFdPdkRmdlV5MlZCeVdXVC1OdnJxa2M5U1NQeFRrVzVqTU1NTzQ4bDQ4cWFHNEM4UXZuMXJxaXRhaUNudVNZLTh4TFBuLTRMdFRNaDFWU2tjWU1YM1BIS0lZdDZfcnZSdk45Q2w3VlRhR2ZZM09tVnpHaw?oc=5"
     },
     {
       "category": "ECONOMY",
@@ -52,9 +52,9 @@
     {
       "category": "ENVIRON",
       "color": "orange",
-      "source": "National Security Archive",
-      "title": "“All Roads Lead Through China”: The Clinton Administration, Climate Diplomacy, and China’s Environmental Awakening - National Security Archive",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZTZyaHNIX0pacWw3elNpSi05V3VvLUZMVTlpbmt0SW5MUVRYVDF2S2tFSWhyazNTZjAxLW9HUy1fV25YRllkcERJTmFzT2dkemw5VHlndXNxblVSOVM3WENmWl9USDZCWk41Z1RfaFNXbjZGbktMNkgxeDhMaFdvQ1RaQXhVa3RpTFNfVEpWTEFDa2dQRTVWa05GbUlydF9HaFBIWDVvdGdWakNiOXNpWGhKRGxiRXVKdjNRN09n?oc=5"
+      "source": "Al Jazeera",
+      "title": "US repeals rules limiting greenhouse gas emissions by power plants - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSnJQT3pMVWd3Q2VBNkQ5eWwwSlE4d0pZM011LTE3bTI5ZUU4SE1PTkowaWJ1ZExwMDZkZHQxcWV0eTU1dTNjU1RBSDZHSmw5ak5CaGNySDNJUmxPWmtXR2hCUExSLV9CU2tjbWJBeEN6Nmo1YzFrSkdONVhHa0RueXVOZHZ0djVHWHhoTl84RWVMc1lwajJncjdOR1hUdmxZV1BlT3Ata0tlVHfSAbABQVVfeXFMTk9Zb0d3VG40ZkkyRVU3N2c1a1F5RjZIaEpXT2Q4a3Fia2JnMWZRcWc0NWU1TXl4QjVIVW9yckNUdVd6R0pCZFdsWnRsbGo5NDVpS1hsYUUzN1EwT29ucS1pV2x2a3JCemxWYUhhbEt2bWV2ampYN2tPMGpiQTBQVTJHZHM0U3NkRUtSaG9tTVJUTXNsOGZBM1lSakpjSzFsWEdsT0ZISUFydkJXRUVYX3k?oc=5"
     }
   ],
   "hr_trends": [
