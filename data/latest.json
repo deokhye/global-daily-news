@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-19T08:01:26.365091+09:00",
-  "generated_at_display": "2026-09-19 08:01 KST",
+  "generated_at": "2026-09-20T07:40:51.475579+09:00",
+  "generated_at_display": "2026-09-20 07:40 KST",
   "exchange_rate": {
-    "current_rate": 1385.949951171875,
+    "current_rate": 1385.0,
     "source": "Yahoo Finance",
-    "change_pct": 0.68,
+    "change_pct": 0.4,
     "history_labels": [
       "10월",
       "11월",
@@ -31,23 +31,23 @@
       1541.73,
       1420.6,
       1377.11,
-      1385.95
+      1385.0
     ]
   },
   "headlines": [
     {
       "category": "POLITICS",
       "color": "blue",
-      "source": "The Guardian",
-      "title": "Paid influencers are everywhere in US politics. We need transparency | Martin J Riedl and Samuel Woolley - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOY28yYmNSSTJGWTd5SGRZTnNtMENSWGt4bEJYbXBDUlZ6OFdPdkRmdlV5MlZCeVdXVC1OdnJxa2M5U1NQeFRrVzVqTU1NTzQ4bDQ4cWFHNEM4UXZuMXJxaXRhaUNudVNZLTh4TFBuLTRMdFRNaDFWU2tjWU1YM1BIS0lZdDZfcnZSdk45Q2w3VlRhR2ZZM09tVnpHaw?oc=5"
+      "source": "nytimes.com",
+      "title": "U.S. and Denmark Reach Security Deal on Greenland, Trump Says - nytimes.com",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBlWVY0TTlvREROcE9XR0tjbHRHUU05TUNiRW9iZmg3Tnl6aWVXaS03Nlk0dVRReEtuNDhlWDVBby1kc2V2RzROUS1kV3NQSVpNbmFQa1V2Si05cnZvdFAzSVRXZC1FYmpqZ0wwOFUxdzRHbjc3TlE?oc=5"
     },
     {
       "category": "ECONOMY",
       "color": "green",
-      "source": "Morningstar",
-      "title": "What’s Ahead in 2027 and Beyond for Inflation, Fed Rate Cuts, and More - Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOUd2VE9hNG5jbU1hTGcwVEJQR1pJdXJualh2SERqZ2hKTGhmRHF6TVBuUW9fMmxWRTJzZ3dwdDg2R3hvUHNuek5QMjFyN2hLM05xR1lfbkpzV2lNQXF2YXhiLWlOQjRHY1FxZld6aW9aTXdkLTQwaGZVdUtxMTRXQjFRM1QxQ2tUTEd6RzFjYkZJUQ?oc=5"
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "title": "What could the US-Iran ceasefire mean for inflation, jobs? - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTG9mUzk2Yk5FS1FlNU93NnNJRWo3dnZicGdjbU5IQ0ZhN21jSnRUWm8tVWJDV1JSaW9FZzd5eHFKQ2tlRHZ1X1h3WnY0bWdKVEh4ZS1jZFZSc1B6S0V0ZERjNnFqMHZHOUNPaWljWkR2Z0xuVHhpb1FxMGhHZ3Z5eEV2VGNwR2_SAYwBQVVfeXFMTUJiQ2MzNG9xendob0NOVTdmeEhrcnFCNVFodWpfc04zQ0VkS1h4aXZ4Z1VmV0c2MjFpN3hZdUtVbVFQN3NtWEU4T1VlemZHODlpYW5qeTlLMElpTUJUZG9ZU1BCT3l6VnliNG1ETE5PMWhsLWE5ME15ZWpncmpLcEV2MjduTEhjRGJhT1M?oc=5"
     },
     {
       "category": "ENVIRON",
