@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-21T07:59:47.460670+09:00",
-  "generated_at_display": "2026-09-21 07:59 KST",
+  "generated_at": "2026-09-22T08:49:53.586679+09:00",
+  "generated_at_display": "2026-09-22 08:49 KST",
   "exchange_rate": {
-    "current_rate": 1385.5400390625,
+    "current_rate": 1374.02001953125,
     "source": "Yahoo Finance",
-    "change_pct": 0.44,
+    "change_pct": -0.78,
     "history_labels": [
       "10월",
       "11월",
@@ -31,16 +31,16 @@
       1541.73,
       1420.6,
       1377.11,
-      1385.54
+      1374.02
     ]
   },
   "headlines": [
     {
       "category": "POLITICS",
       "color": "blue",
-      "source": "nytimes.com",
-      "title": "A.I. Gone Rogue? Trump Proposes Not New Rules but an ‘A.I. Force.’ - nytimes.com",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE13OUxxZkIxQjFxME9XT2s3ZHNSa3NSZG9qQlA0bnFNQmVFR0JEdngtcllSQV9Tc3V6V0h6eGZrODNSel9veW8zQUt3c3JlU3o1UGF1RFkxX3N2eDBFMXgwUjl4X1hsRzlGdHVXcnpMbFlLTE5T?oc=5"
+      "source": "The Guardian",
+      "title": "Leftists make waves and Trump flexes muscles: US primary season takeaways - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOc3BUaFZhbDBZVDRGVWpDWmw1TG9Ha3ZFc0FkTmk1OTFHcEVQbFpPdHVVM2YzeHBCdjZ4cHpoRkZ6V1BjWm50bDdOUXdkUWhVOWpkcmZPWDBMVFE5VkdwWTlkaHZCSnBtTEZxNkNwODhWYjBjOThXZktGMzBzbHBtSg?oc=5"
     },
     {
       "category": "ECONOMY",
