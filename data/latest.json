@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-22T08:49:53.586679+09:00",
-  "generated_at_display": "2026-09-22 08:49 KST",
+  "generated_at": "2026-09-23T08:29:59.707024+09:00",
+  "generated_at_display": "2026-09-23 08:29 KST",
   "exchange_rate": {
-    "current_rate": 1374.02001953125,
+    "current_rate": 1355.1600341796875,
     "source": "Yahoo Finance",
-    "change_pct": -0.78,
+    "change_pct": -1.35,
     "history_labels": [
       "10월",
       "11월",
@@ -31,23 +31,23 @@
       1541.73,
       1420.6,
       1377.11,
-      1374.02
+      1355.16
     ]
   },
   "headlines": [
     {
       "category": "POLITICS",
       "color": "blue",
-      "source": "The Guardian",
-      "title": "Leftists make waves and Trump flexes muscles: US primary season takeaways - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOc3BUaFZhbDBZVDRGVWpDWmw1TG9Ha3ZFc0FkTmk1OTFHcEVQbFpPdHVVM2YzeHBCdjZ4cHpoRkZ6V1BjWm50bDdOUXdkUWhVOWpkcmZPWDBMVFE5VkdwWTlkaHZCSnBtTEZxNkNwODhWYjBjOThXZktGMzBzbHBtSg?oc=5"
+      "source": "The New York Times",
+      "title": "‘I Was Sold a Bill of Goods’: Americans and the Distrust Election - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcHVVd3ljOGFhSGNKWWRPT3hwWWc5N3ZMdFhNOEZoSFVQVkl2dkhnOFdoUDJaN2VIRjlVUGRxc0hOZXlpckFvQTRvQVpNa1gwRWJkV1czTVFhbGx4M0R0QU5IQ25ncmJiaVEyQnNOZWtrWU4zSjBrSnFXNWxTMDJBX25yUFREUQ?oc=5"
     },
     {
       "category": "ECONOMY",
       "color": "green",
-      "source": "CNBC",
-      "title": "Fed's Kashkari reportedly says inflation is still too high across the U.S. economy - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ZVEFneno2MUFKYkdpMjZpQk94SXpCd3NRZ0pub3p4MFRnUUY2cngzMUhKOXBaQ1ZyR3hnajN5TGtRaTdDdy1kYUZ5OFJDaGJ6bXMtN0ZRa05oSXd4WDBzaHRMREFXdi1yQWttNUVnSWh1eDFFcWlV?oc=5"
+      "source": "Reuters",
+      "title": "Fed's Kashkari says inflation is still too high in 'all aspects' of US economy, in Fox News interview - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQc1hVd3hZZmFPOEVudnRhdFpDczA0Qkg4TmxpeDFYN1NuWnFkYVNSLTdrRU42dGdXV21YcmlsM1RVREw1amRxQWV5aWVZZTRPRy1paTNiT2o3M0syblIxdkMtR2xKLVgzUEstZ01CcXRKd0dNbUpLZUxkV1hhS0cwcDZYRXdmYjJrTTc4RERBQWNyeXdHb0ZoVjhPMkQzVDJodDBoc3c0RTc4ckFJeGJ6WDlLTDVzM05rN3k5VWNXVVFlTWM?oc=5"
     },
     {
       "category": "ENVIRON",
