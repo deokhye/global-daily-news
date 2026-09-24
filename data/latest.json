@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-24T08:26:06.287892+09:00",
-  "generated_at_display": "2026-09-24 08:26 KST",
+  "generated_at": "2026-09-25T08:45:59.181193+09:00",
+  "generated_at_display": "2026-09-25 08:45 KST",
   "exchange_rate": {
-    "current_rate": 1365.050048828125,
+    "current_rate": 1367.5899658203125,
     "source": "Yahoo Finance",
-    "change_pct": 1.09,
+    "change_pct": 0.37,
     "history_labels": [
       "10월",
       "11월",
@@ -31,23 +31,23 @@
       1541.73,
       1420.6,
       1377.11,
-      1365.05
+      1367.59
     ]
   },
   "headlines": [
     {
       "category": "POLITICS",
       "color": "blue",
-      "source": "News.com.au",
-      "title": "HISTORIC MOMENT: Trump-Xi tarmac meet has world on edge - News.com.au",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNN2swbnpPdE1Pam9zUjZpSlNRMWNvZDBRa1BTZm53R280TXVTaV9sN3BwRXkycHRSRmExT1JGXzl0aWg1dGdqWUxQUF9BaEJDYTg3ejF5V0I0dm5YdFk3NmJtd3F4cEdtU0J5d3FEUXlLSUQ4NjRmZGpKMWZmdm9HMnV2aEZlUWJ3ZHlaQlU1UEdjMUY5U29wUFB2RlhBODN1QmRkVjhDcGlvQkFCbVBGcTFsYmY5Njl4c2RwY1RFbC1ONkZMN1FWTVAzZEhrc2tSek1BakdXbU1iUdIB3wFBVV95cUxOc3hjVklNWXZfYmRXejU0OEFibmhOOFdPR0tkaXVjMjhHVlBtME0zeUZJYnBMSEJaLWJSZXVCMWlOZDczYXV4a3VmRmlnc0lhWFM0cjZRLVZCeDdyOEUyYWQ3ekRGT25GNUEyUTNKTUFqSXdiMDl0MXpQV0dadm9ycHZaQ1N3RWpHRHNpYjN3SVYza2QxV2h3c3VHMUtFVm5udlA2UUY2TVk0OGJCak5HWXl1NlY5enBwbEd4Zi1PSHEycWd1dFIzNU56QW00a2xydkhEQTduMUNpYzZZUlNv?oc=5"
+      "source": "The New York Times",
+      "title": "Mary Peltola’s Campaign in Alaska Senate Race Is Rocked by Tumult, With Angry Outbursts and Slurs - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSWJoSW1uZENpVVo3d3hNa2wtSFFqMk0tdEROcFppX3FkRHU0RV9DRVhzdmxMZGpkVHhmUkpQZDlOeDhFN05mMllPbDFVNXZlWTh4aXI0aWxCd2dHTFJhQm1aLW1veFEzcDBQcEhiSjllVnk2dXhIUlI4U3ZtLWFQUWU0dGNIT3l4QlIw?oc=5"
     },
     {
       "category": "ECONOMY",
       "color": "green",
-      "source": "NBC News",
-      "title": "The U.S. economy before and after the Iran war, in five charts - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOa0dDM1A3eDlVM1Y3VGl3UWpERk1hYzllZUlSMnlpd0dYVFpXZmNvanFENm1MLUFWU05KNXhtQzNxWkxrSG9yRkxveExxdUMzYlNMMkJLaTJPSWJUbHE1VGpfUk9hRG1rckNjMDFJSHQ4TGJLMndkdURIa1RFSTVWQmdGWExoQWVJX1hF?oc=5"
+      "source": "Reuters",
+      "title": "Fed officials see rates likely rising to curb high inflation - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPS1FaZTVSeTlieFN5WUNJdHE5VVB5VlM2Q0pSY3BtalppeEt0S0s0YnNBMzlTcUpIWGg0V3dxTTBiWWdpbW1OTTJBSFIwMDUzNG80ekkzM3AtMXFoSmRNQVNPQUxBeUVlTmFPNjdWZmk3enE2NFVpY1U1Y1dqSkdDY080OXBZZGRmbWZmYWw2WGdEVmlTOVVhNXVCb0QxU01Lc0tHSTVDS05ZMjJJ?oc=5"
     },
     {
       "category": "ENVIRON",
