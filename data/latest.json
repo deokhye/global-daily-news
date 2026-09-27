@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-27T08:23:01.279921+09:00",
-  "generated_at_display": "2026-09-27 08:23 KST",
+  "generated_at": "2026-09-28T08:40:04.130546+09:00",
+  "generated_at_display": "2026-09-28 08:40 KST",
   "exchange_rate": {
-    "current_rate": 1354.4000244140625,
+    "current_rate": 1354.8900146484375,
     "source": "Yahoo Finance",
-    "change_pct": -0.95,
+    "change_pct": -0.91,
     "history_labels": [
       "10월",
       "11월",
@@ -31,30 +31,30 @@
       1541.73,
       1420.6,
       1377.11,
-      1354.4
+      1354.89
     ]
   },
   "headlines": [
     {
       "category": "POLITICS",
       "color": "blue",
-      "source": "News.com.au",
-      "title": "Trump rejects ceasefire, vows more bombing - News.com.au",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdFNaVUdMdVpiN3NNdnRmaTNIaUdaSnRSdjlhMFBaeTZxNG9ISExYb0xvaENYRU9IWl9UbHdJYVVIMnNaWkV1T0NQUHBFMzd3dy1yNmdsQlh5SDQtZ2locFNkNUlNcUpQTXA5RV9sS0FOUy02bW1hWnB4c3NWTU9oNFZiZVJsM3Z1TzBjbkxJc3gwaUhGV3FPTkJyNDA2Ymh6SzZnQm9rdTEzZFhRVUprSHJySldzNXNWZXFfVDlDdVRkbnlJT09qRWc5NXhqYnpsUWtraHpETHA3d9IB3wFBVV95cUxQSUgtTkx2eDE5ZGMzcU9YLXhrWkp5M25rMGc1a2p3U25OUU1ZWGstbi15blBWZFR2ODNVQUpRTGlIWGx4QzRUSF9SVm03ZUtJaWZVNURnYzQwdTZvMEY3MTdpdE5OaEJmTXV0WmxfUDlZLW5HTmNsenhtbTVmVmFPNDJ5cFkxemw3bTViNlNwM2xvUDJjSGp5ZTh5RElYNW9SMEVHaWtNOGdTLVl2dUdacjRIWlZCLU8waFFFajdoMldZaXNaSklkWWhZb1RtVVNxa0dDTlJWOXVfcWNzVVg0?oc=5"
+      "source": "The New York Times",
+      "title": "‘She’s One of Us’: Mary Peltola’s Bumpy Rise to Political Power - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOLXMxUzl3ZmdlaHAzNjNZbC16MWZkdVFHaUFtRHRxNXVMUVRzVEViUFNiQXFLTGlHbWw3ZEgtOGh5Mk8taDY3ejJreUJFWkNhZ29Dem4xREh0NW5OaTJuZm9rWWZNVXdhTXdkYmJ5ZFZyOE9HUGVSNWJhd3ltSVg2bjZtMmw?oc=5"
     },
     {
       "category": "ECONOMY",
       "color": "green",
-      "source": "nbcnews.com",
-      "title": "The U.S. economy before and after the Iran war, in five charts - nbcnews.com",
+      "source": "NBC News",
+      "title": "The U.S. economy before and after the Iran war, in five charts - NBC News",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOa0dDM1A3eDlVM1Y3VGl3UWpERk1hYzllZUlSMnlpd0dYVFpXZmNvanFENm1MLUFWU05KNXhtQzNxWkxrSG9yRkxveExxdUMzYlNMMkJLaTJPSWJUbHE1VGpfUk9hRG1rckNjMDFJSHQ4TGJLMndkdURIa1RFSTVWQmdGWExoQWVJX1hF?oc=5"
     },
     {
       "category": "ENVIRON",
       "color": "orange",
-      "source": "LSE Blogs",
-      "title": "Climate views differ within US racial groups and fall along partisan lines - LSE Blogs",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeVR3OVpzNzVDTjUzQTdSd3ZvNmx2eFUxbTY1Wm5WdEJ6TEoyeU05TG1CaERnX1RTRnZ1djdZdkFKcXJJZENzb0JycmZXcnhudmdmZEx1Q243TUgxdXR2eUhLZnpIZXRsdEFPQkdtelQ3VVcxZXp3UXJyUzdTcW5BUjVmOA?oc=5"
+      "source": "University of Colorado Boulder",
+      "title": "A landmark Boulder climate case is heading to SCOTUS. What's at stake? - University of Colorado Boulder",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNE9YREJJUmNkejEyZmItMnRscEU2NVJJMmpRUFhoamh5OUF0RmtUOGx3UkIzTW5QZ3VidzNUWnZLaEJYZl9hUWROaFpUSk9XWTE4WHdUR1FfNGYtUDZjV0h0bkd2UHdkZnFWaVFVTnlONklWc1RrakJEaVB1S3c0RldNZkg1SVFpR0xHUnNibXdoYlFPTVJxenZNaWc5cGc?oc=5"
     }
   ],
   "hr_trends": [
