@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-28T08:40:04.130546+09:00",
-  "generated_at_display": "2026-09-28 08:40 KST",
+  "generated_at": "2026-09-29T09:49:40.337732+09:00",
+  "generated_at_display": "2026-09-29 09:49 KST",
   "exchange_rate": {
-    "current_rate": 1354.8900146484375,
+    "current_rate": 1359.6800537109375,
     "source": "Yahoo Finance",
-    "change_pct": -0.91,
+    "change_pct": 0.38,
     "history_labels": [
       "10월",
       "11월",
@@ -31,30 +31,30 @@
       1541.73,
       1420.6,
       1377.11,
-      1354.89
+      1359.68
     ]
   },
   "headlines": [
     {
       "category": "POLITICS",
       "color": "blue",
-      "source": "The New York Times",
-      "title": "‘She’s One of Us’: Mary Peltola’s Bumpy Rise to Political Power - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOLXMxUzl3ZmdlaHAzNjNZbC16MWZkdVFHaUFtRHRxNXVMUVRzVEViUFNiQXFLTGlHbWw3ZEgtOGh5Mk8taDY3ejJreUJFWkNhZ29Dem4xREh0NW5OaTJuZm9rWWZNVXdhTXdkYmJ5ZFZyOE9HUGVSNWJhd3ltSVg2bjZtMmw?oc=5"
+      "source": "theguardian.com",
+      "title": "Trump doubles down on claims US will win war with Iran ‘one way or another’ as talks are in doubt – US politics live - theguardian.com",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcUpKRHN0YUtPcjN0NlUybFdjUHQzT01zVUFGSVZZMzVwcjA2czY4aGVXUlhLZzNFVGZOVkpmX1BHMnc0SU5id19vUUVRTTNjaVI5WDZPNFk3N21IR0t2cWFPY0NPZi1HWDFHV29YdnlfbjVHQ0ZqYXg3ZWZlellQWFVOWWN1YXdNZ1F2Sk9wNnNvRTBPODQtMWN5dUdOV2tuYlN1U3YwYVE5U1RuZFY5U0Vlcm0ySnd1d2ZBdVVmTmZKaEcwVnNDU1liNVI5Zw?oc=5"
     },
     {
       "category": "ECONOMY",
       "color": "green",
-      "source": "NBC News",
-      "title": "The U.S. economy before and after the Iran war, in five charts - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOa0dDM1A3eDlVM1Y3VGl3UWpERk1hYzllZUlSMnlpd0dYVFpXZmNvanFENm1MLUFWU05KNXhtQzNxWkxrSG9yRkxveExxdUMzYlNMMkJLaTJPSWJUbHE1VGpfUk9hRG1rckNjMDFJSHQ4TGJLMndkdURIa1RFSTVWQmdGWExoQWVJX1hF?oc=5"
+      "source": "CNN",
+      "title": "Why the AI boom makes inflation harder to tame - CNN",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1XWFE2XzhDVTNaTC12MlEzOFRxSGxQTG9JekVub3QyandhWjNON0dFdVpudDdvaldScVoxZkVXUkc5b3FXRzR1RTZZcURZQ2Y3eTN0N3lDcTZVeVF5N0xVUDF5U2NpVk01Wlc0?oc=5"
     },
     {
       "category": "ENVIRON",
       "color": "orange",
-      "source": "University of Colorado Boulder",
-      "title": "A landmark Boulder climate case is heading to SCOTUS. What's at stake? - University of Colorado Boulder",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNE9YREJJUmNkejEyZmItMnRscEU2NVJJMmpRUFhoamh5OUF0RmtUOGx3UkIzTW5QZ3VidzNUWnZLaEJYZl9hUWROaFpUSk9XWTE4WHdUR1FfNGYtUDZjV0h0bkd2UHdkZnFWaVFVTnlONklWc1RrakJEaVB1S3c0RldNZkg1SVFpR0xHUnNibXdoYlFPTVJxenZNaWc5cGc?oc=5"
+      "source": "The Washington Post",
+      "title": "Trump administration considers building baseball park in Grand Teton National Park - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLVFhTm4ycnVQYVVHWTZTMVMyOEFRMERMYTVKUXU5MjRycmQwU1NWUXE0bjg0eHVjVGU2cFB5SnZKWWprcEszTW42TXBrRHlMdmlySy05WTBwb1pYNHpiN2VLR2VsZ2haeU5tekg4MmxqZHlwTmNqLU1aOF9nT1hZQm9EaFBISHlPMTdxbUdMYm1wNUxFOFBtYm1GSFU2dWppdjNvcGxoa3pTejRfeEE5dGNCRjhYYVFkQ2Y0?oc=5"
     }
   ],
   "hr_trends": [
