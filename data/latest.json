@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-30T09:04:44.440968+09:00",
-  "generated_at_display": "2026-09-30 09:04 KST",
+  "generated_at": "2026-10-01T09:21:51.343347+09:00",
+  "generated_at_display": "2026-10-01 09:21 KST",
   "exchange_rate": {
-    "current_rate": 1351.6099853515625,
+    "current_rate": 1357.8800048828125,
     "source": "Yahoo Finance",
-    "change_pct": -0.58,
+    "change_pct": 0.55,
     "history_labels": [
       "10월",
       "11월",
@@ -31,7 +31,7 @@
       1541.73,
       1420.6,
       1377.11,
-      1351.61
+      1362.5
     ]
   },
   "headlines": [
@@ -39,22 +39,22 @@
       "category": "POLITICS",
       "color": "blue",
       "source": "The Guardian",
-      "title": "Supreme court allows Trump to temporarily resume deporting people to third countries – live - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbVA3eXZjbzlMU0dwQzZRZjg1aktWdmlIM1cyUDZuNHplaEl6QWlJOHlmeGhDZTFrbGFEZmxkbFNNSFdnUjlTTWFoZndKd0FQdTRoTzFIdzUzSndTMHJLa2wzMjhlc0ZtVjlEWjQ1TzNpa2VraWpaNDhvZ2R6akVkc09VbjBuTmxUZXR0OElmUkhtNWRJT0xwNFhlZnBZMDVUdk4zeTJRcXh0WVlNd2RzQ3hWY2ZwazUzcTBZMGhTVQ?oc=5"
+      "title": "Hegseth says he will cut number of US generals by 20% in anti-diversity speech – live - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQaWRVdDhnRTBtT2dVbEdYQklHeGJwa0pxb3BMb2RPenhmbDFpSkR2SFZUN1U4RTdPRTZKdXRSUGgyVU1MQ09BVnJZV1laY1hjR0o0UTVOUEtjaEdZUWlyOURPVi1oU1FLRFVIV1ZZQ0MtMFpuc3RkdUNhQ2RhcnFQV3VidGhLc1ozRTZOeW9RNlVTa0hqNWU5dkxlQVJEMUlfT3dJX043bTVCd0ZDMUtPa2RsS2l1NmdaNUkwbWtJZHhiYW4yQzctaVRvSW5RYkNxd2pmYTRHUVE0UnZ6S0I3ak14T0pDMVNTZ1licHdLbHBDSnM?oc=5"
     },
     {
       "category": "ECONOMY",
       "color": "green",
-      "source": "South China Morning Post",
-      "title": "US consumer confidence sinks to 12-year low over inflation, stagnant wages - South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYlhrM0ZxNEM2X0FaaGZ4NUFWUVdsVl9TNTNGbkc2cFVLWG9FY19xRWxNY0d0UUlBQUdWUkNDa1FtYVg1ZUJkYjVseFVRZ0pFWm1xWDlNNU5rdTExQktoWElrZzNyLTBSRVNtLXZPWEFoa3JMSUJWSDJJNXpzOWo0U3hCd0NTVmphdnhQTzhUUEFFdHZXQkI0WWZPZDJaRkdMS1BqOHBNMTR4dXBTNFk4QkZQRXFfenoxOVdLYjd2N0JxMzBkRXpKM0dIZjh4V2xxcjk2c9IB1AFBVV95cUxNbm1DcmNZVmllMEtiUDVrTXV2X1djNG5mTXdwREF4WmkzdXVpY2JubS0ybnRnMk1RSzAzMC1JREcwWTc3VHUzZUJTZ1FiTVA5VzM0QjZXUmYwTzZzNUxTaHlhb01wNW5ZOUROMlJVVTh1aUpYUUEzTldPRXV0TnNMWGNjVEZWRXFtU0FZNXlBajNiNnFxYU42LXJvYmphVTVjemE3VVdXaDhMRm1RNks0MXFaTHF3bUZ5OUJwZWdLaV9LaWx2UzZsWkF1bDFfeFN5R3lsYw?oc=5"
+      "source": "Reuters",
+      "title": "US inflation rises below expectations in August, gives the Fed breathing space - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSktrS2JqeGdwTmowTVBNV2lPbnZwcVdwSzJPVi1aRzZuVDVQU3RtRGZ1UExTOVJnWm9CcTNYbnFneF9wOWlCMU5MNXEwMDN4UmhVVkx2MFVWOC1EYVdyb3Y3WXNYYXhNUzZSUExKQzNZOWk4U1dRaVBMMUZBeklyT0VqNFVhbUV3RjJmbThsM3FOejFUV2lBV0ZtZjNTZjVqRFYwcGZqZWdKdjBRa3FvcmdKRTRWak0?oc=5"
     },
     {
       "category": "ENVIRON",
       "color": "orange",
       "source": "NRDC",
-      "title": "How EPA Rollbacks Will Cost Us—in Dollars and Lives - NRDC",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQX1ViWmRYcUxVWXZsUHJvUDA1RUlKYTFheGs0ajdMR2pvZ19NTDlKOTctMUVMNEpWR0hWNU1PMU5VTGZCSHRkbG9RdmMzbDEtNDJoWURvZGtRWVI0M3Uwd3gxd2o1X0xQWmJXRzJtMEdrZkNyNTROd015WjVvV2o5RWdTVQ?oc=5"
+      "title": "White House Watch: Tracking Attacks on Our Environment & Health - NRDC",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeXRXT1ZGdUF0S2NRNkhWR0cyRjBreExxaWtDMDdvUEZ6RTdSUTBwaTRyQWxaTVVMTTlUaS1nREJvMlVGM2RsX1d3U19nT3h0MG8xeDZlVUR5ZWZPYlVGeWpQRjZKVU54Sm96MjZ3MGFXYk00ZC1vZUk3WmVSS3FkTVpkM2RJRE0zQ1BaYVNiVDZUUQ?oc=5"
     }
   ],
   "hr_trends": [
