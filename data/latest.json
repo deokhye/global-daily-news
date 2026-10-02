@@ -1,12 +1,11 @@
 {
-  "generated_at": "2026-10-01T09:21:51.343347+09:00",
-  "generated_at_display": "2026-10-01 09:21 KST",
+  "generated_at": "2026-10-02T09:31:37.885201+09:00",
+  "generated_at_display": "2026-10-02 09:31 KST",
   "exchange_rate": {
-    "current_rate": 1357.8800048828125,
+    "current_rate": 1364.47998046875,
     "source": "Yahoo Finance",
-    "change_pct": 0.55,
+    "change_pct": 0.56,
     "history_labels": [
-      "10월",
       "11월",
       "12월",
       "1월",
@@ -17,10 +16,10 @@
       "6월",
       "7월",
       "8월",
-      "9월"
+      "9월",
+      "10월"
     ],
     "history_values": [
-      1424.02,
       1466.13,
       1437.91,
       1449.7,
@@ -31,16 +30,17 @@
       1541.73,
       1420.6,
       1377.11,
-      1362.5
+      1350.5,
+      1364.48
     ]
   },
   "headlines": [
     {
       "category": "POLITICS",
       "color": "blue",
-      "source": "The Guardian",
-      "title": "Hegseth says he will cut number of US generals by 20% in anti-diversity speech – live - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQaWRVdDhnRTBtT2dVbEdYQklHeGJwa0pxb3BMb2RPenhmbDFpSkR2SFZUN1U4RTdPRTZKdXRSUGgyVU1MQ09BVnJZV1laY1hjR0o0UTVOUEtjaEdZUWlyOURPVi1oU1FLRFVIV1ZZQ0MtMFpuc3RkdUNhQ2RhcnFQV3VidGhLc1ozRTZOeW9RNlVTa0hqNWU5dkxlQVJEMUlfT3dJX043bTVCd0ZDMUtPa2RsS2l1NmdaNUkwbWtJZHhiYW4yQzctaVRvSW5RYkNxd2pmYTRHUVE0UnZ6S0I3ak14T0pDMVNTZ1licHdLbHBDSnM?oc=5"
+      "source": "Al Jazeera",
+      "title": "Brazilian government calls for probe into US funding of far-right causes - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdHBVMWE1VWo3M0d0ZXlONXN6M0ZYQTJQX3NRS0RGSVFBaEZDVGxWdl9HYkxFV2Y1a0oxOF9WcF9QSnRnRlZEZG9JWWZNZHowb29JTWJ5enNxTWFMZWZBUXU2N0gxNDZXcFJZelBQMUEwOVZLRE9heGZYMWxWcVN3TTNPQ1dBOTFONWtsQWRzeFZlZ296aTNXS1VZS0xFWnFMcUJLT2ZYd0pfQVBwcFREdGVna9IBuAFBVV95cUxPY0RHVXN0NjViQ1VxREluZEVaelJtekZqV3pMa280OWNyeDQ2VUp0NTdqVnFhZnl4UEV3aTlKV0o4a1g3ak5KdHB2U1lQeHlSZEJySjRIZkZMSWdLdWkzSzFtejQyME1TVXpkNEpKV0tXeXo3aE9ZTWxjTDg1dzRxRm5QRDFUWFJLZXVhSnZXYW1LM2ZCLVRpRjZLTXp0bDdKdHB5MGlfMXU1N2dTLXVGR0w0VTZ4XzdR?oc=5"
     },
     {
       "category": "ECONOMY",
@@ -52,9 +52,9 @@
     {
       "category": "ENVIRON",
       "color": "orange",
-      "source": "NRDC",
-      "title": "White House Watch: Tracking Attacks on Our Environment & Health - NRDC",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeXRXT1ZGdUF0S2NRNkhWR0cyRjBreExxaWtDMDdvUEZ6RTdSUTBwaTRyQWxaTVVMTTlUaS1nREJvMlVGM2RsX1d3U19nT3h0MG8xeDZlVUR5ZWZPYlVGeWpQRjZKVU54Sm96MjZ3MGFXYk00ZC1vZUk3WmVSS3FkTVpkM2RJRE0zQ1BaYVNiVDZUUQ?oc=5"
+      "source": "The Washington Post",
+      "title": "States sue to stop Trump’s retreat on power plant emissions - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNY09oWmtjTVhYSVE4M1ItUlBoLXF1SXVSamFveGpmRGFXSWFvMjRrRDE4enQ2d3NiMXRKMW5FZ3RYNkhNb1hqeHZobWZCZHV1WmJaYzF3N3BkdVEyNXRxTC1KRVc0VXBZRE1uNVVzRlRfa1ZZZWVmcU5XM0J5b0gtRFVROWtya2ljUjRfUmVacFdKQmlNVWNxY1Uzcno4Smd4ZTdwRXdMaV9JRUJ1UlkwU0xuZkg0UQ?oc=5"
     }
   ],
   "hr_trends": [
