@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-02T09:31:37.885201+09:00",
-  "generated_at_display": "2026-10-02 09:31 KST",
+  "generated_at": "2026-10-03T09:10:21.324642+09:00",
+  "generated_at_display": "2026-10-03 09:10 KST",
   "exchange_rate": {
-    "current_rate": 1364.47998046875,
+    "current_rate": 1342.510009765625,
     "source": "Yahoo Finance",
-    "change_pct": 0.56,
+    "change_pct": -1.06,
     "history_labels": [
       "11월",
       "12월",
@@ -31,23 +31,23 @@
       1420.6,
       1377.11,
       1350.5,
-      1364.48
+      1342.51
     ]
   },
   "headlines": [
     {
       "category": "POLITICS",
       "color": "blue",
-      "source": "Al Jazeera",
-      "title": "Brazilian government calls for probe into US funding of far-right causes - Al Jazeera",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdHBVMWE1VWo3M0d0ZXlONXN6M0ZYQTJQX3NRS0RGSVFBaEZDVGxWdl9HYkxFV2Y1a0oxOF9WcF9QSnRnRlZEZG9JWWZNZHowb29JTWJ5enNxTWFMZWZBUXU2N0gxNDZXcFJZelBQMUEwOVZLRE9heGZYMWxWcVN3TTNPQ1dBOTFONWtsQWRzeFZlZ296aTNXS1VZS0xFWnFMcUJLT2ZYd0pfQVBwcFREdGVna9IBuAFBVV95cUxPY0RHVXN0NjViQ1VxREluZEVaelJtekZqV3pMa280OWNyeDQ2VUp0NTdqVnFhZnl4UEV3aTlKV0o4a1g3ak5KdHB2U1lQeHlSZEJySjRIZkZMSWdLdWkzSzFtejQyME1TVXpkNEpKV0tXeXo3aE9ZTWxjTDg1dzRxRm5QRDFUWFJLZXVhSnZXYW1LM2ZCLVRpRjZLTXp0bDdKdHB5MGlfMXU1N2dTLXVGR0w0VTZ4XzdR?oc=5"
+      "source": "The Guardian",
+      "title": "Trump threatens to double tariffs on South Korea if they do not pay for Alaska natural gas pipeline – US politics live - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPa084RGhXLWxqS2VjeVFsSkFqM2plV1RpQXh3MU41Rl9kTngzMk5hbzlrSGl5em11djJ6TW1MdWdiMGV0QkpXb285d3hBV2hEVkxicnNMWjNObnkzYUpHT2pBTHBwb2pvbUwzTm12TnRLbklva01qS1lUb21Ob0J6VlVmZ3hrVWZJSTJjN2JvWXZ0akx1ck85dVhyaVRaVF9tVnhSaXNJZ3pSTDhGSDhRVFRqMFRfbWFNblF1ajk5NGttbmdmaWxaaDBLTlM0LW9INVBKY29sVDh0cUxBa2c0TVlUa0E0SWhO?oc=5"
     },
     {
       "category": "ECONOMY",
       "color": "green",
-      "source": "Reuters",
-      "title": "US inflation rises below expectations in August, gives the Fed breathing space - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSktrS2JqeGdwTmowTVBNV2lPbnZwcVdwSzJPVi1aRzZuVDVQU3RtRGZ1UExTOVJnWm9CcTNYbnFneF9wOWlCMU5MNXEwMDN4UmhVVkx2MFVWOC1EYVdyb3Y3WXNYYXhNUzZSUExKQzNZOWk4U1dRaVBMMUZBeklyT0VqNFVhbUV3RjJmbThsM3FOejFUV2lBV0ZtZjNTZjVqRFYwcGZqZWdKdjBRa3FvcmdKRTRWak0?oc=5"
+      "source": "The New York Times",
+      "title": "Jobs Report Live Updates: Growth Cools and Unemployment Rises to 4.2% - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8tXzZZMWJ0bEJQTWtSbmtWeFpSWWFwdHJhV05ZaW1WY1pXeldrcl9uZks1cmdRTWtScnY2RzhWdFRKWGk4Y0Y4S2xpSF9YVnJ4TTRyTmpMRkpEQlVZQXJhOE9rdklCUVFfc2x6cWJBckdJLVBrbmY4?oc=5"
     },
     {
       "category": "ENVIRON",
@@ -61,9 +61,9 @@
     {
       "tag": "지역 노동시장",
       "color": "teal",
-      "title": "Statewide Unemployment H…",
-      "desc": "Statewide Unemployment Holds Firm for Fourth Straight Month",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRVhSTWxkbnllOGVudGVqdlFhckJyOWVnSF83WHNkZzlsMlVZZmxGeUFKanJ2dktyTkxoMTk5X2czdHFuNWMwcnVLUnRBLVZxbl9odENqVUMyeFBCQmJONHlIc0V0WEQyMWpNYm9mOFRoSDBQbTYwNFVQRDZNd19BZFB1YWN0T2tnNzlleUFHcUk2R1Ntb1NNS1JRSFBQYzM3V1RuVjRDUlBzeEpPVy05Z1JPbkdVN1hhZkN5eG9GM0VYcmhN?oc=5"
+      "title": "Tennessee Unemployment R…",
+      "desc": "Tennessee Unemployment Rate Falls to Two-Year Low of 3.4%",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOTJvaDcxRW5aaGVwOWR5WEh6WVlWWFRKbUdwV2Z4MERMWkx4cEMwTC1pb1FmY1ktT2tOSFFTaUxYYjJmY2xWYzgyY0hINFRyQWxqYURsT1Q1VHpPTGVBNHc4bm9xYWVMYkkzOXlEQzVwb09Ib0s4dWpMZHp2eDJiN055UXZzUi1PMjM5bURMTEdnSTZHZlUyR09WTW9rTDJzLVFWZFByeDREdGpQRFpNM2kxcmx2ZFRqWGNKZHNnQy0?oc=5"
     }
   ],
   "country_profile": {
