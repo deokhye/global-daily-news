@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-04T08:31:12.644545+09:00",
-  "generated_at_display": "2026-10-04 08:31 KST",
+  "generated_at": "2026-10-05T08:50:20.792707+09:00",
+  "generated_at_display": "2026-10-05 08:50 KST",
   "exchange_rate": {
-    "current_rate": 1342.510009765625,
+    "current_rate": 1343.0,
     "source": "Yahoo Finance",
-    "change_pct": -1.06,
+    "change_pct": -1.29,
     "history_labels": [
       "11월",
       "12월",
@@ -31,30 +31,30 @@
       1420.6,
       1377.11,
       1350.5,
-      1342.51
+      1343.0
     ]
   },
   "headlines": [
     {
       "category": "POLITICS",
       "color": "blue",
-      "source": "The Guardian",
-      "title": "When is the right time to compare US politics to the Nazi era? This expert on Christian nationalism says: now - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcmR2MjJDRHVuVHg0OUFjTE9va2NPdDBhQXJWZEdxWnNhRnZadlpIZHdhYWstejNJT3AtTkJKZEs3Qlc4OVZhMG1JTjRXNlhMSkRHMF81QnRBaU5pRkdjYkJJMkduS0RhUW1xTVg4T0oyeEhPQXJvbndZT1FDR052RTdpODhQZm8?oc=5"
+      "source": "CNN",
+      "title": "Trump advocates for mail and early voting despite historically opposing both - CNN",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5zRWVLbGNTd0FZQVZoYnFIRlpEYTFMbTMtNDJ6MVBoQVAxMEFGSmhUdDZqOUxEMkJIN3MyQjZ5OTJ1VG5Vb1ZEV0xIV0ZsVTVMQVY1aVR1aFhlN0d6bTJ0X3laYUZmWTJHZWtfOUQ2Mlp5UFJDU1E?oc=5"
     },
     {
       "category": "ECONOMY",
       "color": "green",
-      "source": "PBS",
-      "title": "What a hiring slowdown signals about the state of the U.S. economy - PBS",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSWxQQU94cHhRaWIwaEQ2dV9xVS1HX2g2Sm90T3VpYl90NFBBTWZQdDF5STNlcDVKR0JESkFfaGJjOFVnUjJpVGZrYnlzUFZUWkhnbENteE5mVm5TdUE2dW5SNUVrVEtPMzlTS1RFdEdFXzVpSDVkTmhhQXFvOWRMX1hQT1NWbzRuOVg3RnpSSlNhM2JZaUxtamRWRjZEQjNM?oc=5"
+      "source": "NerdWallet",
+      "title": "Current U.S. Inflation Rate Is 3.4%: Chart and Why It Matters - NerdWallet",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Za3phOE0tNW9aSnJBY1BuMVVxTW43ZzhnUWVqUlE0cWxLNnktQjRiZC1nR0VwVnVHaDdxRUIwRGNjMDZuVW5CVFZPV1BtUjJhSlZYV3FnTUU0V2doMzRB?oc=5"
     },
     {
       "category": "ENVIRON",
       "color": "orange",
-      "source": "The Guardian",
-      "title": "US states and cities sue over Trump EPA’s repeal of emissions rules - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbEFmWW1TcEFRaERJRy05TWp0ZTZjN2tRcUVaS05rUHFTWHZhTVJ0bW8tSEpQaXI1TS1YTlE5SU8xWlZveTJHVW41MUx0dWliLXR3bTJWdmwwc1BGUWNjLWdIempVejZXdWN1YjZpWGo5WUowMVBIb1FpbFg1YzVUdUhyNi1VRm9vbVRBZkNWVVFSRUl6c0FXeFFCTWo?oc=5"
+      "source": "E-International Relations",
+      "title": "Environment, Climate and International Relations - E-International Relations",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9FTHdhRFB5QzMwUG5yTThNTWJldk9MWFhSd3AtSUljYlh6Ui01SzRScXdfeGJ3dWd2elNVbzBUdkxOZG50Y2JUbklib2p2VDJOM1ItUmdCRU9kOXR6RzVzU2hMQUNOUEhRZUdCdQ?oc=5"
     }
   ],
   "hr_trends": [
