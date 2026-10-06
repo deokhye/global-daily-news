@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-05T08:50:20.792707+09:00",
-  "generated_at_display": "2026-10-05 08:50 KST",
+  "generated_at": "2026-10-06T10:40:09.902721+09:00",
+  "generated_at_display": "2026-10-06 10:40 KST",
   "exchange_rate": {
-    "current_rate": 1343.0,
+    "current_rate": 1344.1099853515625,
     "source": "Yahoo Finance",
-    "change_pct": -1.29,
+    "change_pct": 0.12,
     "history_labels": [
       "11월",
       "12월",
@@ -31,16 +31,16 @@
       1420.6,
       1377.11,
       1350.5,
-      1343.0
+      1344.78
     ]
   },
   "headlines": [
     {
       "category": "POLITICS",
       "color": "blue",
-      "source": "CNN",
-      "title": "Trump advocates for mail and early voting despite historically opposing both - CNN",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5zRWVLbGNTd0FZQVZoYnFIRlpEYTFMbTMtNDJ6MVBoQVAxMEFGSmhUdDZqOUxEMkJIN3MyQjZ5OTJ1VG5Vb1ZEV0xIV0ZsVTVMQVY1aVR1aFhlN0d6bTJ0X3laYUZmWTJHZWtfOUQ2Mlp5UFJDU1E?oc=5"
+      "source": "The Guardian",
+      "title": "Trump claims he’s ‘doing great’ as his approval rating sinks to record low – live - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPN2FvR193Tmk5ZVNNVEQyeTZiRHhoRTRxNlc5c3JNTk8tQy1WcG0yWGI0Z3lFRGhGaGlBYlVENkdhSDZIRkxDdVRIaklkWXVWb2p6cW54NnBPYUx4TWdha0tYNVJGMVBSV1UzMmZXYTI4TnZ2UlowUENwRlBySHdGd3dqNE82SXRiSWhuOEZLQlpWRGdUWGFuNXZ4Tk14amkySWRkZkpFaWduVjZXbE5YMUM0OURXcUdDVkwwOGVWeEZqaGtSV1BwVnhndktBQQ?oc=5"
     },
     {
       "category": "ECONOMY",
@@ -52,9 +52,9 @@
     {
       "category": "ENVIRON",
       "color": "orange",
-      "source": "E-International Relations",
-      "title": "Environment, Climate and International Relations - E-International Relations",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9FTHdhRFB5QzMwUG5yTThNTWJldk9MWFhSd3AtSUljYlh6Ui01SzRScXdfeGJ3dWd2elNVbzBUdkxOZG50Y2JUbklib2p2VDJOM1ItUmdCRU9kOXR6RzVzU2hMQUNOUEhRZUdCdQ?oc=5"
+      "source": "The New York Times",
+      "title": "Supreme Court Tangles Over a Major Climate Change Case - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVDh6dGcxcGRmd2lUZjBXbUwtVWtPY2ZvY2FycW9iVTBZUl9IVTZmZTNDem1vYWJWUWVBd3J1Z2hhOURhVWRKc2JLVG1ZU2hHNndOZ2ExN1lwNnpQUVJnWkhEUzlxYjRNZlJYZE1MdW1CNVdPYjlJYmJUbjB2cjROWERzSWpYZVRpbDdMWQ?oc=5"
     }
   ],
   "hr_trends": [
