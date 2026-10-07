@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-06T10:40:09.902721+09:00",
-  "generated_at_display": "2026-10-06 10:40 KST",
+  "generated_at": "2026-10-07T09:22:09.194221+09:00",
+  "generated_at_display": "2026-10-07 09:22 KST",
   "exchange_rate": {
-    "current_rate": 1344.1099853515625,
+    "current_rate": 1340.199951171875,
     "source": "Yahoo Finance",
-    "change_pct": 0.12,
+    "change_pct": -0.26,
     "history_labels": [
       "11월",
       "12월",
@@ -31,7 +31,7 @@
       1420.6,
       1377.11,
       1350.5,
-      1344.78
+      1340.2
     ]
   },
   "headlines": [
@@ -39,8 +39,8 @@
       "category": "POLITICS",
       "color": "blue",
       "source": "The Guardian",
-      "title": "Trump claims he’s ‘doing great’ as his approval rating sinks to record low – live - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPN2FvR193Tmk5ZVNNVEQyeTZiRHhoRTRxNlc5c3JNTk8tQy1WcG0yWGI0Z3lFRGhGaGlBYlVENkdhSDZIRkxDdVRIaklkWXVWb2p6cW54NnBPYUx4TWdha0tYNVJGMVBSV1UzMmZXYTI4TnZ2UlowUENwRlBySHdGd3dqNE82SXRiSWhuOEZLQlpWRGdUWGFuNXZ4Tk14amkySWRkZkpFaWduVjZXbE5YMUM0OURXcUdDVkwwOGVWeEZqaGtSV1BwVnhndktBQQ?oc=5"
+      "title": "Democrats now favored in key midterm races that could give them control of US Senate, new projections find – US politics live - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOallkemxnTGxWcUIxWXRnRjg0ZXNtbUZ5ZHNQUDdSRTQ0bnNiR3hZYzJHNlZjd1IxN3NxQkNZZ0lwMkVEakpHX2FNYlV0eDBVM0JkWHM0bWU1UElXc1N0VFhDTU9uYTJtSVp5ZktfVVRlWWFEakdTM0J6SENsV3k3TGMybkVUVEpDNERtb3c1ak5YNzQtblA5cnRRZUI3eGNyZ3MxSzNqeGJUQ0xtS01jcFM3Mm16LTYyanMxYlRR?oc=5"
     },
     {
       "category": "ECONOMY",
@@ -52,9 +52,9 @@
     {
       "category": "ENVIRON",
       "color": "orange",
-      "source": "The New York Times",
-      "title": "Supreme Court Tangles Over a Major Climate Change Case - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVDh6dGcxcGRmd2lUZjBXbUwtVWtPY2ZvY2FycW9iVTBZUl9IVTZmZTNDem1vYWJWUWVBd3J1Z2hhOURhVWRKc2JLVG1ZU2hHNndOZ2ExN1lwNnpQUVJnWkhEUzlxYjRNZlJYZE1MdW1CNVdPYjlJYmJUbjB2cjROWERzSWpYZVRpbDdMWQ?oc=5"
+      "source": "Resources Magazine",
+      "title": "Silver Linings? How to Seize the Moment to Create Better Environmental Regulations That Are Built on Science and Economics - Resources Magazine",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQYVd4WG5rS2djcUtkeFhVcHZiQkZFcGxLRjFiSGVnRlB1dFF2S3RrS1V5aHRYMUR5TnMtUzIzZUVJdVBjNHlWdUJiNlJqam95cFprdmlIUDFRQ2o0dEpvRUNlSk1CNmZOa2FNQVl3TVdJM1ZsT204a3FCbWFGUWRzNzF3bzgxZ05rVVZOUnJmeTB2NTllOGxWdWh2RTBKMHJyOWVvUjFPWnBzZVlQME5NLWdNRHJnb21pcHNvOWgxMVU2Ukw3TklzdmdKcTdNSEpsdWVtYm53SUkza05qSjJtNFdRWEh2U1BsdUFXMW9B?oc=5"
     }
   ],
   "hr_trends": [
