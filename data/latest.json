@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-07T09:22:09.194221+09:00",
-  "generated_at_display": "2026-10-07 09:22 KST",
+  "generated_at": "2026-10-08T09:43:17.526772+09:00",
+  "generated_at_display": "2026-10-08 09:43 KST",
   "exchange_rate": {
-    "current_rate": 1340.199951171875,
+    "current_rate": 1338.1800537109375,
     "source": "Yahoo Finance",
-    "change_pct": -0.26,
+    "change_pct": -0.12,
     "history_labels": [
       "11월",
       "12월",
@@ -31,7 +31,7 @@
       1420.6,
       1377.11,
       1350.5,
-      1340.2
+      1338.18
     ]
   },
   "headlines": [
@@ -39,15 +39,15 @@
       "category": "POLITICS",
       "color": "blue",
       "source": "The Guardian",
-      "title": "Democrats now favored in key midterm races that could give them control of US Senate, new projections find – US politics live - The Guardian",
+      "title": "Democrats now favored in key midterm races that could give them control of US Senate, new projections find – as it happened - The Guardian",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOallkemxnTGxWcUIxWXRnRjg0ZXNtbUZ5ZHNQUDdSRTQ0bnNiR3hZYzJHNlZjd1IxN3NxQkNZZ0lwMkVEakpHX2FNYlV0eDBVM0JkWHM0bWU1UElXc1N0VFhDTU9uYTJtSVp5ZktfVVRlWWFEakdTM0J6SENsV3k3TGMybkVUVEpDNERtb3c1ak5YNzQtblA5cnRRZUI3eGNyZ3MxSzNqeGJUQ0xtS01jcFM3Mm16LTYyanMxYlRR?oc=5"
     },
     {
       "category": "ECONOMY",
       "color": "green",
-      "source": "NerdWallet",
-      "title": "Current U.S. Inflation Rate Is 3.4%: Chart and Why It Matters - NerdWallet",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Za3phOE0tNW9aSnJBY1BuMVVxTW43ZzhnUWVqUlE0cWxLNnktQjRiZC1nR0VwVnVHaDdxRUIwRGNjMDZuVW5CVFZPV1BtUjJhSlZYV3FnTUU0V2doMzRB?oc=5"
+      "source": "Peterson Institute for International Economics",
+      "title": "Global growth remains solid in a challenging environment - Peterson Institute for International Economics",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQU0NqejZ2Zzh2ek5sUE5DUkRVSXBrZFVGVzZKODJBOXhGdFlEcFRVOFgxVUhIT3FSZWNhOUMydGRiR0pYY2d0NnRSaG45c2Vybk9neWJWNVp3UEFXem1TNFN3M2tmZjdrTWJ1QnRfdzZrM0M0bGxEcGFBbFg0aEwxVXdidkRtTEdjd3RWR3g4S0RVVktxcFNZbTRQMk5xOFFUek1YUQ?oc=5"
     },
     {
       "category": "ENVIRON",
