@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-08T09:43:17.526772+09:00",
-  "generated_at_display": "2026-10-08 09:43 KST",
+  "generated_at": "2026-10-09T09:59:10.361408+09:00",
+  "generated_at_display": "2026-10-09 09:59 KST",
   "exchange_rate": {
-    "current_rate": 1338.1800537109375,
+    "current_rate": 1344.550048828125,
     "source": "Yahoo Finance",
-    "change_pct": -0.12,
+    "change_pct": 0.41,
     "history_labels": [
       "11월",
       "12월",
@@ -31,7 +31,7 @@
       1420.6,
       1377.11,
       1350.5,
-      1338.18
+      1344.55
     ]
   },
   "headlines": [
@@ -39,8 +39,8 @@
       "category": "POLITICS",
       "color": "blue",
       "source": "The Guardian",
-      "title": "Democrats now favored in key midterm races that could give them control of US Senate, new projections find – as it happened - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOallkemxnTGxWcUIxWXRnRjg0ZXNtbUZ5ZHNQUDdSRTQ0bnNiR3hZYzJHNlZjd1IxN3NxQkNZZ0lwMkVEakpHX2FNYlV0eDBVM0JkWHM0bWU1UElXc1N0VFhDTU9uYTJtSVp5ZktfVVRlWWFEakdTM0J6SENsV3k3TGMybkVUVEpDNERtb3c1ak5YNzQtblA5cnRRZUI3eGNyZ3MxSzNqeGJUQ0xtS01jcFM3Mm16LTYyanMxYlRR?oc=5"
+      "title": "Hegseth falsely claims Obama called 2009 Fort Hood attack ‘workplace violence’ – US politics live - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNd3BpY1VXSk9JQ1llU3lQNVhxNVk3ZDY4ejB1LXRrSzlOc0IyamFnZFo0b3ZXbDBZZkdEOE9naUo0Tjh1ZkRsc0NiWWJELTZtV1BwdGplSXFVLUlub0tPT203Nm9JMHVKQk01bjZCdHQ2OVA1RnNvWVdaZVFiMzAtM0s0QjlUMHBsaVk3a3ZQZnRmQVhVZ3VMWmY4dUxmNF9oVWZmV3g0NXNJS0JTSGp5UzVaVlhvZDB2OHRKbFVnZVR1MHFWLUhFbkdqVlc2QQ?oc=5"
     },
     {
       "category": "ECONOMY",
@@ -52,9 +52,9 @@
     {
       "category": "ENVIRON",
       "color": "orange",
-      "source": "Resources Magazine",
-      "title": "Silver Linings? How to Seize the Moment to Create Better Environmental Regulations That Are Built on Science and Economics - Resources Magazine",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQYVd4WG5rS2djcUtkeFhVcHZiQkZFcGxLRjFiSGVnRlB1dFF2S3RrS1V5aHRYMUR5TnMtUzIzZUVJdVBjNHlWdUJiNlJqam95cFprdmlIUDFRQ2o0dEpvRUNlSk1CNmZOa2FNQVl3TVdJM1ZsT204a3FCbWFGUWRzNzF3bzgxZ05rVVZOUnJmeTB2NTllOGxWdWh2RTBKMHJyOWVvUjFPWnBzZVlQME5NLWdNRHJnb21pcHNvOWgxMVU2Ukw3TklzdmdKcTdNSEpsdWVtYm53SUkza05qSjJtNFdRWEh2U1BsdUFXMW9B?oc=5"
+      "source": "Yale E360",
+      "title": "How the U.S. Public Lost Its Say on Environmental Policy - Yale E360",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNemhfRThyeUtBbWRhTFIwX2g2bEhLYU5zbTMwbHJXckYzZXcyQlZGOG9CRGtiYVRmbEJydV80MXZoQ2RKZVlBT0pmRzFMZE5Pb09ud1FWSHNwaTZxQlEzdkJJdkdYWXhrY3praDk3bTZnc0pIZDF0VVpJVzhHSTNmekstWQ?oc=5"
     }
   ],
   "hr_trends": [
