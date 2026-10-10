@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-09T09:59:10.361408+09:00",
-  "generated_at_display": "2026-10-09 09:59 KST",
+  "generated_at": "2026-10-10T09:29:45.762511+09:00",
+  "generated_at_display": "2026-10-10 09:29 KST",
   "exchange_rate": {
-    "current_rate": 1344.550048828125,
+    "current_rate": 1340.02001953125,
     "source": "Yahoo Finance",
-    "change_pct": 0.41,
+    "change_pct": 0.07,
     "history_labels": [
       "11월",
       "12월",
@@ -31,7 +31,7 @@
       1420.6,
       1377.11,
       1350.5,
-      1344.55
+      1340.02
     ]
   },
   "headlines": [
@@ -39,8 +39,8 @@
       "category": "POLITICS",
       "color": "blue",
       "source": "The Guardian",
-      "title": "Hegseth falsely claims Obama called 2009 Fort Hood attack ‘workplace violence’ – US politics live - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNd3BpY1VXSk9JQ1llU3lQNVhxNVk3ZDY4ejB1LXRrSzlOc0IyamFnZFo0b3ZXbDBZZkdEOE9naUo0Tjh1ZkRsc0NiWWJELTZtV1BwdGplSXFVLUlub0tPT203Nm9JMHVKQk01bjZCdHQ2OVA1RnNvWVdaZVFiMzAtM0s0QjlUMHBsaVk3a3ZQZnRmQVhVZ3VMWmY4dUxmNF9oVWZmV3g0NXNJS0JTSGp5UzVaVlhvZDB2OHRKbFVnZVR1MHFWLUhFbkdqVlc2QQ?oc=5"
+      "title": "Trump repeats his false claim that Iran could destroy Los Angeles or San Diego – as it happened - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxPZ1N0MjZ4aDd3RnZfNkgwMmc3SEdoWDNFaHhTYjlGdV9OYWFRY214MVBkN1ZQQUI0ZU9FNGE4YjFsMjFKRXdSVGtxSzJVdXlMRGJUckNpcFhNSGRIbnZyRVNmeWVNOGpIR1Zaa0VzY0pkNUJyX2JVQWRPQ0REM3UxZUlacUZ2b3QzM0xPM2lYVEJKWVNfNmtvaFdYUFNJYkJtd1lKeUtTZ1Z4OFFzTXNpN0JmUjRPSEI2QjBXOEFWT01EcDJzV2VwZTVuWlVmeEV5MWNBdkFZMlpiM0gzT1J0NUtYZTItM0JyTVBzLU96TUNOckU4RWREeXdfZjVFaG5MUVJBTmtxcGRBcERHNUhXeDJMZXdRUTM3YTRUQkctckZubC1sZUVPRGQ5UnE?oc=5"
     },
     {
       "category": "ECONOMY",
