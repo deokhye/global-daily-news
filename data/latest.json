@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-10T09:29:45.762511+09:00",
-  "generated_at_display": "2026-10-10 09:29 KST",
+  "generated_at": "2026-10-11T09:06:03.954510+09:00",
+  "generated_at_display": "2026-10-11 09:06 KST",
   "exchange_rate": {
-    "current_rate": 1340.02001953125,
+    "current_rate": 1340.9000244140625,
     "source": "Yahoo Finance",
-    "change_pct": 0.07,
+    "change_pct": -0.16,
     "history_labels": [
       "11월",
       "12월",
@@ -31,16 +31,16 @@
       1420.6,
       1377.11,
       1350.5,
-      1340.02
+      1340.9
     ]
   },
   "headlines": [
     {
       "category": "POLITICS",
       "color": "blue",
-      "source": "The Guardian",
-      "title": "Trump repeats his false claim that Iran could destroy Los Angeles or San Diego – as it happened - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxPZ1N0MjZ4aDd3RnZfNkgwMmc3SEdoWDNFaHhTYjlGdV9OYWFRY214MVBkN1ZQQUI0ZU9FNGE4YjFsMjFKRXdSVGtxSzJVdXlMRGJUckNpcFhNSGRIbnZyRVNmeWVNOGpIR1Zaa0VzY0pkNUJyX2JVQWRPQ0REM3UxZUlacUZ2b3QzM0xPM2lYVEJKWVNfNmtvaFdYUFNJYkJtd1lKeUtTZ1Z4OFFzTXNpN0JmUjRPSEI2QjBXOEFWT01EcDJzV2VwZTVuWlVmeEV5MWNBdkFZMlpiM0gzT1J0NUtYZTItM0JyTVBzLU96TUNOckU4RWREeXdfZjVFaG5MUVJBTmtxcGRBcERHNUhXeDJMZXdRUTM3YTRUQkctckZubC1sZUVPRGQ5UnE?oc=5"
+      "source": "DW.com",
+      "title": "US midterms: Women candidates could make history - DW.com",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY1NxNDZteGVKTXR1MWdBTEpickY3NGF3eGRySHNDYy1PV0NOM05SZ0pRX2tmZmRvc1htVG5EWVlzM2hVQzU5RmhzVVhXTDh2ODZBeGRjTUE1aFJlVENUVk9LbzZWeWE0RFREb0tDOUg0RmdPUWd1eDBLMEo4b1E5dnc2aWpheknSAYcBQVVfeXFMUHl6d04wYzRLU1Fhby1JVlF5NW9vQ013ZDVtcWkzYkxVRXVjTTNoR25nREFlNEFnZnpXSnFDUEV0SWQxSlk0SjEzV19FcWpZY1FITnhIM3VXaHdPaEJoVXY5Y2dnRkM3TjFDdjVPSmc0ams0bXJXSHFaZWJhaGZXOGlROFp4WGtB?oc=5"
     },
     {
       "category": "ECONOMY",
@@ -53,7 +53,7 @@
       "category": "ENVIRON",
       "color": "orange",
       "source": "Yale E360",
-      "title": "How the U.S. Public Lost Its Say on Environmental Policy - Yale E360",
+      "title": "The U.S. Public Is Losing Its Say on Environmental Policy - Yale E360",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNemhfRThyeUtBbWRhTFIwX2g2bEhLYU5zbTMwbHJXckYzZXcyQlZGOG9CRGtiYVRmbEJydV80MXZoQ2RKZVlBT0pmRzFMZE5Pb09ud1FWSHNwaTZxQlEzdkJJdkdYWXhrY3praDk3bTZnc0pIZDF0VVpJVzhHSTNmekstWQ?oc=5"
     }
   ],
