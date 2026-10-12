@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-11T09:06:03.954510+09:00",
-  "generated_at_display": "2026-10-11 09:06 KST",
+  "generated_at": "2026-10-12T09:14:31.762142+09:00",
+  "generated_at_display": "2026-10-12 09:14 KST",
   "exchange_rate": {
-    "current_rate": 1340.9000244140625,
+    "current_rate": 1337.93994140625,
     "source": "Yahoo Finance",
-    "change_pct": -0.16,
+    "change_pct": -0.38,
     "history_labels": [
       "11월",
       "12월",
@@ -31,23 +31,23 @@
       1420.6,
       1377.11,
       1350.5,
-      1340.9
+      1337.94
     ]
   },
   "headlines": [
     {
       "category": "POLITICS",
       "color": "blue",
-      "source": "DW.com",
-      "title": "US midterms: Women candidates could make history - DW.com",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY1NxNDZteGVKTXR1MWdBTEpickY3NGF3eGRySHNDYy1PV0NOM05SZ0pRX2tmZmRvc1htVG5EWVlzM2hVQzU5RmhzVVhXTDh2ODZBeGRjTUE1aFJlVENUVk9LbzZWeWE0RFREb0tDOUg0RmdPUWd1eDBLMEo4b1E5dnc2aWpheknSAYcBQVVfeXFMUHl6d04wYzRLU1Fhby1JVlF5NW9vQ013ZDVtcWkzYkxVRXVjTTNoR25nREFlNEFnZnpXSnFDUEV0SWQxSlk0SjEzV19FcWpZY1FITnhIM3VXaHdPaEJoVXY5Y2dnRkM3TjFDdjVPSmc0ams0bXJXSHFaZWJhaGZXOGlROFp4WGtB?oc=5"
+      "source": "The New York Times",
+      "title": "In the Senate, Collins Often Defies Trump but Rarely Stops Him - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRGctc2V2dVZ3bkdDbGF1Z3BOV2dLRlhmamhVdkliTlVfd3IwZmdBYWxiR1ZMQVNhcHA5dm9aZFdDS1BkdXA3NFJ6UEJtaGJycW1HX3JtR1BPWmNVbV90aWVwZlUwWE5tVUwxQUJsTXhyWmRHSFRFczc1ZlZYTlZ3UnQybTlSVGlpa3hJeWtiRDNNZ0lENDhvYlhxWTZnby1kNTNDQkJQbW1WeGM1cHR5a3FNZw?oc=5"
     },
     {
       "category": "ECONOMY",
       "color": "green",
-      "source": "Peterson Institute for International Economics",
-      "title": "Global growth remains solid in a challenging environment - Peterson Institute for International Economics",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQU0NqejZ2Zzh2ek5sUE5DUkRVSXBrZFVGVzZKODJBOXhGdFlEcFRVOFgxVUhIT3FSZWNhOUMydGRiR0pYY2d0NnRSaG45c2Vybk9neWJWNVp3UEFXem1TNFN3M2tmZjdrTWJ1QnRfdzZrM0M0bGxEcGFBbFg0aEwxVXdidkRtTEdjd3RWR3g4S0RVVktxcFNZbTRQMk5xOFFUek1YUQ?oc=5"
+      "source": "Reuters",
+      "title": "US consumer sentiment near record low as frustration over economy mounts - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZTNtOTFCU2JUSDMxSExIeEJ0SlBxeWRKUlg1Y21pU1lhenlVVnRVWm1PbzJzLXZ0YVJaQi16QzdXR3Qzd3c0ZG5vOG90SE9rNXBPYUM2eFZjQXFKbHpORmVjU3dCekc5NFNuV295MkNDZm9EVUdxVnJ6TW15MnJvYzlhSXJlRjQ4M0JJOTJPaUdweDNlaXRvMnczWQ?oc=5"
     },
     {
       "category": "ENVIRON",
