@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-12T09:14:31.762142+09:00",
-  "generated_at_display": "2026-10-12 09:14 KST",
+  "generated_at": "2026-10-13T11:25:23.901323+09:00",
+  "generated_at_display": "2026-10-13 11:25 KST",
   "exchange_rate": {
-    "current_rate": 1337.93994140625,
+    "current_rate": 1339.0799560546875,
     "source": "Yahoo Finance",
-    "change_pct": -0.38,
+    "change_pct": -0.29,
     "history_labels": [
       "11월",
       "12월",
@@ -31,23 +31,23 @@
       1420.6,
       1377.11,
       1350.5,
-      1337.94
+      1339.08
     ]
   },
   "headlines": [
     {
       "category": "POLITICS",
       "color": "blue",
-      "source": "The New York Times",
-      "title": "In the Senate, Collins Often Defies Trump but Rarely Stops Him - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRGctc2V2dVZ3bkdDbGF1Z3BOV2dLRlhmamhVdkliTlVfd3IwZmdBYWxiR1ZMQVNhcHA5dm9aZFdDS1BkdXA3NFJ6UEJtaGJycW1HX3JtR1BPWmNVbV90aWVwZlUwWE5tVUwxQUJsTXhyWmRHSFRFczc1ZlZYTlZ3UnQybTlSVGlpa3hJeWtiRDNNZ0lENDhvYlhxWTZnby1kNTNDQkJQbW1WeGM1cHR5a3FNZw?oc=5"
+      "source": "Al Jazeera",
+      "title": "US agents search home of Ilhan Omar, Trump critic and Congress member - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcDI4UnZ5UXMxZ2VJSEV2VS1XVVJROGRCZ1BZTGVrTDM3QzhQVnlvVHVGMC1YZE40UWN3TWpaVzRUV1NVZTZmYXpTRDVXWVk5Q3dlR1VxekZMbURDa3ZRNjFqU3Rqa2lOcWwxNlFvaWgyLXBXc1g3OXpWTXFsMkpNeDRIV3pqclYwMGNBWU1CdzZPNjlGLURZQVljU05GeFU4MzhLSFEwQkVtYTJLQVFXNUZHRdIBuAFBVV95cUxNVHhQYWV2cE4wb2tQbDJlNGpzSDVOYVFjU1hqcS1QQVhhNk94WUpPcmxoVjA0U1ZyYWNYYVExSDdxSVdtOHJ1RUVxdDhKdC1kX2QxamxWN1dLUFNqM0UzN2s5R2R1Q1B1R0xWN29CYlpsTktIdE9oMF94TE5Qd1VLQVpqSGlmeXZ3bFRrcjhCWEVCcTZaOFc4SEVOOGNFbnN5VktqYU5YR01rSmR3Y3RNbjlKZXR5ank1?oc=5"
     },
     {
       "category": "ECONOMY",
       "color": "green",
-      "source": "Reuters",
-      "title": "US consumer sentiment near record low as frustration over economy mounts - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZTNtOTFCU2JUSDMxSExIeEJ0SlBxeWRKUlg1Y21pU1lhenlVVnRVWm1PbzJzLXZ0YVJaQi16QzdXR3Qzd3c0ZG5vOG90SE9rNXBPYUM2eFZjQXFKbHpORmVjU3dCekc5NFNuV295MkNDZm9EVUdxVnJ6TW15MnJvYzlhSXJlRjQ4M0JJOTJPaUdweDNlaXRvMnczWQ?oc=5"
+      "source": "NBC News",
+      "title": "Key inflation reports will reveal read on U.S. economy ahead of midterms - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQV0ZZQUVHSkFRRHlvMkYxbGMzQ3k5OVBiclY0LVNNRjhsbWYxWUtnU3Z3dkVhNnlsNEs1bGpCT2tJd3VGaDFVZ2FtRzI2bjNxS3ZDMnoydmI0TUxLYVRWSmlUUmliR3dRc3d6c1lmMjE5NVBjSDY2SWhyMzYwLXY1aVd4V0FoZ3hYMm5kbnNrMzVuMGY0dlJlbEw2MU1hMWctaHFUekhSR0xaU2JtUWs4YUxqZUU?oc=5"
     },
     {
       "category": "ENVIRON",
