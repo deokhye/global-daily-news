@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-14T09:09:12.547417+09:00",
-  "generated_at_display": "2026-10-14 09:09 KST",
+  "generated_at": "2026-10-15T08:42:10.406152+09:00",
+  "generated_at_display": "2026-10-15 08:42 KST",
   "exchange_rate": {
-    "current_rate": 1339.280029296875,
+    "current_rate": 1341.1199951171875,
     "source": "Yahoo Finance",
-    "change_pct": 0.39,
+    "change_pct": 0.06,
     "history_labels": [
       "11월",
       "12월",
@@ -31,30 +31,30 @@
       1420.6,
       1377.11,
       1350.5,
-      1339.28
+      1341.12
     ]
   },
   "headlines": [
     {
       "category": "POLITICS",
       "color": "blue",
-      "source": "The Nation",
-      "title": "Democrats Are Learning a New Political Language - The Nation",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOR1VrOV9Qem9vODhUMnU2YkczLVpxbGM1eWVVZHI5bTR0TW9QeFZzeVhxXzVPb3YtWDBwVy0tcEhlejMzWXNacWRXT1NFYlViZGRMdkRWOGlaWlNFTERWZFdtZ2FoX1NVeUpFR0NGOWlFN2NndG9OMFVhajltQk43Njh1dzhCc3lF0gGQAUFVX3lxTFBnWjhwcHFxYkhPRjYycU5IaFFVb1Q4Zk5hOEFnaC1hTy1YQ1ExdDlTZU5NejdQX3VhdTAzcFRVTlZ6WVc5SFZDaVlrejFTeVROZzBBRzdDUGJwUExhdWM0aThtZ1l3Uk9mRkpPSS00WTJfeEdIcXBZNWpYNGc4TllnR000Nk5mTExNM3h5YXg4dw?oc=5"
+      "source": "Toronto Star",
+      "title": "U.S. ambassador warns Canada to ‘keep your nose out of American politics’ - Toronto Star",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNaU9ITy03ZzIyVmpMSXZNcnNBdkh2cGNDelpIb3RrWVV4U3pQT2I3bTlCMnMwU3lLM0hmWmhGVmFtM3M5RTE5X2JhQmFWNGZzWHpUbkFVOWNsMEctcE0tS1RrQV84b21zWkdDYzM5alV0RUhzUC13UVRfcWtuLUM1SlFZYmxyTlVMSTROVllvTHNCSnRDMDl0d2ZiTDMycjNMaE1rZkgzYm1ZcGx4dVBDYWNpZFZ5bFBaZmd1dHY5QmpwcGlMYjNKZFByUTdaWkxQRjhQWTRqX3hkN3FETm5pLTBrNGtmYkhIRTlpVkZjb1Y3V00?oc=5"
     },
     {
       "category": "ECONOMY",
       "color": "green",
-      "source": "NBC News",
-      "title": "Key inflation reports will reveal read on U.S. economy ahead of midterms - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQV0ZZQUVHSkFRRHlvMkYxbGMzQ3k5OVBiclY0LVNNRjhsbWYxWUtnU3Z3dkVhNnlsNEs1bGpCT2tJd3VGaDFVZ2FtRzI2bjNxS3ZDMnoydmI0TUxLYVRWSmlUUmliR3dRc3d6c1lmMjE5NVBjSDY2SWhyMzYwLXY1aVd4V0FoZ3hYMm5kbnNrMzVuMGY0dlJlbEw2MU1hMWctaHFUekhSR0xaU2JtUWs4YUxqZUU?oc=5"
+      "source": "The New York Times",
+      "title": "Soaring Energy Prices Push Inflation Higher - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVXRrRmpmSC1sM1BwYWdHVzBVbzZRemV3N04yeEdCUV85anBMemFQSXFyMUotV3FLNzdUazB3aWF4ck9fZXlYbTlfUUJUVlhJUkNyTHkyTWZ1R3JIWnJBMFlEMUxCX0VYV2x5R2w1cGF1SVpEc2pFZnJkSWhxMXFLTFEzR050dw?oc=5"
     },
     {
       "category": "ENVIRON",
       "color": "orange",
-      "source": "Yale E360",
-      "title": "The U.S. Public Is Losing Its Say on Environmental Policy - Yale E360",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNemhfRThyeUtBbWRhTFIwX2g2bEhLYU5zbTMwbHJXckYzZXcyQlZGOG9CRGtiYVRmbEJydV80MXZoQ2RKZVlBT0pmRzFMZE5Pb09ud1FWSHNwaTZxQlEzdkJJdkdYWXhrY3praDk3bTZnc0pIZDF0VVpJVzhHSTNmekstWQ?oc=5"
+      "source": "The Guardian",
+      "title": "US states and cities sue over Trump EPA’s repeal of emissions rules - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbEFmWW1TcEFRaERJRy05TWp0ZTZjN2tRcUVaS05rUHFTWHZhTVJ0bW8tSEpQaXI1TS1YTlE5SU8xWlZveTJHVW41MUx0dWliLXR3bTJWdmwwc1BGUWNjLWdIempVejZXdWN1YjZpWGo5WUowMVBIb1FpbFg1YzVUdUhyNi1VRm9vbVRBZkNWVVFSRUl6c0FXeFFCTWo?oc=5"
     }
   ],
   "hr_trends": [
