@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-15T08:42:10.406152+09:00",
-  "generated_at_display": "2026-10-15 08:42 KST",
+  "generated_at": "2026-10-16T08:33:07.685007+09:00",
+  "generated_at_display": "2026-10-16 08:33 KST",
   "exchange_rate": {
-    "current_rate": 1341.1199951171875,
+    "current_rate": 1340.530029296875,
     "source": "Yahoo Finance",
-    "change_pct": 0.06,
+    "change_pct": 0.09,
     "history_labels": [
       "11월",
       "12월",
@@ -31,16 +31,16 @@
       1420.6,
       1377.11,
       1350.5,
-      1341.12
+      1340.53
     ]
   },
   "headlines": [
     {
       "category": "POLITICS",
       "color": "blue",
-      "source": "Toronto Star",
-      "title": "U.S. ambassador warns Canada to ‘keep your nose out of American politics’ - Toronto Star",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNaU9ITy03ZzIyVmpMSXZNcnNBdkh2cGNDelpIb3RrWVV4U3pQT2I3bTlCMnMwU3lLM0hmWmhGVmFtM3M5RTE5X2JhQmFWNGZzWHpUbkFVOWNsMEctcE0tS1RrQV84b21zWkdDYzM5alV0RUhzUC13UVRfcWtuLUM1SlFZYmxyTlVMSTROVllvTHNCSnRDMDl0d2ZiTDMycjNMaE1rZkgzYm1ZcGx4dVBDYWNpZFZ5bFBaZmd1dHY5QmpwcGlMYjNKZFByUTdaWkxQRjhQWTRqX3hkN3FETm5pLTBrNGtmYkhIRTlpVkZjb1Y3V00?oc=5"
+      "source": "News.com.au",
+      "title": "Fury forces Trump into stunning backflip - News.com.au",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRm45eGVWV1ctSlp2cnVHUmRIYWw0aW9JNlZGN19ZWUtkZ2dDaDl4dnAzS09zOXhXbWtqc3drQ0FadFhxS1BuclFacndmQ0I1ZVQ4cHdoaDdRdGRNZTQ2RHRNVnhwZXFuY3kwa3pLVmFJSXZZdThzUUtVcTZwSDhyc2FTRExTc1c1aTgwSjBLODlEaC1RQ2x5TldGeFVoai0tNnVwTE5vSXJLcTgydFhFaXpBLUcxckhheVRRMEFFMGtuS3VjU0NfOVlwSUg2M1czQWNwMmVEUdIB3AFBVV95cUxNU3ZMcGc3cjNKUDFEa3d5V3RfaXV4TnlibGJfUHlVV0czT1hHMnFEMVU2dXVoSGc2MnhPNE5WR0cyVFJpUkxiT3E3MlU1MzNXMG0zal9nZzRNMlE2UmJMRVlKQXBOeWNmZkRBVDY0QUY3VWN3Rzh5RjloQ3VXaHZDV0tNekh1aTFaM1JPN1pBVGZpY1A0UmY5NHF6Mk9NSlNlaEo5U3FwRFozSG1iUVdfeTNNOHQ3RkFyczdTMmxjQ1BiTjN1VGlBX2lQaUhIaHZQWnduMkljMHF6enRY?oc=5"
     },
     {
       "category": "ECONOMY",
