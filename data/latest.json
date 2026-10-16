@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-16T08:33:07.685007+09:00",
-  "generated_at_display": "2026-10-16 08:33 KST",
+  "generated_at": "2026-10-17T08:15:49.054314+09:00",
+  "generated_at_display": "2026-10-17 08:15 KST",
   "exchange_rate": {
-    "current_rate": 1340.530029296875,
+    "current_rate": 1334.199951171875,
     "source": "Yahoo Finance",
-    "change_pct": 0.09,
+    "change_pct": -0.5,
     "history_labels": [
       "11월",
       "12월",
@@ -31,16 +31,16 @@
       1420.6,
       1377.11,
       1350.5,
-      1340.53
+      1334.2
     ]
   },
   "headlines": [
     {
       "category": "POLITICS",
       "color": "blue",
-      "source": "News.com.au",
-      "title": "Fury forces Trump into stunning backflip - News.com.au",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRm45eGVWV1ctSlp2cnVHUmRIYWw0aW9JNlZGN19ZWUtkZ2dDaDl4dnAzS09zOXhXbWtqc3drQ0FadFhxS1BuclFacndmQ0I1ZVQ4cHdoaDdRdGRNZTQ2RHRNVnhwZXFuY3kwa3pLVmFJSXZZdThzUUtVcTZwSDhyc2FTRExTc1c1aTgwSjBLODlEaC1RQ2x5TldGeFVoai0tNnVwTE5vSXJLcTgydFhFaXpBLUcxckhheVRRMEFFMGtuS3VjU0NfOVlwSUg2M1czQWNwMmVEUdIB3AFBVV95cUxNU3ZMcGc3cjNKUDFEa3d5V3RfaXV4TnlibGJfUHlVV0czT1hHMnFEMVU2dXVoSGc2MnhPNE5WR0cyVFJpUkxiT3E3MlU1MzNXMG0zal9nZzRNMlE2UmJMRVlKQXBOeWNmZkRBVDY0QUY3VWN3Rzh5RjloQ3VXaHZDV0tNekh1aTFaM1JPN1pBVGZpY1A0UmY5NHF6Mk9NSlNlaEo5U3FwRFozSG1iUVdfeTNNOHQ3RkFyczdTMmxjQ1BiTjN1VGlBX2lQaUhIaHZQWnduMkljMHF6enRY?oc=5"
+      "source": "The Guardian",
+      "title": "Trump’s appearance at Georgia rally disrupted by anti-ICE protesters – US politics live - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPemtWakNrbU1KVTJvLUR0VWRkUjFmaUlOOFFQTi04QnpwYXNwbGcyUFR5cWpOZnF6TlhhTVZOUF96ckpCNFVWcDhJc3hyOGs3aHRQYXJBZXhLTDlIRjZySWRpdy1kQ1ZCQ3JQZk1MdlFoRTVFUGNnenF6Um1BcW1iZGpseDBMS2s2QW8yR2dqLWttRUxNYjdyNjBYYW1HaF81OUY0MXRLOEZsOV9WUlVySUNlNW4xYU5PSXd3c0s3NmVCX3gtWlNZOUVnT3lqY2pYMk1IbDRjWGZPRkx4LUNhanJnc0VOSHR2NDJfOUZuUEJpY2s?oc=5"
     },
     {
       "category": "ECONOMY",
@@ -52,9 +52,9 @@
     {
       "category": "ENVIRON",
       "color": "orange",
-      "source": "The Guardian",
-      "title": "US states and cities sue over Trump EPA’s repeal of emissions rules - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbEFmWW1TcEFRaERJRy05TWp0ZTZjN2tRcUVaS05rUHFTWHZhTVJ0bW8tSEpQaXI1TS1YTlE5SU8xWlZveTJHVW41MUx0dWliLXR3bTJWdmwwc1BGUWNjLWdIempVejZXdWN1YjZpWGo5WUowMVBIb1FpbFg1YzVUdUhyNi1VRm9vbVRBZkNWVVFSRUl6c0FXeFFCTWo?oc=5"
+      "source": "Impakter",
+      "title": "EPA Delays 2025 Emissions Reporting Deadline to March 2027 - Impakter",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1fNDVDa3FrZVdUeEtscXRNelhHT291bzBfX1FVR05ZOUFnRWhKTnkyV0FyVjJHWjVnSmNIOEdNYTBiUkRwalpKOVlWVDQ2b2VUeGVHQkhDZUpVN1RHaGtJY0tMODhCSGloUURabWZfRXp4aGJZ?oc=5"
     }
   ],
   "hr_trends": [
