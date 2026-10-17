@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-17T08:15:49.054314+09:00",
-  "generated_at_display": "2026-10-17 08:15 KST",
+  "generated_at": "2026-10-18T07:54:06.639360+09:00",
+  "generated_at_display": "2026-10-18 07:54 KST",
   "exchange_rate": {
-    "current_rate": 1334.199951171875,
+    "current_rate": 1329.5999755859375,
     "source": "Yahoo Finance",
-    "change_pct": -0.5,
+    "change_pct": -0.85,
     "history_labels": [
       "11월",
       "12월",
@@ -31,30 +31,30 @@
       1420.6,
       1377.11,
       1350.5,
-      1334.2
+      1329.6
     ]
   },
   "headlines": [
     {
       "category": "POLITICS",
       "color": "blue",
-      "source": "The Guardian",
-      "title": "Trump’s appearance at Georgia rally disrupted by anti-ICE protesters – US politics live - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPemtWakNrbU1KVTJvLUR0VWRkUjFmaUlOOFFQTi04QnpwYXNwbGcyUFR5cWpOZnF6TlhhTVZOUF96ckpCNFVWcDhJc3hyOGs3aHRQYXJBZXhLTDlIRjZySWRpdy1kQ1ZCQ3JQZk1MdlFoRTVFUGNnenF6Um1BcW1iZGpseDBMS2s2QW8yR2dqLWttRUxNYjdyNjBYYW1HaF81OUY0MXRLOEZsOV9WUlVySUNlNW4xYU5PSXd3c0s3NmVCX3gtWlNZOUVnT3lqY2pYMk1IbDRjWGZPRkx4LUNhanJnc0VOSHR2NDJfOUZuUEJpY2s?oc=5"
+      "source": "The New York Times",
+      "title": "Trump Signs Order Exempting Russia From Sanctions Law - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbjBtZHJzaWs1Q0M1VEQ3LVg3VTRvdkdwTFNKY2xwbG82X0ZYZGR1X3ZYZk1uOGRqWFdhcl90YUNTVlQ5dWNjV0Y1bmpYcWo4TENqdnhTMy1VQVV6MEtpM2ZlQXRuN2o3TS11UUNrR0F3Vnp4T0NqNHBiTndVY1ZGMU1sT2Nka2c?oc=5"
     },
     {
       "category": "ECONOMY",
       "color": "green",
       "source": "The New York Times",
-      "title": "Soaring Energy Prices Push Inflation Higher - The New York Times",
+      "title": "CPI Report Live Updates: New Insights on Inflation, U.S. Economy and the Fed - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVXRrRmpmSC1sM1BwYWdHVzBVbzZRemV3N04yeEdCUV85anBMemFQSXFyMUotV3FLNzdUazB3aWF4ck9fZXlYbTlfUUJUVlhJUkNyTHkyTWZ1R3JIWnJBMFlEMUxCX0VYV2x5R2w1cGF1SVpEc2pFZnJkSWhxMXFLTFEzR050dw?oc=5"
     },
     {
       "category": "ENVIRON",
       "color": "orange",
-      "source": "Impakter",
-      "title": "EPA Delays 2025 Emissions Reporting Deadline to March 2027 - Impakter",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1fNDVDa3FrZVdUeEtscXRNelhHT291bzBfX1FVR05ZOUFnRWhKTnkyV0FyVjJHWjVnSmNIOEdNYTBiUkRwalpKOVlWVDQ2b2VUeGVHQkhDZUpVN1RHaGtJY0tMODhCSGloUURabWZfRXp4aGJZ?oc=5"
+      "source": "NRDC",
+      "title": "White House Watch: Tracking Attacks on Our Environment & Health - NRDC",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeXRXT1ZGdUF0S2NRNkhWR0cyRjBreExxaWtDMDdvUEZ6RTdSUTBwaTRyQWxaTVVMTTlUaS1nREJvMlVGM2RsX1d3U19nT3h0MG8xeDZlVUR5ZWZPYlVGeWpQRjZKVU54Sm96MjZ3MGFXYk00ZC1vZUk3WmVSS3FkTVpkM2RJRE0zQ1BaYVNiVDZUUQ?oc=5"
     }
   ],
   "hr_trends": [
