@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-20T09:06:56.315630+09:00",
-  "generated_at_display": "2026-10-20 09:06 KST",
+  "generated_at": "2026-10-21T08:38:05.594930+09:00",
+  "generated_at_display": "2026-10-21 08:38 KST",
   "exchange_rate": {
-    "current_rate": 1327.1400146484375,
+    "current_rate": 1325.530029296875,
     "source": "Yahoo Finance",
-    "change_pct": -0.47,
+    "change_pct": -0.34,
     "history_labels": [
       "11월",
       "12월",
@@ -31,23 +31,23 @@
       1420.6,
       1377.11,
       1350.5,
-      1327.14
+      1325.53
     ]
   },
   "headlines": [
     {
       "category": "POLITICS",
       "color": "blue",
-      "source": "Bloomberg.com",
-      "title": "Trump’s Russia Shift Shows Domestic Politics Comes First - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWGlrakd0N2d1YWp3ZllVWDhRVDFKWDRteWdBQUFzS0VfcFFOMXNIemFkT1hYUHVURnJaVVhHVDQyVGZQSWs2QXZVQjBiU1BUenl6RF93WVNkbzlqY0lieU9Tb0hfblpPaVYtSUUyaDVnQ0RmdzNPV2RWMkZVQXdwX1VKUi1sbmxZdlR3QUY5Q1otNzBnUE1STThDQzVqbXE5UlVZ?oc=5"
+      "source": "Council on Foreign Relations",
+      "title": "A Dozen Numbers That Explain the Midterms - Council on Foreign Relations",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1GTnFJTThNTlpwNFBNVGpyeWlHOWFJYzN0dmwzNFFjQzVnWndsLUZJNzBEM1RNNUx4dXIyaE9jV2RQbkNPTGNjQWpVa0EyekpHTlphczBIY3N5Q2VSRDNQY0pSMm12R05aNDdJRnA2dm92Z0VPRXRPR3Bn?oc=5"
     },
     {
       "category": "ECONOMY",
       "color": "green",
-      "source": "NerdWallet",
-      "title": "Current U.S. Inflation Rate Is 3.7%: Chart and Why It Matters - NerdWallet",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Za3phOE0tNW9aSnJBY1BuMVVxTW43ZzhnUWVqUlE0cWxLNnktQjRiZC1nR0VwVnVHaDdxRUIwRGNjMDZuVW5CVFZPV1BtUjJhSlZYV3FnTUU0V2doMzRB?oc=5"
+      "source": "BBC",
+      "title": "How is the US economy really doing under President Trump? - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBqRmtfa3RCcTJzNmZEOUxnT0VIN0NGVTg1cU9SOUQyaS1na0ZDaGJ3WFdnSWNza1pscWh4bk9RTlhaVG9Zd1dwMENtNHhXZXVFOU1pM3U2cUVKTTg?oc=5"
     },
     {
       "category": "ENVIRON",
