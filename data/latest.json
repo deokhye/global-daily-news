@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-19T07:47:35.674784+09:00",
-  "generated_at_display": "2026-10-19 07:47 KST",
+  "generated_at": "2026-10-20T09:06:56.315630+09:00",
+  "generated_at_display": "2026-10-20 09:06 KST",
   "exchange_rate": {
-    "current_rate": 1334.6600341796875,
+    "current_rate": 1327.1400146484375,
     "source": "Yahoo Finance",
     "change_pct": -0.47,
     "history_labels": [
@@ -31,16 +31,16 @@
       1420.6,
       1377.11,
       1350.5,
-      1334.66
+      1327.14
     ]
   },
   "headlines": [
     {
       "category": "POLITICS",
       "color": "blue",
-      "source": "The New York Times",
-      "title": "Obama Defends Rep. Ilhan Omar Amid Trump Administration Inquiry - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaXhrNXpuZVVkekMzclNVR0tYbk1QcGVhWnB0cmNyckZmMldybDR6TFFKLXBsSGFmWk8xN0k3Ml95SlhuaHZSRlJoWGFNRUJiYk9lUnRJbGhHeVNwdlZrbm15bzNhaEx5V25TbEhHOVVjeWpoQ285OFRWZjNlME5Pam5LRkNuUW1IV3l1QlBJbm1ybFJsaU5qZnk3azRsNkpVd1E?oc=5"
+      "source": "Bloomberg.com",
+      "title": "Trump’s Russia Shift Shows Domestic Politics Comes First - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWGlrakd0N2d1YWp3ZllVWDhRVDFKWDRteWdBQUFzS0VfcFFOMXNIemFkT1hYUHVURnJaVVhHVDQyVGZQSWs2QXZVQjBiU1BUenl6RF93WVNkbzlqY0lieU9Tb0hfblpPaVYtSUUyaDVnQ0RmdzNPV2RWMkZVQXdwX1VKUi1sbmxZdlR3QUY5Q1otNzBnUE1STThDQzVqbXE5UlVZ?oc=5"
     },
     {
       "category": "ECONOMY",
@@ -52,9 +52,9 @@
     {
       "category": "ENVIRON",
       "color": "orange",
-      "source": "Mother Jones",
-      "title": "Trump Has Largely Deprived the US Public of a Voice on Environmental Policy - Mother Jones",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcDR6ekoxSjlJRkZpMFFueGJ6SnFsVVAtVWdnZVJ6SlY3bzJZOWx1X29FQ2FybzlYQ0FxZVRtZC1lelhQcVNrVDBmT1VRb09jQkNBTmxNVjBpOEEwckhIRDV3eXh1VVk0MEFZZ1pnb2Z5V0dOYnNpanJnOXV6MVg1X1FpSnowSmtaUmkwXy1RRnJlV3dTblVSZm1DbF9qalFjQXFoeTA5dHhjcmhST21jOF82cw?oc=5"
+      "source": "The Conversation",
+      "title": "How candidates are (quietly) talking about climate change – 3 election strategies you’ll see across the US - The Conversation",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUXZlTWJ4bUFoVWRzVnptTktUQ3JNRjhVMkcxV0pWRGt1bWJZU1Nmb1NFczdSN0Ixb1F1eWtCZk1JQWJFY3R6QWExbDQ3cTBZbDJEeFByT0NFVGpKQlA5VlNEZ0FpZTlTYzQ0Q0pheEk3dE54T3ZzNnJpLUx1SXZWUE0xUW5pVmVzRGx6N2N4VUNaa2xtcnJmTndGZC1lVi1VRHVXR01BQzZ5WHlGVUJaX2lnb3BnbnlPRnRTc3lJMGhxY3gxdUdWRVRGcWFMNFI2cmc?oc=5"
     }
   ],
   "hr_trends": [
