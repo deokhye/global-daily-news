@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-21T08:38:05.594930+09:00",
-  "generated_at_display": "2026-10-21 08:38 KST",
+  "generated_at": "2026-10-22T08:54:30.848943+09:00",
+  "generated_at_display": "2026-10-22 08:54 KST",
   "exchange_rate": {
-    "current_rate": 1325.530029296875,
+    "current_rate": 1326.43994140625,
     "source": "Yahoo Finance",
-    "change_pct": -0.34,
+    "change_pct": 0.19,
     "history_labels": [
       "11월",
       "12월",
@@ -31,30 +31,30 @@
       1420.6,
       1377.11,
       1350.5,
-      1325.53
+      1326.44
     ]
   },
   "headlines": [
     {
       "category": "POLITICS",
       "color": "blue",
-      "source": "Council on Foreign Relations",
-      "title": "A Dozen Numbers That Explain the Midterms - Council on Foreign Relations",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1GTnFJTThNTlpwNFBNVGpyeWlHOWFJYzN0dmwzNFFjQzVnWndsLUZJNzBEM1RNNUx4dXIyaE9jV2RQbkNPTGNjQWpVa0EyekpHTlphczBIY3N5Q2VSRDNQY0pSMm12R05aNDdJRnA2dm92Z0VPRXRPR3Bn?oc=5"
+      "source": "Bloomberg.com",
+      "title": "Trump’s Russia Shift Shows Domestic Politics Comes First - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWGlrakd0N2d1YWp3ZllVWDhRVDFKWDRteWdBQUFzS0VfcFFOMXNIemFkT1hYUHVURnJaVVhHVDQyVGZQSWs2QXZVQjBiU1BUenl6RF93WVNkbzlqY0lieU9Tb0hfblpPaVYtSUUyaDVnQ0RmdzNPV2RWMkZVQXdwX1VKUi1sbmxZdlR3QUY5Q1otNzBnUE1STThDQzVqbXE5UlVZ?oc=5"
     },
     {
       "category": "ECONOMY",
       "color": "green",
-      "source": "BBC",
-      "title": "How is the US economy really doing under President Trump? - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBqRmtfa3RCcTJzNmZEOUxnT0VIN0NGVTg1cU9SOUQyaS1na0ZDaGJ3WFdnSWNza1pscWh4bk9RTlhaVG9Zd1dwMENtNHhXZXVFOU1pM3U2cUVKTTg?oc=5"
+      "source": "Morningstar",
+      "title": "4 Reasons To Think US Inflation Will Come Back Down - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdG1HVklRdG9wMURqXzRZZE5xNW1VTUF3OERPaUxrazlqZDhyLVZmbEJRQW81R3FHVDViLWJTaGJsS21QWTMzd29ZbTIyM3ZGaDFYeVdaajN4dXg4N3lNNHM2SzlXSUhFNU1CQUhxdW1qMDlESWp3ZF8zYnkyNWYyM3llZ3ozcGt1N0NDMA?oc=5"
     },
     {
       "category": "ENVIRON",
       "color": "orange",
-      "source": "The Conversation",
-      "title": "How candidates are (quietly) talking about climate change – 3 election strategies you’ll see across the US - The Conversation",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUXZlTWJ4bUFoVWRzVnptTktUQ3JNRjhVMkcxV0pWRGt1bWJZU1Nmb1NFczdSN0Ixb1F1eWtCZk1JQWJFY3R6QWExbDQ3cTBZbDJEeFByT0NFVGpKQlA5VlNEZ0FpZTlTYzQ0Q0pheEk3dE54T3ZzNnJpLUx1SXZWUE0xUW5pVmVzRGx6N2N4VUNaa2xtcnJmTndGZC1lVi1VRHVXR01BQzZ5WHlGVUJaX2lnb3BnbnlPRnRTc3lJMGhxY3gxdUdWRVRGcWFMNFI2cmc?oc=5"
+      "source": "NPR",
+      "title": "United Nations report highlights significant increase in U.S. climate pollution - NPR",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZm12LXd1dHRZX1QzcWo3ZDBLZDlZTWpuamFELXR2bUt0V1NhREROOHhfN293NHkxTkFzWVAxN3hYVFUyRGJQWmhnQXh0N1ZQX0l6UXdLY0lwdkdITmIyQzVqU3FKRGlFc2h6dHUwcW1hZGhQVllJMG1OanQwUVd4LWs3Y3NrZHZLYmxXZmVndDZKeWlrXzBFUW4xSWlieEpUc2Y4UzN3?oc=5"
     }
   ],
   "hr_trends": [
