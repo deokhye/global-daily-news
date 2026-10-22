@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-22T08:54:30.848943+09:00",
-  "generated_at_display": "2026-10-22 08:54 KST",
+  "generated_at": "2026-10-23T08:53:19.459594+09:00",
+  "generated_at_display": "2026-10-23 08:53 KST",
   "exchange_rate": {
-    "current_rate": 1326.43994140625,
+    "current_rate": 1326.0699462890625,
     "source": "Yahoo Finance",
-    "change_pct": 0.19,
+    "change_pct": 0.04,
     "history_labels": [
       "11월",
       "12월",
@@ -31,23 +31,23 @@
       1420.6,
       1377.11,
       1350.5,
-      1326.44
+      1326.07
     ]
   },
   "headlines": [
     {
       "category": "POLITICS",
       "color": "blue",
-      "source": "Bloomberg.com",
-      "title": "Trump’s Russia Shift Shows Domestic Politics Comes First - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWGlrakd0N2d1YWp3ZllVWDhRVDFKWDRteWdBQUFzS0VfcFFOMXNIemFkT1hYUHVURnJaVVhHVDQyVGZQSWs2QXZVQjBiU1BUenl6RF93WVNkbzlqY0lieU9Tb0hfblpPaVYtSUUyaDVnQ0RmdzNPV2RWMkZVQXdwX1VKUi1sbmxZdlR3QUY5Q1otNzBnUE1STThDQzVqbXE5UlVZ?oc=5"
+      "source": "BBC",
+      "title": "The real reasons US politicians are getting older - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE13NUwzQ2QtZVF1Y05LRkZTeHlRNHo0UFBlMlFGUmlfVlc4TVl2cGgwWVdJZFBKMkJBcFJ3dVpoV3h0UmVFU3dOckpzX04tS25NbVdZMEpuSlF3alk?oc=5"
     },
     {
       "category": "ECONOMY",
       "color": "green",
-      "source": "Morningstar",
-      "title": "4 Reasons To Think US Inflation Will Come Back Down - Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdG1HVklRdG9wMURqXzRZZE5xNW1VTUF3OERPaUxrazlqZDhyLVZmbEJRQW81R3FHVDViLWJTaGJsS21QWTMzd29ZbTIyM3ZGaDFYeVdaajN4dXg4N3lNNHM2SzlXSUhFNU1CQUhxdW1qMDlESWp3ZF8zYnkyNWYyM3llZ3ozcGt1N0NDMA?oc=5"
+      "source": "Cato Institute",
+      "title": "Inflation Can’t Solve America’s Debt Problem, President Trump - Cato Institute",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMmhEbmNTWXBkdGVRU2E3eTVBSy1KcjhwS3lfUjc2QUN2anNWUENwZUNDOFFrcVlwa0NLcEZScGYwSUlFMkRFbW9YVXZsOTBxbUlacEk2SUVIOWNHNmNuNjFoQ2NGVDV6aUk0Q2VRMUlVUy0tZGtzX2h1RlVLdmFXYnN1ZGlQakNJa19ZYw?oc=5"
     },
     {
       "category": "ENVIRON",
