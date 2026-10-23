@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-23T08:53:19.459594+09:00",
-  "generated_at_display": "2026-10-23 08:53 KST",
+  "generated_at": "2026-10-24T08:45:11.559215+09:00",
+  "generated_at_display": "2026-10-24 08:45 KST",
   "exchange_rate": {
-    "current_rate": 1326.0699462890625,
+    "current_rate": 1323.6600341796875,
     "source": "Yahoo Finance",
-    "change_pct": 0.04,
+    "change_pct": -0.15,
     "history_labels": [
       "11월",
       "12월",
@@ -31,7 +31,7 @@
       1420.6,
       1377.11,
       1350.5,
-      1326.07
+      1323.66
     ]
   },
   "headlines": [
@@ -39,22 +39,22 @@
       "category": "POLITICS",
       "color": "blue",
       "source": "BBC",
-      "title": "The real reasons US politicians are getting older - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE13NUwzQ2QtZVF1Y05LRkZTeHlRNHo0UFBlMlFGUmlfVlc4TVl2cGgwWVdJZFBKMkJBcFJ3dVpoV3h0UmVFU3dOckpzX04tS25NbVdZMEpuSlF3alk?oc=5"
+      "title": "Hispanic voters helped bring Trump to power - in Texas, the tide may be turning - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5FRnNBSVE2cVdQSktTbjh4X1h1N3hNZFg2eUYtNm5LOHJxZjJidzlQaDFUaFE1T1MxbHYxUnE2VndoQ1JXb3NxOVlZMkdkVFBOcUhYVThaSWdaclE?oc=5"
     },
     {
       "category": "ECONOMY",
       "color": "green",
-      "source": "Cato Institute",
-      "title": "Inflation Can’t Solve America’s Debt Problem, President Trump - Cato Institute",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMmhEbmNTWXBkdGVRU2E3eTVBSy1KcjhwS3lfUjc2QUN2anNWUENwZUNDOFFrcVlwa0NLcEZScGYwSUlFMkRFbW9YVXZsOTBxbUlacEk2SUVIOWNHNmNuNjFoQ2NGVDV6aUk0Q2VRMUlVUy0tZGtzX2h1RlVLdmFXYnN1ZGlQakNJa19ZYw?oc=5"
+      "source": "USAFacts",
+      "title": "What is the current inflation rate in the US? - USAFacts",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWlU3ZXNSN1BUSm03akpMMnpIckViR1pjTUhXUFBZUG1yQWxkazlTVGtJZlplaWx1T2dVdXh2M3VRTWZaelB5UFNvcDNzeGotelR2d0dXeFc2M0J4UFZMYTZ3ZmxSMENmTmQ2TGtJeEpJczVqcW5CemwtM19jeVJSRV9JR1RQZ3JzemFnQ0FrQQ?oc=5"
     },
     {
       "category": "ENVIRON",
       "color": "orange",
-      "source": "NPR",
-      "title": "United Nations report highlights significant increase in U.S. climate pollution - NPR",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZm12LXd1dHRZX1QzcWo3ZDBLZDlZTWpuamFELXR2bUt0V1NhREROOHhfN293NHkxTkFzWVAxN3hYVFUyRGJQWmhnQXh0N1ZQX0l6UXdLY0lwdkdITmIyQzVqU3FKRGlFc2h6dHUwcW1hZGhQVllJMG1OanQwUVd4LWs3Y3NrZHZLYmxXZmVndDZKeWlrXzBFUW4xSWlieEpUc2Y4UzN3?oc=5"
+      "source": "UNEP - UN Environment Programme",
+      "title": "Ocean, seas and coasts - UNEP - UN Environment Programme",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5rRlp2eHoyd3hCUlppUHBpRURZUU5ENEVzM3lzeUtUM055cmlaWXU5NFRjdDNSTkZhZHcxS2lGWWFyMUtSNUJPQ0lTdkRSeWt6U25vRV92SUk1VkZwOGx4UTJWR0NvaWc?oc=5"
     }
   ],
   "hr_trends": [
