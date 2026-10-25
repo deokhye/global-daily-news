@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-25T07:54:32.699481+09:00",
-  "generated_at_display": "2026-10-25 07:54 KST",
+  "generated_at": "2026-10-26T08:01:43.558428+09:00",
+  "generated_at_display": "2026-10-26 08:01 KST",
   "exchange_rate": {
-    "current_rate": 1325.4000244140625,
+    "current_rate": 1323.4000244140625,
     "source": "Yahoo Finance",
-    "change_pct": -0.04,
+    "change_pct": -0.2,
     "history_labels": [
       "11월",
       "12월",
@@ -31,7 +31,7 @@
       1420.6,
       1377.11,
       1350.5,
-      1325.4
+      1323.4
     ]
   },
   "headlines": [
@@ -39,8 +39,8 @@
       "category": "POLITICS",
       "color": "blue",
       "source": "The New York Times",
-      "title": "Why Democrats Could Find It Hard to Win the Senate Despite Their Strong Polls - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNGlkQ010ejlYbmF0anBqZk1xSjVzZDlPVDBQejZaZkRkX2d4bnh3dVhqbXJqNEM5WkpiS2NGeEYxWE9iUFVoZ0tBaGVWTUdtd3hnVkVlcldZYlVYMENjb0hiNkpWU3pZQ2haMjQ4RTkyRzU4ak5GQmZPY2hkbmdZdEZINllTQlRGaF81bw?oc=5"
+      "title": "Obama Issues Searing Attacks on Trump and Ramaswamy in Return to Campaign Trail - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeUdkajdVaE81UXowdEROTVA0NFNwX0JJTUw1RHdaMmtHQURmRzZmNVN6dmplOGQtZ1BrQXNrb0JPZXdPZXQ3Qi1mNG9zb1RONC1DeDV0eXNzRmdDd2lpNkhjSHJLWDFrcFk5S0JLNHpKWVB5UnoyT2E3U2NPSHpKVXE5REdYdzlR?oc=5"
     },
     {
       "category": "ECONOMY",
