@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-29T09:36:59.754858+09:00",
-  "generated_at_display": "2026-10-29 09:36 KST",
+  "generated_at": "2026-10-30T09:37:28.774549+09:00",
+  "generated_at_display": "2026-10-30 09:37 KST",
   "exchange_rate": {
-    "current_rate": 1336.1800537109375,
+    "current_rate": 1339.47998046875,
     "source": "Yahoo Finance",
-    "change_pct": 0.71,
+    "change_pct": -0.06,
     "history_labels": [
       "11월",
       "12월",
@@ -31,39 +31,39 @@
       1420.6,
       1377.11,
       1350.5,
-      1336.18
+      1339.48
     ]
   },
   "headlines": [
     {
       "category": "POLITICS",
       "color": "blue",
-      "source": "BBC",
-      "title": "Four investigations Democrats could launch if they win control of Congress - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16TXJSVDUwNkhEVXc2RDRtVXRUU09ZVmdmUGdGcXgtNnRJRFBjV1FqQTlkX1BCQ2p6TUIxbzBzQ0JYTDVHMEMwMm52bk1DMEdZeXo0ZERZVFFjckE?oc=5"
+      "source": "The New York Times",
+      "title": "As Trump Faces Down the Midterms, a Grim Mood Takes Over the White House - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQzJNZHdTZGhwMksxUnFLN1cxTXNhNXpBRHlPWkc2NGZrdWpDUElkb3Z2dTNVdjNYWDJmWV9Zem9zWjhsNmh4UFNiQTNHT09EWEVOdm1XT2VzOU82RDVTdGU1UFlDSFJ6TmdHa2t4bkstTUtYNDNEMFY1M3hKRUdWWGw0M1E2TzFQS0tN?oc=5"
     },
     {
       "category": "ECONOMY",
       "color": "green",
-      "source": "CNN",
-      "title": "Did the Fed just make a huge mistake? - CNN",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBRNlIxZUJfajdMT2Zfa1E0NXNIZ1g4QVpZWUZLTUM3cDFBQzFjZVJSQTBvT3RXUzhfN0dQNVBsRVdfUzlTWFNRNndNNTNMZ0FtOFJmRU9PMEVZTEhfR0FMa3hTbzZEQUZSUXRsNzJUUk9RcmZ1?oc=5"
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "title": "US economy grew more than expected in 3rd quarter, government data shows - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOXA2Zy1xaExmZTR0bkJjUzRxeHNkWVhpYXl6aV9BaUdDdnZ6ZHhBTlFhb3ZBZWZRdlo0WkVmNmZkZklFLUthc0hIdWhDRUdwM0o5YWVLdDk2dFotM3NqOWh3RVlFdlIwWmNWN0dVOEFEa1pEaFRXRTdqWmVPSnI5YWFqdkJQRjEyZEczUVZ4dDYzaTJlQTVOTURQSlliMlgzZThJ0gGoAUFVX3lxTE5VNWRkZ1doeURsNXJuaDY2VzVwLWdtTk9hd2FlRUoxUW1aeWUwTWNIemtVZ2N4U2FyMVBrRE1HWF9Bck9ZX1kzeTg2MmZPaGRCTWFKTXhjVGZ5SEhHektfVzk3R2dRR2pYTmlROEh6akZUaXVxcTVRTGxLTWZfbFNUaTFFU3RDVjVxQjMxcG5idHY1OWxnQ1dDa3hkcDA0WU1sUzRzb3ZMOQ?oc=5"
     },
     {
       "category": "ENVIRON",
       "color": "orange",
-      "source": "The Washington Post",
-      "title": "Trump announces relaxed rules on oil firms’ methane leaks - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNR3luQThvc0lHLVg2T2ZZZXVkMlJwSEFYb0ZWWjNzTHhwSE51NFVLU0w2cjdzaWRJbEUxUHktNlR0X2tYd0hXOXl2UGlZT21lM0w4bU1iLVpQS0pPVTNVdUVRTVhFWGZ2UV9hSkEyY0QwU3RpY2FSNHJKOXZwcUVVUnBxemowcnFuNnQ4dHZFRmhXS2xKX2N1MFhtY1ZNUVYzd1BGMkhVTUNHRVlYU0hKTDdBY3RmUQ?oc=5"
+      "source": "Stanford Doerr School of Sustainability",
+      "title": "Perspective: How to make US climate policies more effective - Stanford Doerr School of Sustainability",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUUFEbjJnY2pDNFFNa1Z0NEcyRGxkU2JJMUVkUFoyMUt5Tmx2Q2xsaHpwOGFOc2p3aEJ2OS1aa2dWNkhabmlVR0FBWTUxSGxfb0Y2LW9DdXN6UU5rX0c1OHdSY0xobUMxOVVpZlBzY1ZBY01IUGt4VEhaOXo3MGxzRDlhQmZiRjJCNjhCQXFUalhlOXFkQVJicnZ2V1lsQQ?oc=5"
     }
   ],
   "hr_trends": [
     {
       "tag": "지역 노동시장",
       "color": "teal",
-      "title": "Tennessee unemployment r…",
-      "desc": "Tennessee unemployment rate remains below national average a…",
-      "link": "https://news.google.com/rss/articles/CBMiqANBVV95cUxOZXNpMmRfR3h3ZzcxaFB4eFBUS0N4X0k4aWJwdHlTd296VjVscVF3N2hUTkk0eG8wZmlxT05FVTlXeWgwOG0tR0FMQUF1a21CZmdCamtWZXVseV85ejd3TXFrYVpJMm5sMG5HYnNFcUFCaUdPR1dfUHdRYXZVVTVGMHZhLWdpbUc0TTBpTjlvbFQtNVByVlBnNE9rQjBSWHc0VVdHR3ZBc1VPWUdyYk1yZVlmYVY1VzdiS0RKTm1hMjExNFVacXJqSm5odDRmRjJDb0ZVZ0tTWTh0ZWVId1U1Tll4UjVEMWZaT21Xb0FPMEt2WEQ0bHgzMm4wSWFlY0d2cjlPajJTVWVjZ3RtTWtRLU1EN1RCaEtIdVNKeXBxM2tUV3dvZVV1eFR6aFYtaVkxNlFvcTlQdXlCZmFocldNckxZQXg2UU5taW5vS2NwWkE2ZGFaNXgyUjUwMVczdmZsdk5FS1J1dldOQmJQZFlyV01xQzlZemtWQmhlNDYwQ2RfLVNtRUZrN2ZvenNOVXk4TTJRMFcteXpXcUpoTVVSc3poREU0em5p?oc=5"
+      "title": "Tennessee Unemployment R…",
+      "desc": "Tennessee Unemployment Rate Falls to Two-Year Low of 3.4%",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOTJvaDcxRW5aaGVwOWR5WEh6WVlWWFRKbUdwV2Z4MERMWkx4cEMwTC1pb1FmY1ktT2tOSFFTaUxYYjJmY2xWYzgyY0hINFRyQWxqYURsT1Q1VHpPTGVBNHc4bm9xYWVMYkkzOXlEQzVwb09Ib0s4dWpMZHp2eDJiN055UXZzUi1PMjM5bURMTEdnSTZHZlUyR09WTW9rTDJzLVFWZFByeDREdGpQRFpNM2kxcmx2ZFRqWGNKZHNnQy0?oc=5"
     }
   ],
   "country_profile": {
