@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-30T09:37:28.774549+09:00",
-  "generated_at_display": "2026-10-30 09:37 KST",
+  "generated_at": "2026-10-31T09:24:02.366016+09:00",
+  "generated_at_display": "2026-10-31 09:24 KST",
   "exchange_rate": {
-    "current_rate": 1339.47998046875,
+    "current_rate": 1337.97998046875,
     "source": "Yahoo Finance",
-    "change_pct": -0.06,
+    "change_pct": -0.18,
     "history_labels": [
       "11월",
       "12월",
@@ -31,23 +31,23 @@
       1420.6,
       1377.11,
       1350.5,
-      1339.48
+      1333.44
     ]
   },
   "headlines": [
     {
       "category": "POLITICS",
       "color": "blue",
-      "source": "The New York Times",
-      "title": "As Trump Faces Down the Midterms, a Grim Mood Takes Over the White House - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQzJNZHdTZGhwMksxUnFLN1cxTXNhNXpBRHlPWkc2NGZrdWpDUElkb3Z2dTNVdjNYWDJmWV9Zem9zWjhsNmh4UFNiQTNHT09EWEVOdm1XT2VzOU82RDVTdGU1UFlDSFJ6TmdHa2t4bkstTUtYNDNEMFY1M3hKRUdWWGw0M1E2TzFQS0tN?oc=5"
+      "source": "The Economist",
+      "title": "The midterms could reshape American politics far beyond Congress - The Economist",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVWRyZHNIbGJKNGJIbmNmSXdFODVuWVZDVTczMlRaWlN2T29EblBnTUYxa21wRi1SYk15N01rMWplSEtWd0lUeEx5dnZsbVBpS3QzZWNJcmdEc2ZlaG54SDE5WTJldER3M0Z4eWF3YmpUY1I3QVNRS01WNDNJVE5JRm42TEYzckNvQ0ZDZHhEUk5NMGQ5Nm90Z2YwSEI1RV9GVGJqVXkwSUR4YUNSYWFjajZoQ21EZw?oc=5"
     },
     {
       "category": "ECONOMY",
       "color": "green",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "title": "US economy grew more than expected in 3rd quarter, government data shows - ABC News - Breaking News, Latest News and Videos",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOXA2Zy1xaExmZTR0bkJjUzRxeHNkWVhpYXl6aV9BaUdDdnZ6ZHhBTlFhb3ZBZWZRdlo0WkVmNmZkZklFLUthc0hIdWhDRUdwM0o5YWVLdDk2dFotM3NqOWh3RVlFdlIwWmNWN0dVOEFEa1pEaFRXRTdqWmVPSnI5YWFqdkJQRjEyZEczUVZ4dDYzaTJlQTVOTURQSlliMlgzZThJ0gGoAUFVX3lxTE5VNWRkZ1doeURsNXJuaDY2VzVwLWdtTk9hd2FlRUoxUW1aeWUwTWNIemtVZ2N4U2FyMVBrRE1HWF9Bck9ZX1kzeTg2MmZPaGRCTWFKTXhjVGZ5SEhHektfVzk3R2dRR2pYTmlROEh6akZUaXVxcTVRTGxLTWZfbFNUaTFFU3RDVjVxQjMxcG5idHY1OWxnQ1dDa3hkcDA0WU1sUzRzb3ZMOQ?oc=5"
+      "source": "CNN",
+      "title": "Last snapshot of the US economy before midterms shows stronger growth but higher inflation - CNN",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9CcHgwbVpMWEZWTm5kOVlEdWVjaXU3c1VHVzNpaXRsdGVOYUkzMjlOamtjbXRIZUF0SEtCTF9SYnllaDRKMjBIelJGRm5JN1BwWXBKUzBKUHAxblpDSHZDaThBVVdvV0tnRUYyWkVaeEtELWF1UEE?oc=5"
     },
     {
       "category": "ENVIRON",
