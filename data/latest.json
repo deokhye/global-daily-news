@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-31T09:24:02.366016+09:00",
-  "generated_at_display": "2026-10-31 09:24 KST",
+  "generated_at": "2026-11-01T08:57:05.344842+09:00",
+  "generated_at_display": "2026-11-01 08:57 KST",
   "exchange_rate": {
-    "current_rate": 1337.97998046875,
+    "current_rate": 1335.0999755859375,
     "source": "Yahoo Finance",
-    "change_pct": -0.18,
+    "change_pct": -0.22,
     "history_labels": [
       "11월",
       "12월",
@@ -31,30 +31,30 @@
       1420.6,
       1377.11,
       1350.5,
-      1333.44
+      1335.1
     ]
   },
   "headlines": [
     {
       "category": "POLITICS",
       "color": "blue",
-      "source": "The Economist",
-      "title": "The midterms could reshape American politics far beyond Congress - The Economist",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVWRyZHNIbGJKNGJIbmNmSXdFODVuWVZDVTczMlRaWlN2T29EblBnTUYxa21wRi1SYk15N01rMWplSEtWd0lUeEx5dnZsbVBpS3QzZWNJcmdEc2ZlaG54SDE5WTJldER3M0Z4eWF3YmpUY1I3QVNRS01WNDNJVE5JRm42TEYzckNvQ0ZDZHhEUk5NMGQ5Nm90Z2YwSEI1RV9GVGJqVXkwSUR4YUNSYWFjajZoQ21EZw?oc=5"
+      "source": "The New York Times",
+      "title": "As Midterms Near, Top Law Firms That Capitulated to Trump Are on the Sidelines - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE41Tm1hZ2s1aGlhanJPdjE1S0xNVk9jNVlBV2o5V0JYOEFWcGVfLTJvNzE5N0VKNDY0aHpHMjJVUzhBNU8xREs3N3VxcXdkSlpXSzJnR1hqV0VfQm5XeVkyRjBfZzJlSXAteWp0bzBnN3ZvNGdHS1hJdW9zdERiemc?oc=5"
     },
     {
       "category": "ECONOMY",
       "color": "green",
-      "source": "CNN",
-      "title": "Last snapshot of the US economy before midterms shows stronger growth but higher inflation - CNN",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9CcHgwbVpMWEZWTm5kOVlEdWVjaXU3c1VHVzNpaXRsdGVOYUkzMjlOamtjbXRIZUF0SEtCTF9SYnllaDRKMjBIelJGRm5JN1BwWXBKUzBKUHAxblpDSHZDaThBVVdvV0tnRUYyWkVaeEtELWF1UEE?oc=5"
+      "source": "EL PAÍS English",
+      "title": "‘It’s the inflation, stupid’: US voters sour on the economy despite economic growth - EL PAÍS English",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQX2FiVGdwZElKSC1VUTdBT3BTN1FSbjh3Q3hNbnEtWGxyeE94eldrMFNPcnFEdGNCVWVHUkRYUWNxWEV2bnRFSWEwd29MaDk4eTU5WHpaQmNXM1ZKRU8waXNiYlBTYU9Sa2RuQXNmSjhUVDlYdG9vRWVmYW00RV9tU19xcFBkS1RiVTliZEhwejZ5bldzVTVtZWJnYkFnOWU2VTBuRnBrX2FKTHRJMTRwY01fTlRhNk43UzQxMEtWYUEwNG1icXV1Rk5xdWc5eFUzX2RpQTNfMkR6d9IB7gFBVV95cUxOQmJ5QnpYa0V0aV93NnNJQnBsZ2hEOGVxMWJxUmt4UDJJcHQzNTRjRVE0bkRQbXAtOTFBMzZ2Z0hOdU42VUJOSnVFZnF2U0hyc21ZQjJuWl91M2NLMVV3eURIS2lhMi1VbDg3dVdMT0NEeWFudUxGeFRzRUVxR2ZLdG9nSmU1TTY2TXRZU2dRMjBHUk1XQlMycEdZMkk0ZDlIdGZ6NGtJWmtrVXJld1pFWlBUTm91NzlITDh0SWpmNnlPVGcxclZoeTQtYVJxQ0RhcDZFX0JFR3hfQXlWZTRJYUxCdlMzRmxTM2dVM3hB?oc=5"
     },
     {
       "category": "ENVIRON",
       "color": "orange",
-      "source": "Stanford Doerr School of Sustainability",
-      "title": "Perspective: How to make US climate policies more effective - Stanford Doerr School of Sustainability",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUUFEbjJnY2pDNFFNa1Z0NEcyRGxkU2JJMUVkUFoyMUt5Tmx2Q2xsaHpwOGFOc2p3aEJ2OS1aa2dWNkhabmlVR0FBWTUxSGxfb0Y2LW9DdXN6UU5rX0c1OHdSY0xobUMxOVVpZlBzY1ZBY01IUGt4VEhaOXo3MGxzRDlhQmZiRjJCNjhCQXFUalhlOXFkQVJicnZ2V1lsQQ?oc=5"
+      "source": "NRDC",
+      "title": "White House Watch: Tracking Attacks on Our Environment & Health - NRDC",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeXRXT1ZGdUF0S2NRNkhWR0cyRjBreExxaWtDMDdvUEZ6RTdSUTBwaTRyQWxaTVVMTTlUaS1nREJvMlVGM2RsX1d3U19nT3h0MG8xeDZlVUR5ZWZPYlVGeWpQRjZKVU54Sm96MjZ3MGFXYk00ZC1vZUk3WmVSS3FkTVpkM2RJRE0zQ1BaYVNiVDZUUQ?oc=5"
     }
   ],
   "hr_trends": [
