@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-03T11:46:05.472652+09:00",
-  "generated_at_display": "2026-11-03 11:46 KST",
+  "generated_at": "2026-11-04T10:03:20.663967+09:00",
+  "generated_at_display": "2026-11-04 10:03 KST",
   "exchange_rate": {
-    "current_rate": 1340.47998046875,
+    "current_rate": 1343.5999755859375,
     "source": "Yahoo Finance",
-    "change_pct": 1.13,
+    "change_pct": -0.09,
     "history_labels": [
       "12월",
       "1월",
@@ -31,16 +31,16 @@
       1377.11,
       1350.5,
       1324.52,
-      1340.48
+      1343.6
     ]
   },
   "headlines": [
     {
       "category": "POLITICS",
       "color": "blue",
-      "source": "CNN",
-      "title": "A record number of health professionals are running for office. Could they help heal US politics? - CNN",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE04SEFyZ3c5bFd1Qlg0WDM4TFJwLVZsd001X2xpQlpzQTZKNk5DTjFTekMzTUVVWndrSHUyaEVwN1JNN0E0TF9NdU04YmM2dHdGSk1Zamg3VUl3cmNncy0xaGtTbU83UWlvWXBVcXBMUEdoQQ?oc=5"
+      "source": "BBC",
+      "title": "Which stars have made the leap into US politics? Try our midterms quiz - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ITER1eGFTVk9VSjh5YmI4VUZKSFVkVnFja3k3ZVlxREtwNnUwQkMteUtPSHY2enJLTnBMZHc5ZUxNaU1ZN1plOHRHYW9RaGVZbVVHXzJmOXJUS0U?oc=5"
     },
     {
       "category": "ECONOMY",
