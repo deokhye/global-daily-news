@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-04T10:03:20.663967+09:00",
-  "generated_at_display": "2026-11-04 10:03 KST",
+  "generated_at": "2026-11-05T10:18:18.703415+09:00",
+  "generated_at_display": "2026-11-05 10:18 KST",
   "exchange_rate": {
-    "current_rate": 1343.5999755859375,
+    "current_rate": 1338.5899658203125,
     "source": "Yahoo Finance",
-    "change_pct": -0.09,
+    "change_pct": -0.32,
     "history_labels": [
       "12월",
       "1월",
@@ -31,7 +31,7 @@
       1377.11,
       1350.5,
       1324.52,
-      1343.6
+      1338.59
     ]
   },
   "headlines": [
@@ -39,8 +39,8 @@
       "category": "POLITICS",
       "color": "blue",
       "source": "BBC",
-      "title": "Which stars have made the leap into US politics? Try our midterms quiz - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ITER1eGFTVk9VSjh5YmI4VUZKSFVkVnFja3k3ZVlxREtwNnUwQkMteUtPSHY2enJLTnBMZHc5ZUxNaU1ZN1plOHRHYW9RaGVZbVVHXzJmOXJUS0U?oc=5"
+      "title": "Five reasons why Republicans lost so badly - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBXRnNGeWZtaC01OVlBSVNVLU5NdXI4LUpReHF4ZC1jTDdReElFWi1GZTZOV0tmOGE1STJpN05kNUhhRklTNG4tQzVWYUFxZmRyZ1lhZEZhYVlDNGc?oc=5"
     },
     {
       "category": "ECONOMY",
@@ -52,9 +52,9 @@
     {
       "category": "ENVIRON",
       "color": "orange",
-      "source": "NRDC",
-      "title": "White House Watch: Tracking Attacks on Our Environment & Health - NRDC",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeXRXT1ZGdUF0S2NRNkhWR0cyRjBreExxaWtDMDdvUEZ6RTdSUTBwaTRyQWxaTVVMTTlUaS1nREJvMlVGM2RsX1d3U19nT3h0MG8xeDZlVUR5ZWZPYlVGeWpQRjZKVU54Sm96MjZ3MGFXYk00ZC1vZUk3WmVSS3FkTVpkM2RJRE0zQ1BaYVNiVDZUUQ?oc=5"
+      "source": "Eos",
+      "title": "How Science and the Environment Fared in the 2026 U.S. Midterms - Eos",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcndjcUJYUHdmd2RzVFk2ZjM0Tm1yb3lxTlVtUXNBT1BiclhNd0V3YWQ2MEFjeFR2UzNIUU42cjFqV1MwcmpVaDZySzFqekY3TzRoblY1bHJiTlZPYmtZd20zeWhEeGZFY2NTZmNfNHJYMVE4clRlTjdlbmItMThFdzVLX3NHdkVxMG9HOWJrNmdiYUlzUkQ3OEREWmFxVUwxOUxwUFdMWQ?oc=5"
     }
   ],
   "hr_trends": [
