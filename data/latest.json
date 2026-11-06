@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-05T10:18:18.703415+09:00",
-  "generated_at_display": "2026-11-05 10:18 KST",
+  "generated_at": "2026-11-06T10:23:01.867992+09:00",
+  "generated_at_display": "2026-11-06 10:23 KST",
   "exchange_rate": {
-    "current_rate": 1338.5899658203125,
+    "current_rate": 1354.949951171875,
     "source": "Yahoo Finance",
-    "change_pct": -0.32,
+    "change_pct": 1.11,
     "history_labels": [
       "12월",
       "1월",
@@ -31,16 +31,16 @@
       1377.11,
       1350.5,
       1324.52,
-      1338.59
+      1354.95
     ]
   },
   "headlines": [
     {
       "category": "POLITICS",
       "color": "blue",
-      "source": "BBC",
-      "title": "Five reasons why Republicans lost so badly - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBXRnNGeWZtaC01OVlBSVNVLU5NdXI4LUpReHF4ZC1jTDdReElFWi1GZTZOV0tmOGE1STJpN05kNUhhRklTNG4tQzVWYUFxZmRyZ1lhZEZhYVlDNGc?oc=5"
+      "source": "The New York Times",
+      "title": "‘I Have Seen the Enemy, and It Is Us’: Inside Team Trump’s Historic Collapse - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMXFDcXZ6X3ktTDZtNUg3WEZ5TEVGblVfRVp1aF9rYWJSUHhHbFhMNVg3UVF6T1YzbkNNMHF3QkM4cl9VYmRDNDQzMzV4ZWZqTHE0WWd0bU5XZ2ltR3J4RkJoYlVDUXRWSEduNUYzdVpVcVJ2YlZ6cVctbnpHRURObnlmVDZOUnN5WTdMT3Fn?oc=5"
     },
     {
       "category": "ECONOMY",
@@ -52,9 +52,9 @@
     {
       "category": "ENVIRON",
       "color": "orange",
-      "source": "Eos",
-      "title": "How Science and the Environment Fared in the 2026 U.S. Midterms - Eos",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcndjcUJYUHdmd2RzVFk2ZjM0Tm1yb3lxTlVtUXNBT1BiclhNd0V3YWQ2MEFjeFR2UzNIUU42cjFqV1MwcmpVaDZySzFqekY3TzRoblY1bHJiTlZPYmtZd20zeWhEeGZFY2NTZmNfNHJYMVE4clRlTjdlbmItMThFdzVLX3NHdkVxMG9HOWJrNmdiYUlzUkQ3OEREWmFxVUwxOUxwUFdMWQ?oc=5"
+      "source": "The Climate Watch",
+      "title": "US Democrats sweep midterms as climate concerns reshape US politics - The Climate Watch",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWUZkYW1HQkhtSDhiTXk0R1dCbk5hZHZVWm5QdmEtUnZTdV81dFIyTE5TdFJueEVUYm50b215ZFlkTnRPdlNEdm5KcE82dDJqWWtLdF81Z18tbXdVUF9nX0R3NUdyVW1zMk5iNWpJbkRncWFDa1Y4TjZWTEVPNm40aFlCWW1SUThfdGFBemxsSjNpY2hTRzFFMFlsQ0o?oc=5"
     }
   ],
   "hr_trends": [
