@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-06T10:23:01.867992+09:00",
-  "generated_at_display": "2026-11-06 10:23 KST",
+  "generated_at": "2026-11-07T09:38:19.420153+09:00",
+  "generated_at_display": "2026-11-07 09:38 KST",
   "exchange_rate": {
-    "current_rate": 1354.949951171875,
+    "current_rate": 1356.3399658203125,
     "source": "Yahoo Finance",
-    "change_pct": 1.11,
+    "change_pct": 1.21,
     "history_labels": [
       "12월",
       "1월",
@@ -31,7 +31,7 @@
       1377.11,
       1350.5,
       1324.52,
-      1354.95
+      1363.65
     ]
   },
   "headlines": [
@@ -45,16 +45,16 @@
     {
       "category": "ECONOMY",
       "color": "green",
-      "source": "Federal Reserve Bank of San Francisco",
-      "title": "The Impact of El Niño on the U.S. Economy - Federal Reserve Bank of San Francisco",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOalhPOUpTbXI0SDN5ODdvbm9USkZvS2RxZ1BjRVo0RDJkODNhbGtjZmo0V29hMVZKbDR4WXRtTzFQSkRaWlF4M3hwVEV1dzFsX2d3bDI4cTVpZnpVOFUxX3VUN0YxdENybWxlR1VMZUFxRmFPY0dzRzlHREZKWmJOb3cwQUlxNDBya2J3Y0Nid0l1T1RHa3Vpd29FRkJ3Q1hvNG5uM2E2NXdJbGpYZ3VfVUtlZw?oc=5"
+      "source": "PBS",
+      "title": "U.S. continues to generate jobs, yet inflation is eroding Americans' spending power - PBS",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNekNQT2xvcERTaGxJTUxQMk5xRGVWWUxzaUNXM2tvdVNoWklZVElWcGJVdi0wdkZqanNuMzBLaU9rRHB1bVVRZ0w1WlRMWlZKX0xXSFBPcTE2ajJuSlJyVHI5WXNfTnJ0YVdRV01fdjNpTW14dnhtTi0wc1R2aG5VNlFfNjhHSkF6Z3FUVzJGanhJYk9mTkV1ZXVfMjlWWWlLZzFvMmw1WDJ5bnFQbUktckNFMkRGaDl60gG-AUFVX3lxTE1feV9hdDJqZjVsUWtrOU1MVEFYU2VrSWNFQlhQbEpheVg1UUhMdlFCekhRejEzM1VnX19EdEpWOTIxeEtKNzROVS0zVUJsbG5RMF8yMTZRb0ZOVVk4Z0pxZFpSUkU3bVpncG4tMHNNZGtMV1hYdGtLNVo0Xzk2Y00wcXJhSjlXYXNnYUg4Q2hlbHBXYnVDT1JfNV9XeGh3Nk9ScVlEVkZRR3ZKbHNrbmZUX204OFpSSmU1b3pOenc?oc=5"
     },
     {
       "category": "ENVIRON",
       "color": "orange",
-      "source": "The Climate Watch",
-      "title": "US Democrats sweep midterms as climate concerns reshape US politics - The Climate Watch",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWUZkYW1HQkhtSDhiTXk0R1dCbk5hZHZVWm5QdmEtUnZTdV81dFIyTE5TdFJueEVUYm50b215ZFlkTnRPdlNEdm5KcE82dDJqWWtLdF81Z18tbXdVUF9nX0R3NUdyVW1zMk5iNWpJbkRncWFDa1Y4TjZWTEVPNm40aFlCWW1SUThfdGFBemxsSjNpY2hTRzFFMFlsQ0o?oc=5"
+      "source": "USRESIST NEWS",
+      "title": "Climate Scientists, Fired by US Government, Continue Valuable Work (Environmental Policy Brief #173) - USRESIST NEWS",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNaDh3bElJaVJXdy05X1p1NlNPN1I5LUNhN3ZNWFdhd1BHalMwWlpvVTJLTXpxcnZfaE1OVjdoZ0dFWUJaZTY2anc2aHNlalpsWkxwX2dIYnpPQnIyZF9ZekItSHJZQnUta1hrN0NNZDRfYkRzZi02LWY2T1NjbDQyRENDQjVWMjB3alE1c2hqTVJIVEN1YjRuQm15LV9QdVh2ZEdxbGs0Qm5jZ0ZXeGhJNTNaMjA2U01YLXNRdXRENWRXdVpkZmJZYi12VTNnRnNkVUE?oc=5"
     }
   ],
   "hr_trends": [
