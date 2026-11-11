@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-10T12:10:42.027749+09:00",
-  "generated_at_display": "2026-11-10 12:10 KST",
+  "generated_at": "2026-11-11T10:00:50.116888+09:00",
+  "generated_at_display": "2026-11-11 10:00 KST",
   "exchange_rate": {
-    "current_rate": 1346.18994140625,
+    "current_rate": 1337.3800048828125,
     "source": "Yahoo Finance",
-    "change_pct": -1.21,
+    "change_pct": -0.48,
     "history_labels": [
       "12월",
       "1월",
@@ -31,23 +31,23 @@
       1377.11,
       1350.5,
       1324.52,
-      1346.19
+      1337.38
     ]
   },
   "headlines": [
     {
       "category": "POLITICS",
       "color": "blue",
-      "source": "PBS",
-      "title": "Even after the midterm rout of Trumpism, the world struggles to trust America - PBS",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeWVFNmcxUjJrZE5OUFRCbGhxVXVfWUN2dWlVVUFmaEJOLXZWNlpVdGRpWTJMaG5KVUVpSXA1V1g5MUVhTVVIQUd1bVV2bkxZS3VKb1p0XzYwV3ZNSUhESEMxaGFfRGhYRDlpYVpkRExQUFVuU1UxTF84aTMzVXZETzlROXU4RVFCcnVVdnZPd3lJSjlRZ2RBenZHOWctenRfdm1wZ3FPbVBFSjhlaGRtY3YyY1TSAboBQVVfeXFMT2JqQXZyZWpfaEU0aGE3Qk1NSHZHb0pjVVkzdldvS0FCWHhweEpKVzdyREZtZTdJQ285LUZDUmViRTBfbVlEdEs4aXZHS1BQbHNpWkpHdG1ST2dMQWt6V3FsaXphNFhtOEJWVEVkaEFDTXZWVVVXNG1JLVp0WlZRaE84XzR0cnVjdUdaTV9ZaWRrY1lTYmItTUFWZ2xuMmpSeXVadEUycDFrV0l4bFdjS1ltdWxpNEV2aHBR?oc=5"
+      "source": "news8000.com",
+      "title": "Could Democrats change how Americans vote for president? - news8000.com",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNOW1lSmdWZnNHUzhIMnpjRHpKQWhmS1dsV2VJRHhKYXZGWDZNOGY1d2VTU1FGWU5aUXlIcTByVGpSaWdHVFhhX2RzdXNJaGp3M29uY1N6WGlkZXRUWUFHdDlKUzNPT0pNVVlQaDUwdzNZWlJQeUxqTHJOSklZdFRxX1FESVlaSHRKZFZOaG96QU1nRk1rT0dXNW5meGRfWGttX09jUUdaek1tM2dtVEJNa3lqaHo3S2RDWm1JV1lsM3FHMEFDVXk3ZTBOOXlUak9qQjlVLW9wRllyZjZzUG91NXQ4TXMxOVVkeVFmOF8tc3dPelpV?oc=5"
     },
     {
       "category": "ECONOMY",
       "color": "green",
-      "source": "NBC News",
-      "title": "Inflation likely took a breather last month as fuel prices fell - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZGpidGZURWRoNnJJd3hZUFd2SkRDVmk0bEI0NnA5cVJXTmR2dlVMNHRsbE01WjFDM240QVBIOFI3RTdrdGdMcWtOdE5SY2V4Y08wZjEyc3BrejJaNVJycHJuMlo5QThxNlJacGZsb3djREVCV2tjUkFOMWJTaUxTTW9KZV9IRW5MbnV6d01pZGZFaV9Ka3c?oc=5"
+      "source": "The New York Times",
+      "title": "CPI Live Updates: Inflation Persists in U.S. Economy - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQVpwcENQUHRhMFlZU2YwaTBFMUhNejZDd3lWc0kyWWcxZVlPTUs4Z2NWUkpMZUFlckdoQUR1SXVfLWFIWFZ0dGVvMndxd3pqelFHRnJMT29LRkdaOVJEUk96YVlCWGkwRnMzVVp2ZTV5b29uSnZoT01zY2hPSWhCckRSaw?oc=5"
     },
     {
       "category": "ENVIRON",
