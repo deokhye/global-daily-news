@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-11T10:00:50.116888+09:00",
-  "generated_at_display": "2026-11-11 10:00 KST",
+  "generated_at": "2026-11-12T11:07:50.417972+09:00",
+  "generated_at_display": "2026-11-12 11:07 KST",
   "exchange_rate": {
-    "current_rate": 1337.3800048828125,
+    "current_rate": 1333.280029296875,
     "source": "Yahoo Finance",
-    "change_pct": -0.48,
+    "change_pct": -0.64,
     "history_labels": [
       "12월",
       "1월",
@@ -31,30 +31,30 @@
       1377.11,
       1350.5,
       1324.52,
-      1337.38
+      1333.28
     ]
   },
   "headlines": [
     {
       "category": "POLITICS",
       "color": "blue",
-      "source": "news8000.com",
-      "title": "Could Democrats change how Americans vote for president? - news8000.com",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNOW1lSmdWZnNHUzhIMnpjRHpKQWhmS1dsV2VJRHhKYXZGWDZNOGY1d2VTU1FGWU5aUXlIcTByVGpSaWdHVFhhX2RzdXNJaGp3M29uY1N6WGlkZXRUWUFHdDlKUzNPT0pNVVlQaDUwdzNZWlJQeUxqTHJOSklZdFRxX1FESVlaSHRKZFZOaG96QU1nRk1rT0dXNW5meGRfWGttX09jUUdaek1tM2dtVEJNa3lqaHo3S2RDWm1JV1lsM3FHMEFDVXk3ZTBOOXlUak9qQjlVLW9wRllyZjZzUG91NXQ4TXMxOVVkeVFmOF8tc3dPelpV?oc=5"
+      "source": "Economist Intelligence Unit",
+      "title": "US midterms: assessing the results and implications - Economist Intelligence Unit",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUl9MQXpoQnNsYzg5cUFqeloydXlDUmpiU2JLXzdEZXJpTkJMbWtVbnVid1V6ci0zOHpKdG9UdkhIdkJMTHVsS0Q1eWhWOG1CY0dxdF9CSFhLcm9mQlo1NDVUMlpRS1JHNTRkRXBOUjJ3QnR3bzFkaV8wTGFaM3RhRkJrTWJuUjdQdXJlR3Z5SXZqZW1sbGVB?oc=5"
     },
     {
       "category": "ECONOMY",
       "color": "green",
-      "source": "The New York Times",
-      "title": "CPI Live Updates: Inflation Persists in U.S. Economy - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQVpwcENQUHRhMFlZU2YwaTBFMUhNejZDd3lWc0kyWWcxZVlPTUs4Z2NWUkpMZUFlckdoQUR1SXVfLWFIWFZ0dGVvMndxd3pqelFHRnJMT29LRkdaOVJEUk96YVlCWGkwRnMzVVp2ZTV5b29uSnZoT01zY2hPSWhCckRSaw?oc=5"
+      "source": "Vanguard Corporate",
+      "title": "Our economic outlook for the United States - Vanguard Corporate",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPS09wRWVsVkIyU2pKUERNYzc5TWhiT3VmNkZzZlZzWnFKN29EN0FVNHJQS1dWRWNEdHlMeW1CbkllYzNKMmNucmVyVHh4ak9uSm9pSjV2N1NrcUpxT0Etd2oxb1JDZEZ6UzNDV1R1MkgwTFl1UDhycTBLWUhKcWFJbm9Dam9KajEtOXpoajR2Uml5WXpBYWFn?oc=5"
     },
     {
       "category": "ENVIRON",
       "color": "orange",
-      "source": "PBS",
-      "title": "Democrats plan to challenge Trump's fossil fuel agenda and push clean energy to lower bills - PBS",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeW5uSGhweV8xZVRlaENuaEdudndlRU02YlBvOGVXdmFzVVhwZHJJWW9UZDhDSFFtOEF6TUpSUnZoQ3VmOF94M1JqYl9nZGtWNmt0eFdkVFFnQkRwbnRYWEdZM3RnNWFzS0ZwUXozSkZ5Uzd1R1FqbDVyU2ZOdUx4ZjRUZlFqX2luVEg4d2ppbEd0Y0R5aUYxMnprU3RscHZpVXhWQ01WZVJwaHJRUEVCemFpMTJrYTFIMXhIdVlxeHBYTE5GdmfSAcsBQVVfeXFMUG9yZEUzX0Y2a3JQTmdZMGFxNUFKN2FjcFphRFB5T3lqaFVSZm1XaWJTTXhBaFlqNnRKWDF6U0h2TW0yamZBSDJfV0puRGJDeGJGVzdqZDlZdUJoUGl4ZWZTNFNBX1p0LTM1SGR1N3lRN0NTamlUZ1BaWFd6ZHhzTHZTTUNVYjlqbHBGVG9Ua0dJUkl4YlNWVUMzekdpVl9vbEtsSkpmOVM3VUdOaFJMVnZjOEtqMzJwbTFzVEluTE9UOGxST0Rkd2xSMUU?oc=5"
+      "source": "Idaho State Journal",
+      "title": "Opinion: Countries leading the fight against climate change - Idaho State Journal",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQN2h2UnU1NFpTVUVwUURFV0IxWk96YTRET0pxUHRNaFFVMUYxMkRLOExPMWxrOVhMcEVFRjZwRVp2WjNBYlliYUFWMlVJX2tYTDRteGlWd2pmSjUxc0Zhei1wOU1jZUZpbTF1c0daYmg4ZjA3aDQ3bkNUbnBaaktPM3E4cjQxVTJBTEJDSmx3d0w0VEhBd0NIRFhWTjV4S0V2bVc2TWxEQk1sR08xQ0VYWnFfMUg0UmpQWkJ4eGpOaTR0VWtwZ1o2dXBaUEhTUGVLQjJBODJXYmthemxUa2JxTWcwdnF6SzFhMDFaa0lpS1JURnptTlNoT0RZZzY?oc=5"
     }
   ],
   "hr_trends": [
