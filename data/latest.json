@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-13T10:41:38.991295+09:00",
-  "generated_at_display": "2026-11-13 10:41 KST",
+  "generated_at": "2026-11-14T10:17:28.275216+09:00",
+  "generated_at_display": "2026-11-14 10:17 KST",
   "exchange_rate": {
-    "current_rate": 1331.300048828125,
+    "current_rate": 1333.780029296875,
     "source": "Yahoo Finance",
-    "change_pct": -0.37,
+    "change_pct": -0.19,
     "history_labels": [
       "12월",
       "1월",
@@ -31,16 +31,16 @@
       1377.11,
       1350.5,
       1324.52,
-      1331.3
+      1335.11
     ]
   },
   "headlines": [
     {
       "category": "POLITICS",
       "color": "blue",
-      "source": "LSE Blogs",
-      "title": "After the midterms blue wave America needs to move beyond the language of ideology and towards a Common Good Democracy - LSE Blogs",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZVZFNUFvRUIzMFVEbW1waDZPVlhBbTZISmdOUzRnQzNfQjNIWDI5WldYZG5QZ2NudmtvakJCSTJzUzdvVVNuMTYzOTE2YlBwRXI2TVprMnVKdTZTVTNzOGNJNDVOMW5TSjNkNEkwb052bDd6eXB2OW9BQWF5Z1BCdg?oc=5"
+      "source": "The Christian Science Monitor",
+      "title": "Oligarchy isn’t a bug of our political system. It’s a feature. - The Christian Science Monitor",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMktOYmlfV3B1OElBNFJqRzJLa2dZRzl4YlZYQUczZlNVVkZXQWxvb1hFWi1FVkd6MzJmTTktMHdYN1JaMWIwUnFPbTFuSkFSdFp3RzlpUzFfcnFWZFlUMUlTeV8zdWt6TEJWeUpkcHphMXdIY2VhcXJEZDNIMVJHQVNDNV9TUUFRb0xwMk1qWTlJSmI3RG1pWnVZSl85VHNQSlBDRlowR3o4bl80UC1Fb1k0SEFPS3JS?oc=5"
     },
     {
       "category": "ECONOMY",
@@ -52,9 +52,9 @@
     {
       "category": "ENVIRON",
       "color": "orange",
-      "source": "The Washington Post",
-      "title": "Democrats won big. Does that mean climate is back on the agenda? - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMWtwX1NpSzFNbGIxQTBuU2RpdW5lMWpRMWdTSVVOdEo4RUJ2WkotTzFNcXZZRWkxNlJpbWlqLUE4MTdnS0lHQVY1OFVtdFZETVdUSjlLZGlKUGZFZmZRWUlUVV96WDBQakxDcXhpd3YzTmdwakZFbFFpVHoyY1E5dVFFVFQ5N0RPdWFoWDFSd0hBOWJ4c1BfY2dzWEZZRlRMT1p5eGNsOFVrck50eGJhZkpqUjVOTng2Q1E?oc=5"
+      "source": "Yale E360",
+      "title": "Countries Growing More Ambitious on Climate, Despite U.S. Retreat - Yale E360",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5BaHo1eGdYdDJWNHVUY3NId0FCUkZwR2JVTWpUWEtLZnBfVng5T3o4QU5hWjh0VlJ6ZE8zelppcFVzNG1HbG1hQlRmSTJoV3VIdThibjRlMWphVVA5bkhz?oc=5"
     }
   ],
   "hr_trends": [
