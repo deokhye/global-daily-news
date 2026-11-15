@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-14T10:17:28.275216+09:00",
-  "generated_at_display": "2026-11-14 10:17 KST",
+  "generated_at": "2026-11-15T09:45:59.508125+09:00",
+  "generated_at_display": "2026-11-15 09:45 KST",
   "exchange_rate": {
-    "current_rate": 1333.780029296875,
+    "current_rate": 1336.199951171875,
     "source": "Yahoo Finance",
-    "change_pct": -0.19,
+    "change_pct": 0.18,
     "history_labels": [
       "12월",
       "1월",
@@ -31,30 +31,30 @@
       1377.11,
       1350.5,
       1324.52,
-      1335.11
+      1336.2
     ]
   },
   "headlines": [
     {
       "category": "POLITICS",
       "color": "blue",
-      "source": "The Christian Science Monitor",
-      "title": "Oligarchy isn’t a bug of our political system. It’s a feature. - The Christian Science Monitor",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMktOYmlfV3B1OElBNFJqRzJLa2dZRzl4YlZYQUczZlNVVkZXQWxvb1hFWi1FVkd6MzJmTTktMHdYN1JaMWIwUnFPbTFuSkFSdFp3RzlpUzFfcnFWZFlUMUlTeV8zdWt6TEJWeUpkcHphMXdIY2VhcXJEZDNIMVJHQVNDNV9TUUFRb0xwMk1qWTlJSmI3RG1pWnVZSl85VHNQSlBDRlowR3o4bl80UC1Fb1k0SEFPS3JS?oc=5"
+      "source": "The New York Times",
+      "title": "Trump Kept Out of Sight as F.A.A. Issued Flight Ground Stop - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSWdETG85RE9IbWFnRl9RSUFLOG1DU1dwekRIR1doWGJhdVNEZUNldEFWN2czSnBEdzFjWlRvMmpaMTc3VDdncVNVOUw5bGJGMUdRcW9aUTczNEZfVmZGZEtnN1RUdnhJdVNPZDdVNlhjMS0xZlRNdGoxV3BFbHVDbDVlLUo5aFVZei1EUDg3MFVWbnhj?oc=5"
     },
     {
       "category": "ECONOMY",
       "color": "green",
-      "source": "Vanguard Corporate",
-      "title": "Our economic outlook for the United States - Vanguard Corporate",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPS09wRWVsVkIyU2pKUERNYzc5TWhiT3VmNkZzZlZzWnFKN29EN0FVNHJQS1dWRWNEdHlMeW1CbkllYzNKMmNucmVyVHh4ak9uSm9pSjV2N1NrcUpxT0Etd2oxb1JDZEZ6UzNDV1R1MkgwTFl1UDhycTBLWUhKcWFJbm9Dam9KajEtOXpoajR2Uml5WXpBYWFn?oc=5"
+      "source": "The New York Times",
+      "title": "Inflation Continues to Challenge U.S. Economy - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQVpwcENQUHRhMFlZU2YwaTBFMUhNejZDd3lWc0kyWWcxZVlPTUs4Z2NWUkpMZUFlckdoQUR1SXVfLWFIWFZ0dGVvMndxd3pqelFHRnJMT29LRkdaOVJEUk96YVlCWGkwRnMzVVp2ZTV5b29uSnZoT01zY2hPSWhCckRSaw?oc=5"
     },
     {
       "category": "ENVIRON",
       "color": "orange",
-      "source": "Yale E360",
-      "title": "Countries Growing More Ambitious on Climate, Despite U.S. Retreat - Yale E360",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5BaHo1eGdYdDJWNHVUY3NId0FCUkZwR2JVTWpUWEtLZnBfVng5T3o4QU5hWjh0VlJ6ZE8zelppcFVzNG1HbG1hQlRmSTJoV3VIdThibjRlMWphVVA5bkhz?oc=5"
+      "source": "Yale Climate Connections",
+      "title": "12 free reports about climate change for COP31 - Yale Climate Connections",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWkJKRkVRWTlMRW9ibnRhc2phWTAyWjJhcjRoamtjcnM1TURhSFQ2cmIwaHNaQWFyaG5VeTRRSWtnMTVObGw4LURTVzZUbWVVN2ZJV3QxczlSdWdCaFVzai01QmRkbi1QbjdiQUpBRUNyaGU3YkpEU1doY2pZdHZ0ZkhvLS1oVzJiV1dWLU9FdGFoRDZP?oc=5"
     }
   ],
   "hr_trends": [
