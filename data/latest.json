@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-15T09:45:59.508125+09:00",
-  "generated_at_display": "2026-11-15 09:45 KST",
+  "generated_at": "2026-11-16T09:45:51.089759+09:00",
+  "generated_at_display": "2026-11-16 09:45 KST",
   "exchange_rate": {
-    "current_rate": 1336.199951171875,
+    "current_rate": 1333.6300048828125,
     "source": "Yahoo Finance",
-    "change_pct": 0.18,
+    "change_pct": -0.01,
     "history_labels": [
       "12월",
       "1월",
@@ -31,30 +31,30 @@
       1377.11,
       1350.5,
       1324.52,
-      1336.2
+      1333.63
     ]
   },
   "headlines": [
     {
       "category": "POLITICS",
       "color": "blue",
-      "source": "The New York Times",
-      "title": "Trump Kept Out of Sight as F.A.A. Issued Flight Ground Stop - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSWdETG85RE9IbWFnRl9RSUFLOG1DU1dwekRIR1doWGJhdVNEZUNldEFWN2czSnBEdzFjWlRvMmpaMTc3VDdncVNVOUw5bGJGMUdRcW9aUTczNEZfVmZGZEtnN1RUdnhJdVNPZDdVNlhjMS0xZlRNdGoxV3BFbHVDbDVlLUo5aFVZei1EUDg3MFVWbnhj?oc=5"
+      "source": "Financial Times",
+      "title": "From culture war to class war: US Democrats ditch woke politics - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeTJKWlVUanhjR2sxYWlkcFBTUUF3emVLWkV3ZktNY013X1p1MzRldTR0cWkyUUVMaF9CdHN4Q1lIV0dfZXB3UG9mbDNadUtLU2htVm53TmhXZUFLM3ZJV2swSzM0TzVDRS1pTWhZNGpBclNqa0pNSG1ibUFCVGFfVUp3Zm8?oc=5"
     },
     {
       "category": "ECONOMY",
       "color": "green",
-      "source": "The New York Times",
-      "title": "Inflation Continues to Challenge U.S. Economy - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQVpwcENQUHRhMFlZU2YwaTBFMUhNejZDd3lWc0kyWWcxZVlPTUs4Z2NWUkpMZUFlckdoQUR1SXVfLWFIWFZ0dGVvMndxd3pqelFHRnJMT29LRkdaOVJEUk96YVlCWGkwRnMzVVp2ZTV5b29uSnZoT01zY2hPSWhCckRSaw?oc=5"
+      "source": "NerdWallet",
+      "title": "U.S. Inflation Rate Is 3.7%: Why It Matters - NerdWallet",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Za3phOE0tNW9aSnJBY1BuMVVxTW43ZzhnUWVqUlE0cWxLNnktQjRiZC1nR0VwVnVHaDdxRUIwRGNjMDZuVW5CVFZPV1BtUjJhSlZYV3FnTUU0V2doMzRB?oc=5"
     },
     {
       "category": "ENVIRON",
       "color": "orange",
-      "source": "Yale Climate Connections",
-      "title": "12 free reports about climate change for COP31 - Yale Climate Connections",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWkJKRkVRWTlMRW9ibnRhc2phWTAyWjJhcjRoamtjcnM1TURhSFQ2cmIwaHNaQWFyaG5VeTRRSWtnMTVObGw4LURTVzZUbWVVN2ZJV3QxczlSdWdCaFVzai01QmRkbi1QbjdiQUpBRUNyaGU3YkpEU1doY2pZdHZ0ZkhvLS1oVzJiV1dWLU9FdGFoRDZP?oc=5"
+      "source": "Yale E360",
+      "title": "Countries Growing More Ambitious on Climate, Despite U.S. Retreat - Yale E360",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5BaHo1eGdYdDJWNHVUY3NId0FCUkZwR2JVTWpUWEtLZnBfVng5T3o4QU5hWjh0VlJ6ZE8zelppcFVzNG1HbG1hQlRmSTJoV3VIdThibjRlMWphVVA5bkhz?oc=5"
     }
   ],
   "hr_trends": [
