@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-16T09:45:51.089759+09:00",
-  "generated_at_display": "2026-11-16 09:45 KST",
+  "generated_at": "2026-11-17T12:25:10.269520+09:00",
+  "generated_at_display": "2026-11-17 12:25 KST",
   "exchange_rate": {
-    "current_rate": 1333.6300048828125,
+    "current_rate": 1339.0799560546875,
     "source": "Yahoo Finance",
-    "change_pct": -0.01,
+    "change_pct": 0.44,
     "history_labels": [
       "12월",
       "1월",
@@ -31,16 +31,16 @@
       1377.11,
       1350.5,
       1324.52,
-      1333.63
+      1339.08
     ]
   },
   "headlines": [
     {
       "category": "POLITICS",
       "color": "blue",
-      "source": "Financial Times",
-      "title": "From culture war to class war: US Democrats ditch woke politics - Financial Times",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeTJKWlVUanhjR2sxYWlkcFBTUUF3emVLWkV3ZktNY013X1p1MzRldTR0cWkyUUVMaF9CdHN4Q1lIV0dfZXB3UG9mbDNadUtLU2htVm53TmhXZUFLM3ZJV2swSzM0TzVDRS1pTWhZNGpBclNqa0pNSG1ibUFCVGFfVUp3Zm8?oc=5"
+      "source": "Good Authority",
+      "title": "Chalkboard Politics: What just happened in Brazil and the U.S.? 🎧 - Good Authority",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOODQwOHZSdVF2N0tOX1pZMjl2MlpYS0ZWYUNZOE9LSGxVdXZjQkNudFk2YUFKcFg4S19iZ3ZDV2d3Nm1BLUQzVjlQNFRIdWNDUnNveUpPSEoyaFptTVNaRDVxWU1nUm5LOVhjMmU0OEp3eGlUTGJfcHpwRmpUbEZUNFMxTHVzM1RFaTdyZjkwUTB6X0VidXc?oc=5"
     },
     {
       "category": "ECONOMY",
@@ -52,9 +52,9 @@
     {
       "category": "ENVIRON",
       "color": "orange",
-      "source": "Yale E360",
-      "title": "Countries Growing More Ambitious on Climate, Despite U.S. Retreat - Yale E360",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5BaHo1eGdYdDJWNHVUY3NId0FCUkZwR2JVTWpUWEtLZnBfVng5T3o4QU5hWjh0VlJ6ZE8zelppcFVzNG1HbG1hQlRmSTJoV3VIdThibjRlMWphVVA5bkhz?oc=5"
+      "source": "Southernminn.com",
+      "title": "Walz touts Minnesota climate policies at UN summit in Turkey - Southernminn.com",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNNXh6X2lKaDFlaUhmeFotcWZwS3ZWRUlZSGgwZVV3aFhKaENwRHp2bDNyTERHWVRxVnpCZGZLdlJnUDZmTm4yQXl1YXVxWjBiRE45eEVGQ1FueHB6OHBzUkwzV2xIcXNieUFnTWhEdGk2TWNsTXFqX1o0VWtUYUxQamdGMGlaRUFhaldKQmduTnZrR1YyNVZTVmVaZFFIOGpJenJUWnM4blR3a0F0dnVXcnNNenVPNUVnc21vZnBUc2xQaU5WbWtuM012QnJ4cFN6ckVuM3p4ZER2VUhINlVPbmFvQkk1MWhSUENibGdzaXRVbjRmNTluNm1WbDQ4Um1V?oc=5"
     }
   ],
   "hr_trends": [
