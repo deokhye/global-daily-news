@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-17T12:25:10.269520+09:00",
-  "generated_at_display": "2026-11-17 12:25 KST",
+  "generated_at": "2026-11-18T11:44:21.758813+09:00",
+  "generated_at_display": "2026-11-18 11:44 KST",
   "exchange_rate": {
-    "current_rate": 1339.0799560546875,
+    "current_rate": 1329.4300537109375,
     "source": "Yahoo Finance",
-    "change_pct": 0.44,
+    "change_pct": -0.47,
     "history_labels": [
       "12월",
       "1월",
@@ -31,16 +31,16 @@
       1377.11,
       1350.5,
       1324.52,
-      1339.08
+      1329.43
     ]
   },
   "headlines": [
     {
       "category": "POLITICS",
       "color": "blue",
-      "source": "Good Authority",
-      "title": "Chalkboard Politics: What just happened in Brazil and the U.S.? 🎧 - Good Authority",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOODQwOHZSdVF2N0tOX1pZMjl2MlpYS0ZWYUNZOE9LSGxVdXZjQkNudFk2YUFKcFg4S19iZ3ZDV2d3Nm1BLUQzVjlQNFRIdWNDUnNveUpPSEoyaFptTVNaRDVxWU1nUm5LOVhjMmU0OEp3eGlUTGJfcHpwRmpUbEZUNFMxTHVzM1RFaTdyZjkwUTB6X0VidXc?oc=5"
+      "source": "CNN",
+      "title": "Exclusive: Highly classified US national security communications network goes down, sources say - CNN",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQ0tpUkRvaGcwWEh5T0JlUzZzMEdTakNIenJjdjltc1dLb25pdlgxQks1aExOSTQ5UDI4ZVEwTjZDWm5nRk1XTkkxM0tUQVFIS19JSGNsblFxcW9jT0ZPb3U2QmxnVmh6b1hGbjFRcU1SaDRza0lzcEFGRWNMUjdSX1QtVDNTdnRMeUJRb0FRbk5kc1MwVnVTNWJQdXBvM3d2VXhVQzZtenJ5U0I4?oc=5"
     },
     {
       "category": "ECONOMY",
@@ -52,9 +52,9 @@
     {
       "category": "ENVIRON",
       "color": "orange",
-      "source": "Southernminn.com",
-      "title": "Walz touts Minnesota climate policies at UN summit in Turkey - Southernminn.com",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNNXh6X2lKaDFlaUhmeFotcWZwS3ZWRUlZSGgwZVV3aFhKaENwRHp2bDNyTERHWVRxVnpCZGZLdlJnUDZmTm4yQXl1YXVxWjBiRE45eEVGQ1FueHB6OHBzUkwzV2xIcXNieUFnTWhEdGk2TWNsTXFqX1o0VWtUYUxQamdGMGlaRUFhaldKQmduTnZrR1YyNVZTVmVaZFFIOGpJenJUWnM4blR3a0F0dnVXcnNNenVPNUVnc21vZnBUc2xQaU5WbWtuM012QnJ4cFN6ckVuM3p4ZER2VUhINlVPbmFvQkk1MWhSUENibGdzaXRVbjRmNTluNm1WbDQ4Um1V?oc=5"
+      "source": "Flat Hat News",
+      "title": "Climate action on Capitol Hill: Citizens' Climate Lobby advocates for environmental policy one legislator at a time - Flat Hat News",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNd2tZTkxlczN0Nm1rajdpMzRlaS1iXzhHY2M1U1AxUjFKcDhGUzZZTUIyVEJ1U1NuOThRcnlYVHI3ZUlYMHJ0MmE3TXlrYmlIMTRWb2tYUGx0M3J6Y0tibGVRMUFUS1NuWkNVUUZOcHFYWk9xRk1ZLWpRSGpDSVJyVV9CNHg4ME9SRWdFdWwtRTJmTnJGaVAyaG10OGJCbFhBeGtzWUd3c1RyTHJyLWVGX1JoQU9QamNMRjVPaDZ1VHdOa05ReEVsdlM2dE8?oc=5"
     }
   ],
   "hr_trends": [
