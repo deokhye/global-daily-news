@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-22T09:57:54.642930+09:00",
-  "generated_at_display": "2026-11-22 09:57 KST",
+  "generated_at": "2026-11-23T10:24:42.516555+09:00",
+  "generated_at_display": "2026-11-23 10:24 KST",
   "exchange_rate": {
-    "current_rate": 1334.7900390625,
+    "current_rate": 1344.8800048828125,
     "source": "Yahoo Finance",
-    "change_pct": 0.33,
+    "change_pct": 0.76,
     "history_labels": [
       "12월",
       "1월",
@@ -31,7 +31,7 @@
       1377.11,
       1350.5,
       1324.52,
-      1346.13
+      1344.88
     ]
   },
   "headlines": [
@@ -45,25 +45,25 @@
     {
       "category": "ECONOMY",
       "color": "green",
-      "source": "USDA (.gov)",
-      "title": "Ag and Food Statistics: Charting the Essentials - Food Prices and Spending - USDA (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMzRpbjI2NjVzQ2hVX2lCM1RaQnhZNzkzdkw2YjZCdTR4cjlUb0hvRk9MeEpkOHAtaklkclhXbUt6d1YxUUxHeHlOeExwOFZhY0R0QUhaQXlfdHl6UnZoTWNSQy1LVVNucUQ3eWdtQTdvNjg5ajJ0VF93LS1GWFhWbG91alMxQ2Zkcm90cW93Y0hoTVBLQWdhbHJmRlRlMlhGMmkyS25fV1VERDNnVXc?oc=5"
+      "source": "NerdWallet",
+      "title": "How Is the Economy Doing Right Now? - NerdWallet",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1nRU1VZTZjeXA1TTdRU1g5d1Zha0RvU1phVU1LaGIwVmN6Wk5wTk5WRG5fTHMxZUZCZkdrb0oyVk1DU1VhM05Felp2WXNmbHktdzEwSTNYOTlTWmNtMmYyMjV6RkFTYUYwSVEtRWZn?oc=5"
     },
     {
       "category": "ENVIRON",
       "color": "orange",
-      "source": "The Washington Post",
-      "title": "Congress may soon pass the biggest environmental bill in decades. Here’s why. - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeWJLcUNoak5COXBIcXJxa1lLX3VJazBpdDNYUWY0aW50cWdObnhQZDNoT1EzU1VQaFFiN1FZT09GVDN4QnlzVXNwM01iNW1zbUlqc1NFRDJHUjBmaE1LN2VVQWtoZ2l2T09CU0thOTNWX1kxcUVtWW5Ka0xKcHFlTFhCbG5DTGlfVlZPU0lrcXg4UDJkSTBXLV9ibHprWkFkN1FiY3kwQ1ltZw?oc=5"
+      "source": "Legal 500",
+      "title": "Climate Law Matters: Energy & Climate Newsletter - October 2026 - Legal 500",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQaVIzdUEtT2JUNUFuLUdUY3RwTnRNRmpvNU1MeHFqUE8yLW5mRW5haXpacHBmT3BqOTBBbDBjNFhMOGVlMm9BS3U1N1Fua1JIbF9vZHB2ejhBUjJmWXh3dXpqR3JmMi11WXhnbzMwMGo0Sld5UWJPS3NZTHpCLVBfS0o0c3c4R1BxUklSVnh1U3VfWEtDMnpyN3Nrb0xIc1lGNXlaeEx6V1FiaWpXVG1CUWF1SHdDV1FxOEt3Yzh6VE5ZbG0w?oc=5"
     }
   ],
   "hr_trends": [
     {
       "tag": "지역 노동시장",
       "color": "teal",
-      "title": "Tennessee Maintains Low…",
-      "desc": "Tennessee Maintains Low 3.4% Unemployment Rate",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZFA3NDRBNFNweFVmTUZGUUhhMG14RnVyWG8yVHBSZTZvemRiYkY2YXhnTm45OUg2YVh1bDNsOUNVVHRPYmx0ZTd3S1E5SkhmSkhja0w2anFsOERCUWFOdXBaNFBlMk9KUGoteDF0em1UdmlUcTAxeHNGQ3Fhcm9OWkpLTzUyQlJ2bWFVbDQ3NUlTWXpfTWppeGkxd2hJZTFmSWtHdjh3eU4yVm5LRDI2cGQ3cw?oc=5"
+      "title": "Tennessee October 2026 u…",
+      "desc": "Tennessee October 2026 unemployment rate holds steady",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVS16WS1hdWI5b3dVMG1WVDlLVGtwUktTZkdjc0JMSUg0X3NPRnV3LXlxWlZIc2dPdjNULVRRRDY1bElHcFBGSEdnTkJpLWJxSkx3T0pMZ2dXZkIwb3dVLXBDNkFtRENVNlkwQzJsT2F0bGJTd0Jla2xEZC1BTjJHQ1o2UzktRlY3eE1KclpB?oc=5"
     }
   ],
   "country_profile": {
