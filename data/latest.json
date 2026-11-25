@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-24T14:08:34.087440+09:00",
-  "generated_at_display": "2026-11-24 14:08 KST",
+  "generated_at": "2026-11-25T12:57:05.712924+09:00",
+  "generated_at_display": "2026-11-25 12:57 KST",
   "exchange_rate": {
-    "current_rate": 1341.97998046875,
+    "current_rate": 1343.0999755859375,
     "source": "Yahoo Finance",
-    "change_pct": -0.17,
+    "change_pct": 0.16,
     "history_labels": [
       "12월",
       "1월",
@@ -31,7 +31,7 @@
       1377.11,
       1350.5,
       1324.52,
-      1341.98
+      1343.1
     ]
   },
   "headlines": [
@@ -39,15 +39,15 @@
       "category": "POLITICS",
       "color": "blue",
       "source": "The New York Times",
-      "title": "U.S. Tracked Alice Huang’s Contacts With China Spy Agency During Nvidia Affair - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVzVyaXo0aXJLT2VuWXdDRlJIWEw1RDBlTWtxcG9RN2ZydEN0T2U5dnlCRnJXWFVKeVZ2X2JXUmpHUTQ5d0tCNHFGc0VKZHE4TFdVQXFId1k5YkRGU29pdF9VM3FES1ZDbEItTW9rQWRYQTVTakxtMG1uVnZwV1ZTRmc4XzV0MmtVX2NWYUhvWHM?oc=5"
+      "title": "Abrego Garcia Will Voluntarily Leave U.S., Ending 20-Month Legal Ordeal - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQ3luSEIwNEp4bmdNMHdYRVllVUJabUJwOVRQWkZ6OHMyUWhBa2ZEZXRqY1kxc0publ9kZ3hZX2M3OTJydklOeXZXMzBXZGRRem5nbUl3d3Y1SHE1aDgtbGVjdDQ3dmpWZm9NRnN1UnU5U0hLTl83VnpyQ0gtWE9fTWJOdUk0cUhMNDVF?oc=5"
     },
     {
       "category": "ECONOMY",
       "color": "green",
-      "source": "Daily Sabah",
-      "title": "Inflation, economic growth, mood of US consumers in focus this week | Daily Sabah - Daily Sabah",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUlc5LUVZOTZyMzdBLVg5dFNXTG1DRnJDY2hxdVpVZzNwV0YzMXBTOHZvV1dHOWE3SkV3QlRPYmhGUTJJVGpCeTdkbTlLZ3BWVlZ2bmNJMHdSY0tYcExaVnh5RUVra0ZTd3FzdzA3TWFfUTJKLTZQTGVTYU5GVi1qelJoclVhdERSa2p4eWF2OWdOcTJSbGtPY3M2OTNOb29GTFU3M0xEY2FocmtqcnfSAbMBQVVfeXFMT0lZNFJHdGR3TUx4MjZXR1hNazZfX0xZZ1JYYkRLa0dKNDFwcS1TVnNCeGZwMktDM3ZHUFFrdlNtNnYtUEkzUXFsbjFoV0hmekE0bExZU0ZIdnN2cFZYNkJpenpYQmZObmlNbTJPOENFcGFMSVU1M25mVFY0NGt2RTZ2emhodHBvQ3FlV1NNS3RmQ3RNRm1LRGUxa1I5ZjJwdzhqZzA3NTBLV0lIeHRFS2dMa3M?oc=5"
+      "source": "Fortune",
+      "title": "Bill Ackman says the U.S. economy could be headed for another recession—and is blaming Kevin Warsh’s Fed - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQN3VCOE5ObEdOWFpHOUdKMmRIa2RKNjdkVEFia3VpTzFLSlZyZkhoaVVhSDNZQVdwMElQNG9ya0ZFZXhFcTFnS0ZkdDZ6T1hWYWRVQTV1V0diTzVjSldtQmFmdmZFQzllQjBHNVJCcFhnSXNRZTlqZXVLS0JvQUZaWEtndFY5QU5aV0VRN1VMdw?oc=5"
     },
     {
       "category": "ENVIRON",
@@ -61,9 +61,9 @@
     {
       "tag": "지역 노동시장",
       "color": "teal",
-      "title": "Tennessee Maintains Low…",
-      "desc": "Tennessee Maintains Low 3.4% Unemployment Rate",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZFA3NDRBNFNweFVmTUZGUUhhMG14RnVyWG8yVHBSZTZvemRiYkY2YXhnTm45OUg2YVh1bDNsOUNVVHRPYmx0ZTd3S1E5SkhmSkhja0w2anFsOERCUWFOdXBaNFBlMk9KUGoteDF0em1UdmlUcTAxeHNGQ3Fhcm9OWkpLTzUyQlJ2bWFVbDQ3NUlTWXpfTWppeGkxd2hJZTFmSWtHdjh3eU4yVm5LRDI2cGQ3cw?oc=5"
+      "title": "Tennessee Unemployment R…",
+      "desc": "Tennessee Unemployment Rate Holds Steady at 3.4% for Fourth…",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWmxYTl90OFVvYVVyaHFhcmhEcFQ1X25qZ2d0QU9wZEZ5TFNVakhRaGdoZ05rVk5QS3NMdktZcVZSSEVpSDhVTTdFVVJZeGFraFRYVjNvbC1ZSkNkSjZ5SlNUc3dNdEdKNVBaVWVHRks0MnNGN2Iwa0pFUVktRlEtdEJrbFYyOUZNcUJZcjk1RFJNSVhwOUt0eGRPS3Qtd0JhU2xzT3NHeHVkUE0xQWxR?oc=5"
     }
   ],
   "country_profile": {
