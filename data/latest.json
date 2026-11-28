@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-27T12:29:26.021197+09:00",
-  "generated_at_display": "2026-11-27 12:29 KST",
+  "generated_at": "2026-11-28T12:05:46.964139+09:00",
+  "generated_at_display": "2026-11-28 12:05 KST",
   "exchange_rate": {
-    "current_rate": 1340.97998046875,
+    "current_rate": 1343.530029296875,
     "source": "Yahoo Finance",
-    "change_pct": -0.15,
+    "change_pct": 0.04,
     "history_labels": [
       "12월",
       "1월",
@@ -31,7 +31,7 @@
       1377.11,
       1350.5,
       1324.52,
-      1340.98
+      1333.0
     ]
   },
   "headlines": [
@@ -39,15 +39,15 @@
       "category": "POLITICS",
       "color": "blue",
       "source": "The New York Times",
-      "title": "Bipartisan Desire to Regulate A.I. Faces Obstacles in Congress - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdm5vVlNYSU1RdnJub1pDc2hpOHhGZWNRWDBubnlHTURaQ3FHSEdXcjFyVkdkLTJyeWJWWHNzU3F0ckdTcHBqcUhtR2tyd3ZXSDVVWHlEVUctRThyLUFmS1FtWnpUYTlKWF9LOGRhR2VobFVVQy0xY0szVEpheHBhZm9kVHhvTjNW?oc=5"
+      "title": "Supreme Court Rulings Cheered by Republicans Wound Up Hurting Them - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQa1h6S2owdkRyNUYtZjlkb2xrSTdIeGVhMUZQQWM3NFpCa2JvZE1VQ1JGUjVWSWFYNk5ZZmVURV9meERmNGdJNFJvNTB6ZzhtNU9jOHhvME1fS3ZHU1lCeXpBa3NpUndiZm5HVWhMOW9vRzZrNER1NUFlSTd6Ymo1YzduVU5ONlJRTk10Smt5eTZyR1U?oc=5"
     },
     {
       "category": "ECONOMY",
       "color": "green",
-      "source": "Reuters",
-      "title": "US economy roars ahead in third quarter, inflation remains high in October - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNalBrRjhRWHdhRDduMzduLU1kN1lGVFpzNFllX0RzdjJXMjdtajRZS1l1dms2MFJFbkhJQmx3Qzgydi1nTTJnQ1JPLUtoa1R5LWZjWjItUXJhXzhoZG51NU9ENzVBQjVSZWFpdHlqbV9PSkVncWtjUlptdXhjd0ZKRXZ6d2Y1dw?oc=5"
+      "source": "NerdWallet",
+      "title": "U.S. Inflation Rate Is 3.7%: Why It Matters - NerdWallet",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Za3phOE0tNW9aSnJBY1BuMVVxTW43ZzhnUWVqUlE0cWxLNnktQjRiZC1nR0VwVnVHaDdxRUIwRGNjMDZuVW5CVFZPV1BtUjJhSlZYV3FnTUU0V2doMzRB?oc=5"
     },
     {
       "category": "ENVIRON",
